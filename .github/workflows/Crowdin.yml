@@ -43,7 +43,7 @@ jobs:
           commit_message: "trans(Crowdin): 翻譯更新"
 
           source: "*/*.pot"
-          translation: "/%original_path%/%locale_with_underscore%.po"
+          translation: "/%original_path%/%locale_with_underscore%.%file_extension%"
 
           project_id: ${{ secrets.CROWDIN_PROJECT_ID }}
           token: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}

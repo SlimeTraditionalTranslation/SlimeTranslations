@@ -43,13 +43,13 @@ jobs:
           commit_message: "trans(Crowdin): 翻譯更新"
 
           source: "*/*.pot"
-          translation: "/%original_path%/%locale_with_underscore%.%file_extension%"
+          translation: "/%original_path%/%locale_with_underscore%.po"
 
           project_id: ${{ secrets.CROWDIN_PROJECT_ID }}
           token: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}
           github_user_name: EfinaBot
           github_user_email: 71629264+EfinaBot@users.noreply.github.com
-          # gpg_private_key: ${{ secrets.GPG_PRIVATE_KEY }}
-          # gpg_passphrase: ${{ secrets.GPG_PASSPHRASE }}
+          gpg_private_key: ${{ secrets.GPG_PRIVATE_KEY }}
+          gpg_passphrase: ${{ secrets.GPG_PASSPHRASE }}
         env:
           GITHUB_TOKEN: ${{ secrets.GH_EFINABOT }}

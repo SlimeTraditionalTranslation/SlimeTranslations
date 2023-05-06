@@ -31,17 +31,25 @@ jobs:
           upload_sources: true
           upload_translations: true
           download_translations: true
+
           localization_branch_name: crowdin_translations
+
           create_pull_request: true
+
           pull_request_title: "ci(Translation): 自動翻譯更新（Crowdin）"
           pull_request_body: "透過 [Crowdin GH Action](https://github.com/crowdin/github-action) 所自動建立的合併請求。"
           pull_request_base_branch_name: "main"
+
           commit_message: "trans(Crowdin): 翻譯更新"
+
           source: "*/*.pot"
           translation: "/%original_path%/%locale_with_underscore%.po"
+
           project_id: ${{ secrets.CROWDIN_PROJECT_ID }}
           token: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}
           github_user_name: EfinaBot
           github_user_email: 71629264+EfinaBot@users.noreply.github.com
+          gpg_private_key: ${{ secrets.GPG_PRIVATE_KEY }}
+          gpg_passphrase: ${{ secrets.GPG_PASSPHRASE }}
         env:
           GITHUB_TOKEN: ${{ secrets.GH_EFINABOT }}

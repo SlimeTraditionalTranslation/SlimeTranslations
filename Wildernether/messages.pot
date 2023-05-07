@@ -1,0 +1,841 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-07 19:12+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/main/java/me/schntgaispock/wildernether/Wildernether.java:57
+msgid "SlimeHUD was found on this server!"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/Wildernether.java:58
+msgid "Setting up Wildernether for SlimeHUD..."
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/Wildernether.java:61
+msgid ""
+"This server is using an old version of SlimeHUD that is incompatitable with "
+"this version of Wildernether."
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/Wildernether.java:62
+msgid "Please update SlimeHUD to version 1.2.0 or higher!"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/integration/SlimeHUDSetup.java:12
+msgid "&7| Mode: "
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:69
+msgid "Materials"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:74
+msgid "Tools"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:79
+msgid "Plants"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:84
+msgid "Cuisine"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:89
+msgid "Brews"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:94
+msgid "Any Hoglin meat"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:99
+msgid "&bBreak Nether Plants"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:100
+msgid "&7This resource is obtained by harvesting"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:101
+msgid "&7(breaking) plants in the nether with a"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:102
+msgid "&7scythe. The available plants are Nether Sprouts,"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:103
+msgid "&7Warped Roots, Warped Fungus, Twisting Vines,"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:104
+msgid "&7Crimson Root, Crimson Fungus, Weeping Vines,"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:105
+msgid "&7and Shroomlight"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:110
+msgid "&bBlackstone Stove (Oven)"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:111
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:118
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:127
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:135
+msgid "&7This recipe is crafted using the Blackstone"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:112
+msgid "&7Stove's oven mode. This is the default."
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:117
+msgid "&bBlackstone Stove (Frying)"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:119
+msgid "&7Stove's frying mode. Place a Heavy Weighted"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:120
+msgid "&7Pressure Plate (Iron Pressure Plate) on top"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:121
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:129
+msgid "&7of the stove to use this mode."
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:126
+msgid "&bBlackstone Stove (Pot)"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:128
+msgid "&7Stove's pot mode. Place a Cauldron on top"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:134
+msgid "&bBlackstone Stove (Brewing)"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:136
+msgid "&7Stove's brewing mode. Place a Light Weighted"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:137
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:147
+msgid "&7Pressure Plate (Gold Pressure Plate) on top"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:138
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:148
+msgid "&7of the stove to use this mode. Water Bottles"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:139
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:149
+msgid "&7can be substituted with Cactus Juice."
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:144
+msgid "&bHunting"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:145
+msgid "&7This item is obtained by killing the"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:146
+msgid "&7Specified mob"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:154
+msgid "&fHoglin"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:164
+msgid "Crimson Frame"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:166
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:176
+msgid "A sturdy frame made from the stem of"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:167
+msgid "a large Crimson Fungus"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:174
+msgid "Warped Frame"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:177
+msgid "a large Warped Fungus"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:184
+msgid "Soul Stone"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:186
+msgid "You can hear strange whisperings coming"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:187
+msgid "from deep within"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:194
+msgid "Fungal Iron Scrap"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:196
+msgid "A piece of scrap iron overgrown"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:197
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:209
+msgid "with fungus"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:199
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:211
+msgid "&7&oUsable in Workbench"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:206
+msgid "Fungal Gold Scrap"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:208
+msgid "A piece of scrap gold overgrown"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:219
+msgid "Blackstone Scythe"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:221
+msgid "Its extra-sharp blade makes it perfect"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:222
+msgid "for cutting the tough plants that grow"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:223
+msgid "in the nether"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:230
+msgid "Soul Scythe"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:232
+msgid "Its blade quivers with soft whispers."
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:233
+msgid "If you use this to harvest plants in the"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:234
+msgid "nether, you might discover plants with"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:235
+msgid "secrets to tell!"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:242
+msgid "Nether Composter"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:244
+msgid "Crafted with the wood of the underworld,"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:245
+msgid "it is suitable for breaking down even"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:246
+msgid "the hardiest of plants"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:253
+msgid "Blackstone Stove"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:255
+msgid "Using netherrack, it is able to keep"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:256
+msgid "itself lit forever!"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:264
+msgid "Warped Cactus"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:266
+msgid "A tiny, twisted cactus growing from the"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:267
+msgid "hypha of a warped fungus. Be careful not"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:268
+msgid "to step on it!"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:275
+msgid "Blazesprout"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:277
+msgid "The hypha of a nether fungus has"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:278
+msgid "absorbed some powder from a blaze,"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:279
+msgid "leading to the formation of a fiery"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:280
+msgid "blister."
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:282
+msgid "&7&oUse in the Nether Composter"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:289
+msgid "Nether Tubers"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:291
+msgid "It's a potato."
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:298
+msgid "Crystal Mushroom"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:300
+msgid "An excess of quartz in its surroundings"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:301
+msgid "has given rise to this strange mushroom,"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:302
+msgid "growing crystals of quartz in its cap"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:309
+msgid "Shroomlight Spores"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:311
+msgid "These spores don't appear to glow, unlike"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:312
+msgid "the bulbs that they dropped from."
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:319
+msgid "Warped Rose"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:321
+msgid "This rose's thorns are bigger than its"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:322
+msgid "leaves"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:329
+msgid "Red Carrot"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:331
+msgid "It's red"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:339
+msgid "Crimson Dreadlocks"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:341
+msgid "Each one of these vines is as thick as"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:342
+msgid "your arm..."
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:349
+msgid "Twisted Bean Sprout"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:351
+msgid "High source of fibre!"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:358
+msgid "Red Spider Lily"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:360
+msgid "Its curling petals seem to be grabbing"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:361
+msgid "at you"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:368
+msgid "Warped Lotus"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:370
+msgid "Don't they normally grow on water?"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:378
+msgid "Smoldering Herbs"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:380
+msgid "They don't actually burn"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:387
+msgid "Immolated Vines"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:389
+msgid "Even after being cut from the fungus,"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:390
+msgid "it pulsates like a heart"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:397
+msgid "Octarine Nethercap"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:399
+msgid "A fluorescent greenish-yellow purple"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:406
+msgid "Emerald Firebloom"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:408
+msgid "Its petals undulate like the flames"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:409
+msgid "of a fire"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:418
+msgid "Garden of the Lost Soul"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:419
+msgid "&7Chapter 1"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:421
+msgid "The only refuge in this blazing land"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:422
+msgid "for the adventurer trapped in hell."
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:423
+msgid "He cultivated this garden with the"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:424
+msgid "flora of a peaceful world, escaping"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:425
+msgid "into a transient dream"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:432
+msgid "Tulip of Partings"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:433
+msgid "&7Chapter 2"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:435
+msgid "His oasis, the winds of the wastes"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:436
+msgid "scattered and warped. In the end"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:437
+msgid "the adventurer was left with a single"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:438
+msgid "fragile tulip, the only reminder of"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:439
+msgid "the world from which he came"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:446
+msgid "Bloom of Unheard Cries"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:447
+msgid "&7Chapter 3"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:449
+msgid "Gone was his sanctuary, every last"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:450
+msgid "bloom warped into horror. Fearing the"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:451
+msgid "dangers of staying there, he set out"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:452
+msgid "to find a way home. Alas, his shouts"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:453
+msgid "reached nothing but the domineering"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:454
+msgid "netherrack sky, and the brown sand"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:455
+msgid "dragging down his feet"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:462
+msgid "Blossom of Solitude"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:463
+msgid "&7Chapter 4"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:465
+msgid "After days of walking, the adventurer"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:466
+msgid "could move no longer. He collapsed on the"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:467
+msgid "hard rock, scarlet blood flowing from"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:468
+msgid "festering wounds. No more did he feel the"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:469
+msgid "itch of a stinging scrape, nor the aching"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:470
+msgid "of an empty stomach."
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:477
+msgid "Lament of the Damned"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:478
+msgid "&7Chapter 5"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:480
+msgid "Once fiery brimstone, this land became"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:481
+msgid "overgrown with the twisted forms of flora"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:482
+msgid "that flew on the wind, and mutated with"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:483
+msgid "time. However, no more could his soul be"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:484
+msgid "soothed, for he was damned to this"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:485
+msgid "unknown land for the rest of eternity"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:496
+msgid "Hoglin Spare Rib"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:498
+msgid "A thick cut of meat from the side"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:499
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:509
+msgid "of a hoglin"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:506
+msgid "Hoglin Belly"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:508
+msgid "A fatty cut of meat from the underside"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:516
+msgid "Hoglin Trotters"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:518
+msgid "The foot of a hoglin"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:525
+msgid "Hoglin Bouillon"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:527
+msgid "A flavourful broth made by simmering"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:528
+msgid "hoglin meat"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:535
+msgid "Boiled Warped Cactus"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:537
+msgid "You can eat cactus?"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:547
+msgid "Cactus Juice"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:549
+msgid "A regular water bottle that smells"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:550
+msgid "faintly of sulfur and cactus"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:560
+msgid "Warped Salad"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:562
+msgid "Salads are green, so its okay to eat"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:571
+msgid "Mushroom Slices"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:573
+msgid "An assortment of oddly coloured fungi"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:582
+msgid "Baked Nether Tubers"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:584
+msgid "It's a baked potato."
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:593
+msgid "Glowing Beans"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:595
+msgid "It looks like cooking has brought out"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:596
+msgid "The luminescent elements in the spores"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:606
+msgid "Nether Chips™"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:608
+msgid "You'll get fat if you eat too much"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:617
+msgid "Fried Warped Fungus"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:619
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:630
+msgid "Crunchy!"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:628
+msgid "Fried Crimson Fungus"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:639
+msgid "Spicy Fried Lotus"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:641
+msgid "Sweet, savoury, &oand spicy!"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:651
+msgid "Crimson Stew"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:653
+msgid "A thick clump of fungus floats on the top."
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:654
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:666
+msgid "It should be safe to eat, right?"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:663
+msgid "Warped Stew"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:665
+msgid "The surface of the soup shines green."
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:675
+msgid "Nether Hotpot"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:677
+msgid "Piping hot!"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:686
+msgid "Pork Bone Soup"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:688
+msgid "Very filling!"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:697
+msgid "Boiled Nether Tubers"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:699
+msgid "It's a boiled potato."
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:710
+msgid "Brew of Fire Warding"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:721
+msgid "Brew of Farsight"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:732
+msgid "Brew of Celerity"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/items/BlackstoneStove.java:57
+msgid "Click to cook!"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/items/BlackstoneStove.java:59
+msgid "&9Container"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/items/BlackstoneStove.java:60
+msgid "Recipe"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/items/BlackstoneStove.java:68
+msgid "&7Mode: &f"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/items/BlackstoneStove.java:151
+msgid "Invalid "
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/items/BlackstoneStove.java:151
+msgid " recipe!"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/items/BlackstoneStove.java:166
+msgid "Output is full!"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/items/BlackstoneStove.java:174
+msgid "Output is occupied!"
+msgstr ""

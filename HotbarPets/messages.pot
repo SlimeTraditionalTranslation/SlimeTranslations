@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-08 10:12+0000\n"
+"POT-Creation-Date: 2023-05-08 17:33+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,7 +20,8 @@ msgstr ""
 #: src/main/java/io/github/thebusybiscuit/hotbarpets/HotbarPet.java:46
 #, java-format
 msgid ""
-"Your {0} would have helped you if you did not neglect it by not feeding it :("
+"&9Your {0} &9would have helped you if you did not neglect it by not feeding "
+"it :("
 msgstr ""
 
 #: src/main/java/io/github/thebusybiscuit/hotbarpets/HotbarPets.java:68

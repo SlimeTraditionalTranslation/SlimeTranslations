@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slimetranslations\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-08 10:12+0000\n"
-"PO-Revision-Date: 2023-05-08 17:17\n"
+"POT-Creation-Date: 2023-05-08 17:33+0000\n"
+"PO-Revision-Date: 2023-05-08 17:37\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -19,8 +19,8 @@ msgstr ""
 
 #: src/main/java/io/github/thebusybiscuit/hotbarpets/HotbarPet.java:46
 #, java-format
-msgid "Your {0} would have helped you if you did not neglect it by not feeding it :("
-msgstr "如果你沒有忽視餵食{0}，那麼它將會幫你 :("
+msgid "&9Your {0} &9would have helped you if you did not neglect it by not feeding it :("
+msgstr "&9如果你沒有忽視餵食{0}&9，那麼它將會幫你 :("
 
 #: src/main/java/io/github/thebusybiscuit/hotbarpets/HotbarPets.java:68
 msgid "&dHotbar Pets"

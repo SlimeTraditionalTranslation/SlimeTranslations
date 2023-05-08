@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-08 05:22+0000\n"
+"POT-Creation-Date: 2023-05-08 05:49+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -27,6 +27,10 @@ msgstr ""
 
 #: src/main/java/io/github/thebusybiscuit/extraheads/ExtraHeads.java:75
 msgid "&6Kill the specified Mob"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/extraheads/ExtraHeads.java:151
+msgid " Head"
 msgstr ""
 
 #: src/main/java/io/github/thebusybiscuit/extraheads/ExtraHeads.java:152

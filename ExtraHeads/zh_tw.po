@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: slimetranslations\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-08 05:22+0000\n"
-"PO-Revision-Date: 2023-05-08 05:28\n"
+"POT-Creation-Date: 2023-05-08 05:49+0000\n"
+"PO-Revision-Date: 2023-05-08 05:53\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -28,6 +28,10 @@ msgstr "&a> 點擊開啟"
 #: src/main/java/io/github/thebusybiscuit/extraheads/ExtraHeads.java:75
 msgid "&6Kill the specified Mob"
 msgstr "&6殺死指定生物"
+
+#: src/main/java/io/github/thebusybiscuit/extraheads/ExtraHeads.java:151
+msgid " Head"
+msgstr "頭顱"
 
 #: src/main/java/io/github/thebusybiscuit/extraheads/ExtraHeads.java:152
 msgid "&rKill 1 "

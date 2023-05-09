@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-09 16:29+0000\n"
+"POT-Creation-Date: 2023-05-09 19:22+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -671,11 +671,12 @@ msgid "Hoglin Spare Rib"
 msgstr ""
 
 #: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:496
+msgctxt "wildenether_hoglin_spare_rib.lore.01"
 msgid "A thick cut of meat from the side"
 msgstr ""
 
 #: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:497
-#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:507
+msgctxt "wildenether_hoglin_spare_rib.lore.02"
 msgid "of a hoglin"
 msgstr ""
 
@@ -684,7 +685,13 @@ msgid "Hoglin Belly"
 msgstr ""
 
 #: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:506
+msgctxt "wildenether_hoglin_belly.lore.01"
 msgid "A fatty cut of meat from the underside"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:507
+msgctxt "wildenether_hoglin_belly.lore.02"
+msgid "of a hoglin"
 msgstr ""
 
 #: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:514

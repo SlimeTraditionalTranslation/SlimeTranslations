@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-09 15:10+0000\n"
+"POT-Creation-Date: 2023-05-09 16:29+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -242,11 +242,12 @@ msgid "Fungal Iron Scrap"
 msgstr ""
 
 #: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:194
+msgctxt "wildenether_fungal_iron_scrap.lore.01"
 msgid "A piece of scrap iron overgrown"
 msgstr ""
 
 #: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:195
-#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:207
+msgctxt "wildenether_fungal_iron_scrap.lore.02"
 msgid "with fungus"
 msgstr ""
 
@@ -260,7 +261,13 @@ msgid "Fungal Gold Scrap"
 msgstr ""
 
 #: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:206
+msgctxt "wildenether_fungal_gold_scrap.lore.01"
 msgid "A piece of scrap gold overgrown"
+msgstr ""
+
+#: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:207
+msgctxt "wildenether_fungal_gold_scrap.lore.02"
+msgid "with fungus"
 msgstr ""
 
 #: src/main/java/me/schntgaispock/wildernether/slimefun/WildernetherStacks.java:217

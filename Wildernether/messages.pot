@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-10 05:30+0000\n"
+"POT-Creation-Date: 2023-05-10 09:43+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,24 +17,24 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: src/main/java/com/slimetraditionaltranslation/StoveMode.java:9
+#: src/main/java/com/slimetraditionaltranslation/StoveMode.java:8
 msgid "Oven"
 msgstr ""
 
-#: src/main/java/com/slimetraditionaltranslation/StoveMode.java:11
+#: src/main/java/com/slimetraditionaltranslation/StoveMode.java:9
 msgid "Frying"
 msgstr ""
 
-#: src/main/java/com/slimetraditionaltranslation/StoveMode.java:13
+#: src/main/java/com/slimetraditionaltranslation/StoveMode.java:10
 msgid "Pot"
 msgstr ""
 
-#: src/main/java/com/slimetraditionaltranslation/StoveMode.java:15
+#: src/main/java/com/slimetraditionaltranslation/StoveMode.java:11
 msgid "Brewing"
 msgstr ""
 
-#: src/main/java/com/slimetraditionaltranslation/StoveMode.java:17
-msgid "Unknow Mode, please report to translater!"
+#: src/main/java/com/slimetraditionaltranslation/StoveMode.java:12
+msgid "Unknown Mode, please report to SlimeTraditionalTranslation Team!"
 msgstr ""
 
 #: src/main/java/me/schntgaispock/wildernether/Wildernether.java:81

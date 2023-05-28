@@ -1,0 +1,5130 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: slimetranslations\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-26 14:58+0000\n"
+"PO-Revision-Date: 2023-05-28 08:59\n"
+"Last-Translator: \n"
+"Language-Team: Chinese Traditional\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: slimetranslations\n"
+"X-Crowdin-Project-ID: 585775\n"
+"X-Crowdin-Language: zh-TW\n"
+"X-Crowdin-File: /SlimeTinker/messages.pot\n"
+"X-Crowdin-File-ID: 2977\n"
+
+#: src/main/java/io/github/sefiraat/slimetinker/commands/Commands.java:28
+msgid "Please provide a valid subcommand."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/commands/Commands.java:44
+#: src/main/java/io/github/sefiraat/slimetinker/commands/Commands.java:62
+#: src/main/java/io/github/sefiraat/slimetinker/commands/Commands.java:79
+msgid "This can only be done as a player."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/events/BlockBreakEvents.java:37
+#: src/main/java/io/github/sefiraat/slimetinker/events/EntityDamageEvents.java:57
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:280
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:358
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:596
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1163
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1165
+msgid "Nice"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/events/DurabilityEvents.java:81
+msgid "Your tool was repaired with some iron you had lying around!"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/events/EntityDamageEvents.java:373
+msgid "This skill is on cooldown"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/events/InteractionEvents.java:65
+msgid "Location set!"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/events/InteractionEvents.java:70
+msgid "Recall is on cooldown!"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/events/InteractionEvents.java:73
+msgid "You have not yet set a location to recall to!"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/events/InteractionEvents.java:79
+msgid "Whoosh!"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/events/InteractionEvents.java:107
+msgid "Couldn't teleport! Try again."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/events/InteractionEvents.java:140
+msgid "It's Natural is on cooldown"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/events/InteractionEvents.java:170
+#: src/main/java/io/github/sefiraat/slimetinker/events/InteractionEvents.java:246
+msgid "This ability is on cooldown."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/events/InteractionEvents.java:273
+msgid "Must be set to a Network Grid (not crafting grid)."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/events/PlayerDamagedEvents.java:126
+msgid "Protective has saved you from death. It's now on cooldown - take care!"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/events/PlayerDamagedEvents.java:129
+msgid "Skill is on cooldown"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/events/friend/EventChannels.java:71
+#: src/main/java/io/github/sefiraat/slimetinker/listeners/PlayerInteractListener.java:54
+msgid "Your tool is broken, you should really repair it!"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/itemgroups/ItemGroups.java:27
+msgid "Workstations"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/itemgroups/ItemGroups.java:31
+msgid "Materials"
+msgstr "材料"
+
+#: src/main/java/io/github/sefiraat/slimetinker/itemgroups/ItemGroups.java:35
+msgid "Molten Metals"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/itemgroups/ItemGroups.java:39
+#: src/main/java/io/github/sefiraat/slimetinker/utils/GUIItems.java:104
+msgid "Alloy Metals"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/itemgroups/ItemGroups.java:43
+msgid "Casts"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/itemgroups/ItemGroups.java:47
+msgid "Part Building Guide"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/itemgroups/ItemGroups.java:51
+msgid "Tool Building Guide"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/itemgroups/ItemGroups.java:55
+msgid "Armour Building Guide"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/itemgroups/ItemGroups.java:59
+msgid "Metal Traits"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/itemgroups/ItemGroups.java:63
+msgid "Mods"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/itemgroups/ItemGroups.java:67
+msgid "Part Dictionary"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/itemgroups/ItemGroups.java:71
+msgid "SlimeTinker Dummy"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/itemgroups/MainFlexGroup.java:28
+msgid "Documentation Wiki"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/itemgroups/MainFlexGroup.java:29
+msgid "Click to get the link to the"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/itemgroups/MainFlexGroup.java:30
+msgid "documentation Wiki for SlimeTinker"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/itemgroups/MainFlexGroup.java:31
+msgid "and other Sefiraat addons."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/itemgroups/MainFlexGroup.java:33
+msgid "Guide"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/itemgroups/MainFlexGroup.java:108
+msgid "To access the documentation Wiki, please click here"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/itemgroups/MainFlexGroup.java:110
+msgid "https://sefiraat.dev/"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Casts.java:23
+msgid "A cast for metals."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Casts.java:24
+msgid "Input : "
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Casts.java:25
+msgid "Output : "
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Casts.java:26
+msgid " Units"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Casts.java:32
+msgid "Cast: Metal Nugget"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Casts.java:36
+msgid "1 Nugget"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Casts.java:43
+msgid "Cast: Metal Block"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Casts.java:47
+msgid "1 Block"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Casts.java:54
+msgid "Cast: Metal Ingot"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Casts.java:58
+msgid "1 Ingot"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Casts.java:65
+msgid "Cast: Gem"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Casts.java:66
+msgid "A cast for non-metallic liquids."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Casts.java:69
+msgid "1 Gem"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Casts.java:76
+msgid "Cast: Shovel Head"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Casts.java:80
+msgid "1 Shovel Head"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Casts.java:87
+msgid "Cast: Pickaxe Head"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Casts.java:91
+msgid "1 Pickaxe Head"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Casts.java:98
+msgid "Cast: Axe Head"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Casts.java:102
+msgid "1 Axe Head"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Casts.java:109
+msgid "Cast: Hoe Head"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Casts.java:113
+msgid "1 Hoe Head"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Casts.java:120
+msgid "Cast: Sword Blade"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Casts.java:124
+msgid "1 Sword Blade"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Casts.java:131
+msgid "Cast: Tool Rod"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Casts.java:135
+msgid "1 Tool Rod"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Casts.java:142
+msgid "Cast: Helmet Plates"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Casts.java:146
+msgid "1 Set of Helmet Plates"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Casts.java:153
+msgid "Cast: Chestplate Plates"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Casts.java:157
+msgid "1 Set of Chestplate plates"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Casts.java:164
+msgid "Cast: Legging Plates"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Casts.java:168
+msgid "1 Set of Legging Plates"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Casts.java:175
+msgid "Cast: Boot Plates"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Casts.java:179
+msgid "1 Set of Boot Plates"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Casts.java:186
+msgid "Cast: Mail Links"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Casts.java:190
+msgid "1 set of Mail Links"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Casts.java:197
+msgid "Cast: Repair Kit"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Casts.java:201
+msgid "1 Repair Kit"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Dies.java:21
+msgid "A die to create a cast from"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Dies.java:27
+msgid "Die: Stone Shovel Head"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Dies.java:35
+msgid "Die: Stone Pickaxe Head"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Dies.java:43
+msgid "Die: Stone Axe Head"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Dies.java:51
+msgid "Die: Stone Hoe Head"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Dies.java:59
+msgid "Die: Stone Sword Head"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Dies.java:67
+msgid "Die: Tool Rod"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Dies.java:75
+msgid "Die: Stone Helmet Plates"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Dies.java:83
+msgid "Die: Stone Chest Plates"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Dies.java:91
+msgid "Die: Stone Leg Plates"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Dies.java:99
+msgid "Die: Stone Boot Plates"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Dies.java:107
+msgid "Die: Mail Links"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Dies.java:115
+msgid "Die: Repair Kit"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Guide.java:31
+#: src/main/java/io/github/sefiraat/slimetinker/items/Parts.java:25
+msgid "Error"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Guide.java:46
+msgid "Tinker's Shovel"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Guide.java:47
+msgid "A shovel formed of three parts."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Guide.java:48
+#: src/main/java/io/github/sefiraat/slimetinker/items/Guide.java:58
+#: src/main/java/io/github/sefiraat/slimetinker/items/Guide.java:68
+#: src/main/java/io/github/sefiraat/slimetinker/items/Guide.java:78
+#: src/main/java/io/github/sefiraat/slimetinker/items/Guide.java:88
+msgid "Tinker's tools can level up and be"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Guide.java:49
+#: src/main/java/io/github/sefiraat/slimetinker/items/Guide.java:59
+#: src/main/java/io/github/sefiraat/slimetinker/items/Guide.java:69
+#: src/main/java/io/github/sefiraat/slimetinker/items/Guide.java:79
+#: src/main/java/io/github/sefiraat/slimetinker/items/Guide.java:89
+#: src/main/java/io/github/sefiraat/slimetinker/items/Guide.java:99
+#: src/main/java/io/github/sefiraat/slimetinker/items/Guide.java:112
+#: src/main/java/io/github/sefiraat/slimetinker/items/Guide.java:125
+#: src/main/java/io/github/sefiraat/slimetinker/items/Guide.java:138
+msgid "given extra properties and modifiers."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Guide.java:56
+msgid "Tinker's Pickaxe"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Guide.java:57
+msgid "A pickaxe formed of three parts."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Guide.java:66
+msgid "Tinker's Axe"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Guide.java:67
+msgid "An axe formed of three parts."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Guide.java:76
+msgid "Tinker's Hoe"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Guide.java:77
+msgid "A hoe formed of three parts."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Guide.java:86
+msgid "Tinker's Sword"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Guide.java:87
+msgid "A sword formed of three parts."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Guide.java:96
+msgid "Tinker's Helmet"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Guide.java:97
+msgid "A helmet formed of three parts."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Guide.java:98
+#: src/main/java/io/github/sefiraat/slimetinker/items/Guide.java:111
+#: src/main/java/io/github/sefiraat/slimetinker/items/Guide.java:124
+#: src/main/java/io/github/sefiraat/slimetinker/items/Guide.java:137
+msgid "Tinker's armour can level up and be"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Guide.java:100
+#: src/main/java/io/github/sefiraat/slimetinker/items/Guide.java:113
+#: src/main/java/io/github/sefiraat/slimetinker/items/Guide.java:126
+#: src/main/java/io/github/sefiraat/slimetinker/items/Guide.java:139
+msgid "When broken it's unequipped."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Guide.java:101
+#: src/main/java/io/github/sefiraat/slimetinker/items/Guide.java:114
+#: src/main/java/io/github/sefiraat/slimetinker/items/Guide.java:127
+#: src/main/java/io/github/sefiraat/slimetinker/items/Guide.java:140
+msgid "If there's no room in your inventory"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Guide.java:102
+#: src/main/java/io/github/sefiraat/slimetinker/items/Guide.java:115
+#: src/main/java/io/github/sefiraat/slimetinker/items/Guide.java:128
+#: src/main/java/io/github/sefiraat/slimetinker/items/Guide.java:141
+msgid "then the item drops on the floor"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Guide.java:109
+msgid "Tinker's Chestplate"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Guide.java:110
+msgid "A chestplate formed of three parts."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Guide.java:122
+msgid "Tinker's Leggings"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Guide.java:123
+msgid "A pair of leggings formed of three parts."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Guide.java:135
+msgid "Tinker's Boots"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Guide.java:136
+msgid "A pair of boots formed of three parts."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Guide.java:260
+msgid "Tinker's Tools Info"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Guide.java:261
+msgid "Tinker's tools start at Stone. As you"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Guide.java:262
+msgid "level the tools up, they will promote"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Guide.java:263
+msgid "through Gold > Iron > Diamond > Netherite."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Guide.java:270
+msgid "Tinker's Armour Info"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Guide.java:271
+msgid "Tinker's armour starts at Leather. As you"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Guide.java:272
+msgid "level the pieces up, they will promote"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Guide.java:273
+msgid "through Chain > Iron > Diamond > Netherite."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:33
+msgid "Copper Nugget"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:34
+msgid "A nugget made from solid copper"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:41
+msgid "Tin Nugget"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:42
+msgid "A nugget made from solid tin"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:49
+msgid "Zinc Nugget"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:50
+msgid "A nugget made from solid zinc"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:57
+msgid "Aluminum Nugget"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:58
+msgid "A nugget made from solid aluminum"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:65
+msgid "Magnesium Nugget"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:66
+msgid "A nugget made from solid magnesium"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:73
+msgid "Lead Nugget"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:74
+msgid "A nugget made from solid lead"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:81
+msgid "Silver Nugget"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:82
+msgid "A nugget made from solid silver"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:89
+msgid "Coal Nugget"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:90
+msgid "A nugget made from liquifacted coal"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:97
+msgid "Steel Nugget"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:98
+msgid "A nugget made from solid steel"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:105
+msgid "Damascus Steel Nugget"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:106
+msgid "A nugget made from damascus steel"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:113
+msgid "Duralium Nugget"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:114
+msgid "A nugget made from duralium"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:121
+msgid "Bronze Nugget"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:122
+msgid "A nugget made from bronze"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:129
+msgid "Aluminum Bronze Nugget"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:130
+msgid "A nugget made from aluminum bronze"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:137
+msgid "Hardened Metal Nugget"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:138
+msgid "A nugget made from hardened metal"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:145
+msgid "Corinthian Bronze Nugget"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:146
+msgid "A nugget made from corinthian bronze"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:153
+msgid "Solder Nugget"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:154
+msgid "A nugget made from solder"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:161
+msgid "Billon Nugget"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:162
+msgid "A nugget made from billon"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:169
+msgid "Brass Nugget"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:170
+msgid "A nugget made from brass"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:177
+msgid "Aluminum Brass Nugget"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:178
+msgid "A nugget made from aluminum brass"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:185
+msgid "Nickel Nugget"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:186
+msgid "A nugget made from nickel"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:193
+msgid "Cobalt Nugget"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:194
+msgid "A nugget made from cobalt"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:201
+msgid "Reinforced Alloy Nugget"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:202
+msgid "A nugget made from reinforced alloy"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:209
+msgid "Ferrosilicon Nugget"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:210
+msgid "A nugget made from ferrosilicon"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:217
+msgid "Redstone Alloy Nugget"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:218
+msgid "A nugget made from redstone alloy"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:225
+msgid "Boomerite Nugget"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:226
+msgid "A nugget made from boomerite"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:233
+msgid "Sefirite Nugget"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:234
+msgid "A nugget made from sefirite"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:240
+msgid "Cringleium Nugget"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:241
+msgid "A nugget made from Cringleium."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:247
+msgid "Fondness Nugget"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:248
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:256
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:264
+msgid "A nugget made from the concept"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:249
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:327
+msgid "of fondness."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:255
+msgid "Devotion Nugget"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:257
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:335
+msgid "of devotion."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:263
+msgid "Passion Nugget"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:265
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:343
+msgid "of passion."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:271
+msgid "Love Nugget"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:272
+msgid "A nugget that exudes nothing but"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:273
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:351
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:589
+msgid "pure and unadulterated love."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:279
+msgid "Nice Nugget"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:286
+msgid "Anniversarium Nugget"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:287
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:365
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:603
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1173
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1175
+msgid "10 Years of (Slime)fun!"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:293
+msgid "Reinforced Draconium Nugget"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:294
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:372
+msgid "An ingot that just teems with an"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:295
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:373
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:611
+msgid "unrivalled fury."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:304
+msgid "Boomerite Ingot"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:305
+msgid "A very rare ingot. Origins unknown."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:311
+msgid "Sefirite Ingot"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:312
+msgid "An ingot that's only available for a short time."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:318
+msgid "Cringleium Ingot"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:319
+msgid "A festive ingot that's only available for a short time."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:325
+msgid "Fondness Ingot"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:326
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:334
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:342
+msgid "An ingot made from the concept"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:333
+msgid "Devotion Ingot"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:341
+msgid "Passion Ingot"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:349
+msgid "Love Ingot"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:350
+msgid "An ingot that exudes nothing but"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:357
+msgid "Nice Ingot"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:364
+msgid "Anniversarium Ingot"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:371
+msgid "Reinforced Draconium Ingot"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:382
+msgid "Copper Block"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:383
+msgid "A block made from solid copper"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:390
+msgid "Tin Block"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:391
+msgid "A block made from solid tin"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:398
+msgid "Zinc Block"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:399
+msgid "A block made from solid zinc"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:406
+msgid "Aluminum Block"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:407
+msgid "A block made from solid aluminum"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:414
+msgid "Magnesium Block"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:415
+msgid "A block made from solid magnesium"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:422
+msgid "Lead Block"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:423
+msgid "A block made from solid lead"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:430
+msgid "Silver Block"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:431
+msgid "A block made from solid silver"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:438
+msgid "Steel Block"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:439
+msgid "A block made from solid steel"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:446
+msgid "Damascus Steel Block"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:447
+msgid "A block made from damascus steel"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:454
+msgid "Duralium Block"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:455
+msgid "A block made from duralium"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:462
+msgid "Bronze Block"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:463
+msgid "A block made from bronze"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:470
+msgid "Aluminum Bronze Block"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:471
+msgid "A block made from aluminum bronze"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:478
+msgid "Hardened Metal Block"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:479
+msgid "A block made from hardened metal"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:485
+msgid "Corinthian Bronze Block"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:486
+msgid "A block made from corinthian bronze"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:493
+msgid "Solder Block"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:494
+msgid "A block made from solder"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:501
+msgid "Billon Block"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:502
+msgid "A block made from billon"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:509
+msgid "Brass Block"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:510
+msgid "A block made from brass"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:517
+msgid "Aluminum Brass Block"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:518
+msgid "A block made from aluminum brass"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:525
+msgid "Nickel Block"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:526
+msgid "A block made from nickel"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:533
+msgid "Cobalt Block"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:534
+msgid "A block made from cobalt"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:541
+msgid "Reinforced Alloy Block"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:542
+msgid "A block made from reinforced alloy"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:549
+msgid "Ferrosilicon Block"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:550
+msgid "A block made from ferrosilicon"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:557
+msgid "Redstone Alloy Block"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:558
+msgid "A block made from redstone alloy"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:565
+msgid "Boomerite Block"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:566
+msgid "A block made from boomerite"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:573
+msgid "Sefirite Block"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:574
+msgid "A block made from sefirite"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:580
+msgid "Cringleium Block"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:581
+msgid "A block made from Cringleium"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:587
+msgid "Love Block"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:588
+msgid "A block that exudes nothing but"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:595
+msgid "Nice Block"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:602
+msgid "Anniversarium Block"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:609
+msgid "Reinforced Draconium Block"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:610
+msgid "A block that just teems with an"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:620
+msgid "Reinforced Plate"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:621
+msgid "A modification for tools that gives."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:622
+msgid "a chance to ignore tool damage."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:629
+msgid "Grout"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:630
+msgid "Used to make seared bricks."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:638
+msgid "Seared Brick"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:639
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:647
+msgid "Used in crafting smeltery blocks."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:646
+msgid "Smeltery Controller"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:651
+msgid "SEARED_TANK"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:654
+msgid "Seared Tank"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:655
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:663
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:671
+msgid "Used in building the smeltery."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:662
+msgid "Seared Spout"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:670
+msgid "Seared Brick Block"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:684
+msgid "Infinity Nugget"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:685
+msgid "A nugget made from solid infinity... yup!"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:689
+msgid "NUGGET_CAST_MAGSTEEL"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:692
+msgid "MagSteel Nugget"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:693
+msgid "A nugget made from solid MagSteel"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:700
+msgid "Titanium Nugget"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:701
+msgid "A nugget made from solid Titanium"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:708
+msgid "Mythril Nugget"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:709
+msgid "A nugget made from solid Mythril"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:716
+msgid "Adamantite Nugget"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:717
+msgid "A nugget made from solid Adamantite"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:724
+msgid "Magnonium Nugget"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:725
+msgid "A nugget made from solid Magnonium"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:735
+msgid "Void Block"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:736
+msgid "A block made from ... void?"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:743
+msgid "Infinity Block"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:744
+msgid "A block made from *sigh* infinity."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:751
+msgid "MagSteel Block"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:752
+msgid "A block made from MagSteel."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:759
+msgid "Titanium Block"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:760
+msgid "A block made from Titanium."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:767
+msgid "Mythril Block"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:768
+msgid "A block made from Mythril."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:775
+msgid "Adamanitite Block"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:776
+msgid "A block made from Adamanitite."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:783
+msgid "Magnonium Block"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:784
+msgid "A block made from Magnonium."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:798
+msgid "Slimesteel Nugget"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:799
+msgid "A nugget of slimesteel"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:806
+msgid "Reinforced Slimesteel Nugget"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:807
+msgid "A nugget of reinforced slimesteel"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:814
+msgid "Osmium Nugget"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:815
+msgid "A nugget of osmium"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:822
+msgid "Osmium Superalloy Nugget"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:823
+msgid "A nugget of osmium superalloy"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:830
+msgid "Unpatentabilum Nugget"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:831
+msgid "A nugget of unpatentabilum"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:841
+msgid "Slimesteel Block"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:842
+msgid "A block of slimesteel"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:849
+msgid "Reinforced Slimesteel Block"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:850
+msgid "A block of reinforced slimesteel"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:857
+msgid "Osmium Block"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:858
+msgid "A block of osmium"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:865
+msgid "Osmium Superalloy Block"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:866
+msgid "A block of osmium superalloy"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:873
+msgid "Unpatentabilum Block"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:874
+msgid "A block of unpatentabilum"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:888
+msgid "Stainless Steel Nugget"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:889
+msgid "A nugget of stainless steel"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:899
+msgid "Stainless Steel Block"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:900
+msgid "A block of stainless"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:914
+msgid "Refined Iron Nugget"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:915
+msgid "A nugget of refined iron"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:922
+msgid "Mixed Metal Nugget"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:923
+msgid "A nugget of mixed metal"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:930
+msgid "Advanced Alloy Nugget"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:931
+msgid "A nugget of advanced alloy"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:938
+msgid "Mag-Thor Nugget"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:939
+msgid "A nugget of mag-thor"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:946
+msgid "Scrap Nugget"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:947
+msgid "A nugget of scrap"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:954
+msgid "Iridium Nugget"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:955
+msgid "A nugget of Iridium"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:965
+msgid "Refined Iron Block"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:966
+msgid "A block of refined iron"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:973
+msgid "Mixed Metal Block"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:974
+msgid "A block of mixed metal"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:981
+msgid "Advanced Alloy Block"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:982
+msgid "A block of advacned alloy"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:989
+msgid "Mag-Thor Block"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:990
+msgid "A block of mag-thor"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:997
+msgid "Scrap Block"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:998
+msgid "A block of scrap"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:1005
+msgid "Iridium Block"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:1006
+msgid "A block of iridium"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:1020
+msgid "Nugget of Strength Daxi"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:1021
+msgid "A nugget of Daxi emanating strength."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:1028
+msgid "Nugget of Absorption Daxi"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:1029
+msgid "A nugget of Daxi emanating resolution."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:1036
+msgid "Nugget of Fortitude Daxi"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:1037
+msgid "A nugget of Daxi emanating defiance."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:1044
+msgid "Nugget of Saturation Daxi"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:1045
+msgid "A nugget of Daxi emanating warmth."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:1052
+msgid "Nugget of Regeneration Daxi"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:1053
+msgid "A nugget of Daxi emanating kindness."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:1064
+msgid "Ingot of Strength Daxi"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:1065
+msgid "An ingot of Daxi emanating strength."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:1072
+msgid "Ingot of Absorption Daxi"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:1073
+msgid "An ingot of Daxi emanating resolution."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:1080
+msgid "Ingot of Fortitude Daxi"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:1081
+msgid "An ingot of Daxi emanating defiance."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:1088
+msgid "Ingot of Saturation Daxi"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:1089
+msgid "An ingot of Daxi emanating warmth."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:1096
+msgid "Ingot of Regeneration Daxi"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:1097
+msgid "An ingot of Daxi emanating kindness."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Mods.java:24
+msgid "Modification: Redstone"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Mods.java:25
+#: src/main/java/io/github/sefiraat/slimetinker/items/Mods.java:35
+#: src/main/java/io/github/sefiraat/slimetinker/items/Mods.java:46
+#: src/main/java/io/github/sefiraat/slimetinker/items/Mods.java:57
+#: src/main/java/io/github/sefiraat/slimetinker/items/Mods.java:67
+msgid "When applied to a tool, the holder"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Mods.java:26
+msgid "will be given Haste matching the level"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Mods.java:27
+msgid "of the modification."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Mods.java:34
+msgid "Modification: Lapis"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Mods.java:36
+msgid "will drop bonus items from blocks or"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Mods.java:37
+msgid "kills. Calculated after fortune/looting."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Mods.java:38
+msgid "10% per level."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Mods.java:45
+msgid "Modification: Quartz"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Mods.java:47
+msgid "will deal bonus damage. Calculated after"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Mods.java:48
+msgid "sharpness or other damage enchants."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Mods.java:49
+msgid "20% per level"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Mods.java:56
+msgid "Modification: Diamond"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Mods.java:58
+msgid "has a chance to reflect damage taken"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Mods.java:59
+msgid "back on to the attacker. 10% per level"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Mods.java:66
+msgid "Modification: Emerald"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Mods.java:68
+msgid "will gain bonus tool EXP per action"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Mods.java:69
+msgid "undertaken. +1 exp for tools and 10%"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Mods.java:70
+msgid "for weapons."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Mods.java:78
+msgid "Modification: Reinforced Plate"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Mods.java:79
+msgid "A tool with this modification has a"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Mods.java:80
+msgid "chance to not take durability damage. 10%"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Mods.java:81
+msgid "per level - at Level 10 tools are unbreakable"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Parts.java:31
+msgid "Part: Shovel Head"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Parts.java:32
+msgid "A cast shovel head."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Parts.java:39
+msgid "Part: Pickaxe Head"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Parts.java:40
+msgid "A cast pickaxe head."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Parts.java:47
+msgid "Part: Axe Head"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Parts.java:48
+msgid "A cast axe head."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Parts.java:55
+msgid "Part: Hoe Head"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Parts.java:56
+msgid "A cast hoe head."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Parts.java:63
+msgid "Part: Sword Blade"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Parts.java:64
+msgid "A cast sword blade."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Parts.java:71
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/elements/MaterialTrait.java:190
+msgid "Part: Tool Rod"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Parts.java:72
+msgid "A cast tool rod."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Parts.java:79
+msgid "Part: Binding"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Parts.java:80
+msgid "A binging to hold parts together."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Parts.java:87
+msgid "Part: Helmet Plates"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Parts.java:88
+msgid "A cast helmet plate set."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Parts.java:95
+msgid "Part: Chest Plates"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Parts.java:96
+msgid "A cast chest plate set."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Parts.java:103
+msgid "Part: Leg Plates"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Parts.java:104
+#: src/main/java/io/github/sefiraat/slimetinker/items/Parts.java:112
+msgid "A cast legging plate set."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Parts.java:111
+msgid "Part: Boot Plates"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Parts.java:119
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/elements/MaterialTrait.java:214
+msgid "Part: Mail Links"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Parts.java:120
+msgid "A flexible mesh of cast metal links"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Parts.java:127
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/elements/MaterialTrait.java:206
+msgid "Part: Gambeson"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Parts.java:128
+msgid "A fabric under-armour garment"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Parts.java:135
+msgid "Part: Repair Kit"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Parts.java:136
+msgid "Repairs broken items in the Repair Bench."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Parts.java:199
+msgid "Binding Material"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Parts.java:200
+msgid "A material suitable to make binding from."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Parts.java:201
+#: src/main/java/io/github/sefiraat/slimetinker/items/Parts.java:251
+msgid "This is not JUST string, experiment with"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Parts.java:202
+#: src/main/java/io/github/sefiraat/slimetinker/items/Parts.java:252
+msgid "similar materials."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Parts.java:249
+msgid "Gambeson Material"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Parts.java:250
+msgid "A material suitable to make a Gambeson."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Parts.java:256
+msgid "Shovel Head"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Parts.java:257
+msgid "Pickaxe Head"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Parts.java:258
+msgid "Axe Head"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Parts.java:259
+msgid "Hoe Head"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Parts.java:260
+msgid "Sword Blade"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Parts.java:261
+msgid "Tool Rod"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Parts.java:262
+msgid "Repair Kit"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Parts.java:263
+msgid "Helmet Plates"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Parts.java:264
+msgid "Chestplate Plates"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Parts.java:265
+msgid "Legging Plates"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Parts.java:266
+msgid "Boot Plates"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Parts.java:267
+msgid "Mail Links"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Workstations.java:35
+#: src/main/java/io/github/sefiraat/slimetinker/items/workstations/smeltery/DummySmeltery.java:17
+#: src/main/java/io/github/sefiraat/slimetinker/items/workstations/smeltery/DummySmelteryAlloy.java:17
+#: src/main/java/io/github/sefiraat/slimetinker/items/workstations/smeltery/DummySmelteryMolten.java:17
+#: src/main/java/io/github/sefiraat/slimetinker/items/workstations/smeltery/DummySmelteryMulti.java:17
+#: src/main/java/io/github/sefiraat/slimetinker/items/workstations/smeltery/DummySmelteryTrait.java:17
+msgid "Tinker's Smeltery"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Workstations.java:36
+msgid "Melts down metals into liquids."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Workstations.java:37
+msgid "Metals can then be alloyed and"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Workstations.java:38
+msgid "cast out into various forms."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Workstations.java:39
+msgid "Requires lava as fuel"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Workstations.java:47
+msgid "Tinker's Workbench"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Workstations.java:48
+msgid "Used for crafting various items"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Workstations.java:49
+msgid "and parts for Tinker's tools and"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Workstations.java:50
+msgid "constructions. Also acts as an"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Workstations.java:51
+msgid "Enhanced Crafting Table."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Workstations.java:59
+#: src/main/java/io/github/sefiraat/slimetinker/items/workstations/tooltable/DummyToolTable.java:17
+msgid "Tinker's Tool Table"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Workstations.java:60
+msgid "Combines parts into tools."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Workstations.java:68
+#: src/main/java/io/github/sefiraat/slimetinker/items/workstations/armourtable/DummyArmourTable.java:17
+msgid "Tinker's Armour Table"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Workstations.java:69
+msgid "Combines parts into armour pieces."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Workstations.java:77
+msgid "Tinker's Repair Bench"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Workstations.java:78
+msgid "Repairs tools and weapons."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Workstations.java:86
+msgid "Tinker's Swapping Station"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Workstations.java:87
+msgid "Swaps parts of tools with new parts."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Workstations.java:95
+#: src/main/java/io/github/sefiraat/slimetinker/items/workstations/modificationstation/DummyModificationStation.java:17
+msgid "Tinker's Modification Station"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/Workstations.java:96
+msgid "Applies modifications to tools and weapons."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/templates/PartTemplate.java:36
+msgid "A tool part. Useless on it's own but can"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/templates/PartTemplate.java:37
+msgid "be made into something greater at the"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/templates/PartTemplate.java:38
+msgid "Tinker's table."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/templates/PartTemplate.java:40
+#: src/main/java/io/github/sefiraat/slimetinker/items/templates/RepairkitTemplate.java:46
+msgid "Material : "
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/templates/RepairkitTemplate.java:43
+msgid "A repair kit. Used in the Repair Bench"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/templates/RepairkitTemplate.java:44
+msgid "to mend tools with a matching head-metal."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/TinkerMaterial.java:490
+msgid " Head"
+msgstr "頭顱"
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/TinkerMaterial.java:491
+msgid "A tool head made of "
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/TinkerMaterial.java:491
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/TinkerMaterial.java:503
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/TinkerMaterial.java:523
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/TinkerMaterial.java:535
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/TinkerMaterial.java:547
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/TinkerMaterial.java:566
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/TinkerMaterial.java:579
+msgid "."
+msgstr "。"
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/TinkerMaterial.java:502
+msgid " Binding"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/TinkerMaterial.java:503
+msgid "A binding made of "
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/TinkerMaterial.java:522
+msgid " Rod"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/TinkerMaterial.java:523
+msgid "A tool rod made of "
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/TinkerMaterial.java:534
+msgid " Plates"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/TinkerMaterial.java:535
+msgid "A set of armour plates made of "
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/TinkerMaterial.java:546
+msgid " Gambeson"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/TinkerMaterial.java:547
+msgid "A gambeson made of "
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/TinkerMaterial.java:565
+msgid " Mail Links"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/TinkerMaterial.java:566
+msgid "A set of mail links made of "
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/TinkerMaterial.java:577
+msgid " Repair Kit"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/TinkerMaterial.java:578
+msgid "A kit that is able to repair items"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/TinkerMaterial.java:579
+msgid "made out of "
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/elements/Alloy.java:37
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/elements/Liquid.java:32
+msgid "Molten "
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/elements/Alloy.java:38
+msgid "A molten alloy metal of "
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/elements/Liquid.java:33
+msgid "The molten form of "
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/elements/MaterialTrait.java:122
+msgid "Added by: "
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/elements/MaterialTrait.java:125
+msgid "Sponsored by: "
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/elements/MaterialTrait.java:137
+msgid "Trait : "
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/elements/MaterialTrait.java:174
+msgid "Part: Head"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/elements/MaterialTrait.java:175
+msgid "Any 'Head' item (Sword Blade, Axe Head etc.)"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/elements/MaterialTrait.java:182
+msgid "Part: Binder"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/elements/MaterialTrait.java:183
+msgid "Any 'Binder' item."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/elements/MaterialTrait.java:191
+msgid "Any 'Tool Rod' item."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/elements/MaterialTrait.java:198
+msgid "Part: Plates"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/elements/MaterialTrait.java:199
+msgid "Any 'Plate' item (Helm Plates, Boot Plates etc.)"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/elements/MaterialTrait.java:207
+msgid "Any 'Gambeson' item."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/elements/MaterialTrait.java:215
+msgid "Any 'Mail Link' item."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:26
+msgid "Stability"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:28
+msgid "Does... nothing!"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:34
+msgid "Sharp 1"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:36
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:518
+msgid "Gives increased damage, stacks with"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:37
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:519
+msgid "mods and other properties."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:44
+msgid "Steadfast"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:46
+msgid "33% chance to ignore an explosion"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:53
+msgid "Rusty"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:55
+msgid "Armour durability loss +10%. Player Exp gain +10%"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:62
+msgid "Golden Veil"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:64
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1335
+msgid "Makes the player invisible. If used on"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:65
+#, java-printf-format
+msgid "a weapon, -100% damage."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:73
+msgid "All that Glitters"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:75
+msgid "Makes you all shiny..."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:82
+msgid "Prosperous"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:84
+msgid "1% chance to drop a gold nugget when hit"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:91
+msgid "Barter"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:93
+msgid "Piglins like your armour"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:100
+msgid "Brains, Not Brawn"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:102
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2200
+msgid "Tool exp gain is doubled. Damage"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:103
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2201
+msgid "dealt is halved."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:112
+msgid "Conductive"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:114
+msgid "All tool exp is converted to player exp."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:120
+msgid "Beginner"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:122
+msgid "Damage taken +25%. Armour Exp +20%"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:130
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1244
+msgid "Tarnished"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:132
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1246
+msgid "Outgoing damage reduced by 25%. Armour Exp +20%"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:139
+msgid "Poisonous"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:141
+msgid "25% chance to afflict poison on hit."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:148
+msgid "Leech"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:150
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1421
+msgid "Bonus health, but drains your energy."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:157
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:166
+msgid "Sickly"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:159
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:168
+msgid "Lead Armour is not a good idea"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:176
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:205
+msgid "Enchanting"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:178
+msgid "Tool exp gain is halved. Tools add a"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:179
+msgid "random vanilla enchant when leveling. May or"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:180
+msgid "may not match the tool type."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:186
+msgid "Soft Touch"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:188
+msgid "You feel lighter."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:195
+msgid "Conductivity"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:197
+msgid "Immune to lightning and even reflect it back!"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:207
+msgid "Gains a random enchantment every time this"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:208
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1480
+msgid "piece of armour levels up. May not be useful."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:214
+msgid "Recyclable"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:216
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1488
+msgid "Chance to restore durability on hit/block break"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:223
+msgid "Soft"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:225
+msgid "Durability loss +100%, tool EXP +50%."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:234
+msgid "Foil"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:236
+msgid "Damage Taken +50%. Speed + 1"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:245
+msgid "Easily Shaped"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:247
+msgid "Repairs only need a single kit."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:253
+msgid "Malleable"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:255
+msgid "Deal 50% less damage but gain luck."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:263
+msgid "Can"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:265
+msgid "Your hunger just fades away"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:272
+msgid "Non-Corrosive"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:274
+msgid "Immune to poison"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:281
+msgid "Boost"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:283
+msgid "When taking heavy damage, gain absorption"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:290
+msgid "Graceful"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:292
+msgid "DOLPHIN POWERS, ACTIVATE!"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:299
+msgid "Super Lightweight"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:301
+msgid "Makes you lighter than air when not sneaking."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:308
+msgid "Sneaky"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:310
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1582
+msgid "Damage doubled if target is facing away."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:311
+msgid "Small tolerance"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:318
+msgid "Acupuncture"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:320
+msgid "Take no damage from cactus pricks"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:327
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1234
+msgid "Flammable"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:329
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1236
+msgid "Has a (Tool level x 5)% chance to"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:330
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1237
+msgid "set your enemies ablaze."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:337
+msgid "Magnetesium"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:339
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1611
+msgid "Random items are drawn to you from"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:340
+msgid "within a 5 block range"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:347
+msgid "Light"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:349
+msgid "Damage dealt -25%. Speed + 1"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:357
+msgid "MagneSight™"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:359
+msgid "Gain Nightvision."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:366
+msgid "Stainless"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:368
+msgid "The tool/weapon repels blood."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:375
+msgid "Lightweight"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:377
+msgid "Tool Exp +50%. Speed + 1"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:384
+msgid "Hardy"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:386
+msgid "Explosions do 25% less damage"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:393
+msgid "Strong"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:395
+msgid "Health boost + 1"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:402
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2140
+msgid "Vampirism"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:404
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2142
+msgid "Chance to heal by damage given."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:405
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2143
+msgid "Damage dealt varies by time of day."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:412
+msgid "Nightstalker"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:414
+msgid "Gives night vision."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:421
+msgid "Compounding"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:423
+msgid "Gain extra health equal for each compounding"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:424
+msgid "piece. Amount stacks on it's own gain"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:431
+msgid "Snroht"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:433
+msgid "Thorns damage is ignored and relfected back"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:440
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:461
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1271
+msgid "Durable"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:442
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1273
+msgid "Ignores being broken but damage 50%,"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:443
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1274
+msgid "mining will be slower and 0 exp."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:453
+msgid "Easy Fix"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:455
+msgid "Only 1 kit is needed to fully repair."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:463
+msgid "Works when broken but damage taken +20%"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:470
+msgid "Shock Absorbant"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:472
+msgid "10% chance to ignore damage. Not additive"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:479
+msgid "Resistance"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:481
+msgid "Gives fire resistance while held."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:488
+msgid "Ingheights"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:490
+msgid "Something is wrong with this tool."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:497
+msgid "Farmer"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:499
+msgid "All crop drops 1 extra item. Not effected by fortune."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:500
+msgid "Does not stack with itself but does with other effects."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:507
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:526
+msgid "Brittle"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:509
+msgid "Durability loss doubled."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:516
+msgid "Sharp 2"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:528
+msgid "Durability loss is doubled."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:535
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1778
+msgid "Beautiful"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:537
+msgid "Chance to grow flowers as you walk."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:544
+msgid "Eject!"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:546
+msgid "If damaged when below 1/2 health - Eject!"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:553
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2423
+msgid "Tuff Stuff"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:555
+msgid "Knocks back anything hit with a chance"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:556
+msgid "to stun."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:563
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2373
+msgid "Heavy"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:565
+msgid "Mines in a 3x3 area."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:572
+msgid "Toughened"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:574
+msgid "Will not lose durability."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:581
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1280
+msgid "Dwarven Skills"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:583
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1282
+msgid "Chance to find rare artifacts while mining."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:590
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1723
+msgid "Flaming Hot"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:592
+msgid "Smelts broken blocks when possible."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:599
+msgid "Too Hot to Handle"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:601
+msgid "?"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:608
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2122
+msgid "Superhot"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:610
+msgid "Chance to set nearby entities on fire"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:617
+msgid "Warm Blodded"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:619
+msgid "Speed + 2 when hot in the nether."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:620
+msgid "Slow + 1 when cold in the end"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:627
+msgid "Hidden"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:629
+msgid "Grants invisibility, breaks instantly."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:638
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:657
+msgid "Fused"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:640
+msgid "Tool cannot be dropped either by the"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:641
+msgid "player or on death."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:647
+msgid "Soft Landing"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:649
+msgid "Hitting walls no longer hurts"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:659
+msgid "Cannot be dropped on death or on purpose."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:665
+msgid "Fast"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:667
+msgid "Move speed increased and haste applied."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:668
+msgid "Stacks with modifiers."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:675
+msgid "Springs"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:677
+msgid "Makes you jump higher."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:684
+msgid "WHM"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:686
+msgid "Your attacks heal instead of harm."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:693
+msgid "Heat Conductor"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:695
+msgid "Magma blocks no longer cause damage"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:702
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2064
+msgid "Stiff"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:704
+msgid "Damage +50% but makes you unlucky"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:712
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1741
+msgid "Oxygenated"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:714
+msgid "Gives water breathing while held."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:721
+msgid "Band"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:723
+msgid "Durability loss + 200%. Damage reduced between 1-25%"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:724
+msgid "getting lower as durability drops."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:732
+msgid "Scarpaaarr!"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:734
+msgid "Durability loss doubled. When damaged below 1/2 health, gain Speed 3."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:741
+msgid "Abra"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:743
+msgid "Any hit mob has a % chance to be"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:744
+msgid "randomly teleported."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:751
+msgid "Studious"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:753
+msgid "Tool and Player exp +50% but damage halved"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:754
+msgid "and you are slower to act."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:762
+msgid "Magus"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:764
+msgid "Magic Damage -50%"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:771
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1732
+msgid "Escape"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:773
+msgid "Randomly teleport then hit (CD: 10s)"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:780
+msgid "Charged Head -"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:782
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:791
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:822
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:831
+msgid "Doesn't do anything... on it's own..."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:789
+msgid "Charged Rod -"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:798
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:809
+msgid "Magnetic -"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:800
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:811
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:840
+msgid "Gain 1 Stack of Magnetism and 1 Stack of Negativity."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:801
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:812
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:841
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:852
+msgid "Magnetism draws in all nearby items."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:802
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:813
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:842
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:853
+msgid "Range = Magnetism Level - (∆ Positivity/Negativity)"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:820
+msgid "Charged Head +"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:829
+msgid "Charged Rod +"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:838
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:849
+msgid "Magnetic +"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:851
+msgid "Gain 1 Stack of Magnetism and 1 Stack of Positivity."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:860
+msgid "Bulky"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:862
+msgid "Mines in a 3x3 area"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:870
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1263
+msgid "Reinforced"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:872
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1265
+msgid "Any Plate mod on the tool is counted twice."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:880
+msgid "Reinforcable"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:882
+msgid "Plate mods count twice."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:888
+msgid "Witherproof"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:890
+msgid "Immune to the wither effect."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:897
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:905
+msgid "Works"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:899
+msgid "No special effects."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:907
+msgid "No special effects but makes armour quickly."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:913
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:923
+msgid "Growth"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:915
+msgid "Slowly repairs the tool during the day."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:916
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:936
+msgid "Stacks with mods. Must be in hand"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:925
+msgid "Slowly repairs during the day."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:933
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:943
+msgid "Decay"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:935
+msgid "Slowly repairs the tool at night."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:945
+msgid "Slowly repairs during night."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:952
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:961
+msgid "Refreshing"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:954
+msgid "Slowly heals the holder."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:963
+msgid "Slowly heals the equipping player."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:970
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:979
+msgid "Doom"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:972
+msgid "I get a bad feeling from this..."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:981
+msgid "Gives you bad omen. Hide your villagers!"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:988
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:998
+msgid "Attraction"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:990
+msgid "All drops are drawn to you within a"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:991
+msgid "5 block range."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1000
+msgid "Nearby drops (5x5 area) are drawn to you."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1007
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1016
+msgid "Bouncy"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1009
+msgid "Fall damage is halved."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1018
+msgid "Fall damage -25%"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1025
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1035
+msgid "Slow Learner"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1027
+msgid "Tool exp gain when breaking blocks is"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1028
+msgid "increased by (Tool Level x 5%)"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1037
+msgid "Armour exp gain = (Level * 5%)"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1044
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1054
+msgid "Thick"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1046
+msgid "Tool exp gain + 50%"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1056
+msgid "Armour exp gain + 10%"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1063
+msgid "Hydrogen"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1065
+msgid "Float away from danger."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1072
+msgid "Solar Powered"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1074
+msgid "Restores durability during the day time."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1081
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1657
+msgid "Brightburn"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1083
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2581
+msgid "Gives on stack of Burning Bright! With 4 "
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1084
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1660
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2582
+msgid "stacks, hostile mobs are repelled (not bosses)."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1091
+msgid "Lightning Rod"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1093
+msgid "A chance to strike hit mobs with lightning."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1100
+msgid "Powered On"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1102
+msgid "Randomly powers a block within a 5x2x5 range."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1109
+msgid "Who needs pressure plates?"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1111
+msgid "The block you stand on is powered."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1118
+msgid "Ladder Simulator™"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1120
+msgid "Spawns ladders on right click."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1127
+msgid "Go Boomer"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1129
+msgid "Warning... things will go boom..."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1136
+msgid "Celebrate"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1138
+msgid "Time to celebrate"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1145
+msgid "Feeling Festive"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1147
+msgid "Get that festive feeling!"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1154
+msgid "It's all you need"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1156
+msgid "You are loved"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1177
+msgid "Requires all four armor pieces."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1188
+msgid "Void Miner"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1190
+msgid "Randomly generates ores while mining/digging."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1197
+msgid "Fear the Void"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1199
+msgid "Damage +150%. 250% in the End."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1206
+msgid "Planewalker"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1208
+msgid "The void is no longer your enemy"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1215
+msgid "The End"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1217
+msgid "Reduce damage from the Dragon, Endermen and"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1218
+msgid "Shulkers by 10%"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1225
+msgid "Really Stainless"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1227
+msgid "Like Stainless, but.. REALLY."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1253
+msgid "Defender"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1255
+msgid "5% chance, when hit, to ignore damage"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1256
+msgid "and gain absorption."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1289
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2131
+msgid "Heat Resistant"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1291
+msgid "Immune to fire and lava."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1298
+msgid "Stability II"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1300
+msgid "Still does Nothing"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1306
+msgid "Sharp 1 II"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1308
+msgid "What a bad naming convention. +Damage"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1315
+msgid "Steadfast II"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1317
+msgid "Ignore all explosions"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1324
+msgid "Rusty II"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1326
+msgid "Armour durability loss +10%. Player Exp gain +20%"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1333
+msgid "Golden Veil II"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1336
+#, java-printf-format
+msgid "a weapon, +50% damage."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1344
+msgid "All That Glitters II"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1346
+msgid "Makes you shiny AND rainbow...y"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1353
+msgid "Prosperous II"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1355
+msgid "1% chance to drop 1-4 gold nuggets when hit"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1362
+msgid "Barter II"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1364
+msgid "Piglins REALLY like your armour"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1371
+msgid "Brains, Not Brawn II"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1373
+msgid "Tool exp +200%, Damage 50%"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1382
+msgid "Conductive II"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1384
+msgid "All tool exp is converted to player exp"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1385
+msgid "with a 50% bonus."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1391
+msgid "Beginner II"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1393
+msgid "Damage Taken +50%. Armour Exp +40%"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1401
+msgid "Tarnished II"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1403
+msgid "Outgoing damage reduced by 25%. Armour Exp +40%"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1410
+msgid "Poisonous II"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1412
+msgid "Poisons more frequently and for longer."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1419
+msgid "Leech II"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1428
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1437
+msgid "Sickly II"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1430
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1439
+msgid "Lead armour is a VERY BAD idea"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1447
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1477
+msgid "Enchanting II"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1449
+msgid "Tool exp gain is halved. Tools add 1-3"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1450
+msgid "randomly selected enchants when leveling"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1451
+msgid "up. These enchants may not be useful!"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1457
+msgid "Soft Touch II"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1459
+msgid "You feel much lighter."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1466
+msgid "Conductivity II"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1468
+msgid "Chance to summon a tempest when hit."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1469
+msgid "Lightning damage heals you."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1479
+msgid "Gains 1-3 random enchantments everytime this"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1486
+msgid "Recyclable II"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1495
+msgid "Soft II"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1497
+msgid "Durability loss +100%, tool EXP +100%."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1506
+msgid "Foil II"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1508
+msgid "Damage Taken +50%. Speed + 2"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1516
+msgid "Easily Shaped II"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1518
+msgid "Repairs only need a single kit of ANY metal"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1524
+msgid "Malleable II"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1526
+msgid "Deal 50% less damage but gain lots of"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1527
+msgid "Luck and Speed."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1535
+msgid "Can II"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1537
+msgid "No Hunger Loss"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1544
+msgid "Non-Corrosive II"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1546
+msgid "Poison heals and immune to hunger and weakness."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1553
+msgid "Boost II"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1555
+msgid "When taking heavy damage, gain lots of absorption"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1562
+msgid "Graceful II"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1564
+msgid "DOLPHIN POWERS, ACTIVATE... MORE!"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1571
+msgid "Super Lightweight II"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1573
+msgid "Makes you lighter than air when sneaking."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1580
+msgid "Sneaky II"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1583
+msgid "Large tolerence"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1590
+msgid "Acupuncture II"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1592
+msgid "Cactus pricks heal you."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1599
+msgid "Flammable II"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1601
+msgid "Has a (Tool level x 10)% chance to"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1602
+msgid "set your enemies ablaze for a longer time."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1609
+msgid "Magnetesium II"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1612
+msgid "within a 10 block range"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1619
+msgid "Light II"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1621
+msgid "Damage dealt -50%. Speed + 2"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1629
+msgid "MagneSight™ II"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1631
+msgid "Gain night vision and highlight all mobs"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1638
+msgid "Elven Speed"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1640
+msgid "Haste 2, Speed 1. Durability loss +50%"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1648
+msgid "Sting of Gondolin"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1650
+msgid "All nearby, hostile, mobs are repelled."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1659
+msgid "Gives on stack of Burning Bright! With 4"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1667
+msgid "Call of the Wild"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1669
+msgid "When hit, you sometimes summon a wolf to your aid"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1676
+msgid "Mystic"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1678
+msgid "Player Exp + 100% (Mining) +50% (Mobs)"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1686
+msgid "Adamant"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1688
+msgid "Become immune to all explosions"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1695
+msgid "Deflective"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1697
+msgid "Projectile Damage -25%"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1704
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2074
+msgid "Experienced"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1706
+msgid "All tool and armour exp +10%"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1714
+msgid "Magnanimous"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1716
+msgid "You're just far too kind"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1725
+msgid "Smelts things when possible."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1734
+msgid "When hit, teleport away randomly (CD: 10s)."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1743
+msgid "Who needs it!?"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1750
+msgid "Fortunate"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1752
+#, java-printf-format
+msgid "200% drops from fortune. Stacks"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1753
+msgid "with Lapis modifiers."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1760
+msgid "Merchant's Veil"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1762
+msgid "Invisibility with none of the drawbacks!"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1769
+msgid "How Fortunate"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1771
+msgid "0.5% chance to get a gift when hit."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1780
+msgid "Plants flowers as you walk."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1787
+msgid "Tricks"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1789
+msgid "Plays nasty tricks on nearby things."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1796
+msgid "Secrets Revealed"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1798
+msgid "Reveals all nearby living (or not!) things."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1805
+msgid "Wizard Robes"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1807
+msgid "Chance, when attacking, to create MAGIC"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1814
+msgid "Magical Mint"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1816
+msgid "It may still be foul, but the Dragon's"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1817
+msgid "breath will not hurt you."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1824
+msgid "Earth Shaker"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1826
+msgid "Knocks back hit mobs and stuns them"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1827
+msgid "when they land."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1834
+msgid "Grinder"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1836
+msgid "Breaking blocks act as if they have"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1837
+msgid "gone through the grinder."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1844
+msgid "Lava Walker"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1846
+msgid "Lava turns into magma blocks beneath your feet."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1853
+msgid "It's only natural"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1855
+msgid "Feeds two nearby animals on right click. (CD: 2m)"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1856
+msgid "Cooldown fires regardless of success."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1863
+msgid "Clean Cut"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1865
+msgid "Damage +100%. Haste 2"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1873
+msgid "Conductor"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1875
+msgid "All player exp is converted to tool"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1876
+msgid "exp at a 10 : 1 ratio."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1884
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2481
+msgid "KOTR"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1886
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2483
+msgid "Chance, when hit, to summon a Knight"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1887
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2484
+msgid "of the Round. (It's a Golem ;))"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1894
+msgid "Gleam"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1896
+msgid "Chance when hit to reflect damage and"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1897
+msgid "dazzle attackers."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1904
+msgid "Infinite"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1906
+msgid "This tool will live on forever."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1913
+msgid "Conceptual Defence"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1915
+msgid "All damage is halved (rounded up)."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1922
+msgid "Infinite Capacity"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1924
+msgid "Everytime you take damage, 10% is stored"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1925
+msgid "up to 5 hearts. Right click to release"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1926
+msgid "the damage on nearby entities"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1934
+msgid "Oroborus"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1936
+msgid "20% chance to reflect damage taken."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1943
+msgid "Breakpoint"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1945
+msgid "Unbreakable. +200% Damage."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1946
+msgid "+200% Tool Exp and 3x3 Mining."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1955
+msgid "Infinitly Powerful"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1957
+msgid "Every X points of damage taken (before"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1958
+msgid "reductions) will unlock a new, random,"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1959
+msgid "enchantment. No upper limits."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1960
+msgid "damage required will increase each time"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1967
+msgid "Infinite Defence"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1969
+msgid "All damage taken set to 1 when 4 pieces"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1970
+msgid "are equipped."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1977
+msgid "Bunkky/ReasonFoundDecoy"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1978
+msgid "Draconic Tantrum"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1980
+msgid "When hit by the Ender Dragon, gain"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1981
+msgid "bonus damage for 15 seconds."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1982
+msgid "Stacks additively. Stacks refresh duration."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1994
+msgid "Insulated"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:1996
+msgid "Become immune to lightning."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2003
+msgid "Sweaty"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2005
+msgid "A rubber lining is WAY too hot."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2012
+msgid "Really Stable"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2014
+msgid "Does nothing. Perhaps if you level it up?."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2021
+msgid "Manners Maketh Man"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2023
+msgid "Speed 1, Damage + 50%. Your fights look"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2024
+msgid "super cool."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2033
+msgid "Kingsman"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2035
+msgid "On right click, summons a colorful cavalcade"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2036
+msgid "of pure destruction."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2037
+msgid "Does nothing if you don't have manners."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2038
+msgid "Requires 4 pieces with Kingsman."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2045
+msgid "Narrowing"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2047
+msgid "Attackers are blinded."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2054
+msgid "Mixed Metals"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2056
+msgid "Has the effects of all it's ingredients but"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2057
+msgid "their power is halved."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2066
+msgid "Double damage. Unlucky!"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2076
+msgid "All tool/armour exp + 10%"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2084
+msgid "Mix it up!"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2086
+msgid "Mixes things up a bit when hit"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2093
+msgid "Cleave"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2095
+msgid "Damage all nearby mobs when you attack."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2096
+msgid "Cleave damage does not trigger Tinker's effects."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2103
+msgid "Heavy Duty"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2105
+msgid "When durability gets low, it eats 1 iron"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2106
+msgid "ingot from your inventory to restore some."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2114
+msgid "Even More Advanced"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2116
+msgid "Advanced modifiers +1 for each piece."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2124
+msgid "Chance to set nearby linving things on fire."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2133
+msgid "Lava is no longer your enemy."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2150
+msgid "Radioactive Plates"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2152
+msgid "Poisons enemies that attack you."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2159
+msgid "Building Rage"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2161
+msgid "Chance, when hit, to gain Speed 1 and Haste 1"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2168
+msgid "Nimble"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2170
+msgid "Speed 1. Take 33% less damage"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2178
+msgid "Carbon Fibre"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2180
+msgid "Speed + 1"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2187
+msgid "Terrible"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2189
+#, java-printf-format
+msgid "+300% durability loss. 0% Exp Gain."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2198
+msgid "Brains, Not Brawn."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2209
+msgid "Pathetic"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2211
+msgid "Do not wear this armour."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2212
+msgid "VERY BAD THINGS MAY HAPPEN"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2213
+msgid "YOU HAVE BEEN WARNED"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2214
+msgid "Exp + 400%."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2222
+msgid "Falling Apart"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2224
+msgid "Exp + 200%. Chance for the armour to"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2225
+msgid "just fall off!"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2233
+msgid "Protective"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2235
+msgid "Saves you from deaths. (CD 20m)"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2242
+msgid "Warp"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2244
+msgid "Turns your opponent around. (CD: 20m)"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2251
+msgid "Indomitable"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2253
+#, java-printf-format
+msgid "10% of all damage is ignored and reflected."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2260
+msgid "Unconventional Power"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2262
+msgid "Any damage taken is remembered. Right"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2263
+msgid "Click to charge inventory items."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2275
+msgid "Overcharge"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2277
+msgid "Stores energy each time you hit a mob."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2278
+msgid "Every 10th attack releases this back."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2285
+msgid "Blinding Speed"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2287
+msgid "Gain insane speed but with a side effect."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2294
+msgid "Gravity"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2296
+msgid "All nearby entities are slowly pulled"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2297
+msgid "towards you"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2304
+msgid "Soul Siphon"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2306
+msgid "Stores the souls of killed, hostile, mobs."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2307
+msgid "Damage + 1% per 100 souls. Caps at 100%."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2314
+msgid "Bouncy II"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2316
+msgid "Fall damage halved with a jump boost."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2324
+msgid "Moon Bounce"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2326
+msgid "When on boots, fall damage is ignored."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2327
+msgid "You also get more bouncy."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2334
+msgid "Strong and Sticky"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2336
+msgid "Dropped blocks go into your inventory"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2337
+msgid "when possible to do so"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2344
+msgid "Flexibility"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2346
+msgid "Incoming damage reduced and durability is lost"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2347
+msgid "instead. Doesn't work while tool is broken."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2354
+msgid "Rigid Flexibility"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2356
+msgid "Speed and Jump + 1. Damage Taken + 10%"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2364
+msgid "Deflection"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2366
+msgid "10% chance to ignore projectile damage."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2375
+msgid "Mines in a 3x3 Area"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2382
+msgid "Heavy Pommel"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2384
+msgid "Struck mobs are slowed and cannot teleport."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2391
+msgid "Increased Mass"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2393
+msgid "Attackers will be knocked back."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2394
+msgid "Gives you slow when procced"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2402
+msgid "Draw"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2404
+msgid "5% chance to heal by damage dealt."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2411
+msgid "Brute"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2413
+msgid "Slow swinging speed. Hit enemies are stunned"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2414
+msgid "briefly. Damage +100% with an additional 33%"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2415
+msgid "chance to crit for a further +100%"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2425
+msgid "Knocks back anything hit and stuns."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2432
+msgid "Tempest"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2434
+msgid "When wearing 4 pieces, chance when hit"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2435
+msgid "to summon a tempest."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2442
+msgid "Partial Decay"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2444
+msgid "Chance to damage random nearby living"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2445
+msgid "things. Will never kill."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2452
+msgid "Innovation"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2454
+msgid "+100% Tool and Player EXP during the day."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2463
+msgid "Incorporeal Right"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2465
+msgid "Tool cannot be dropped or lost on death."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2471
+msgid "Intense Gaze"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2473
+msgid "Entities you look at will teleport to you."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2474
+msgid "Does not work on players or bosses."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2495
+msgid "Super Dooper Stainless"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2497
+msgid "Like Steel or MagSteel but yet more absurd."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2504
+msgid "Cutlery"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2506
+msgid "Hitting animals will directly feed you. Grim"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2513
+msgid "The Standard"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2515
+msgid "Damage taken reduced by 5%"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2522
+msgid "Water Safe"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2524
+msgid "Gives you water breathing"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2531
+msgid "NoClip"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2533
+msgid "Right click while holding to randomly teleport."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2534
+msgid "5 min cooldown."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2541
+msgid "Annoying"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2543
+msgid "Vex gems shouldn't be used like this!"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2550
+msgid "Bright Fury"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2552
+msgid "Attacks dazzle and blind while being."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2553
+msgid "50% more powerful."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2560
+msgid "Yvaine"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2562
+msgid "Gives an ethereal glow and makes villagers"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2563
+msgid "friendlier to you."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2570
+msgid "Starshine"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2572
+msgid "5% chance to heal 1/2 heart during the night"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2579
+msgid "Bright-burn"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2589
+msgid "Incorporeal"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2591
+msgid "Projectiles just pass right through you."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2598
+msgid "HyperCube [B]"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2600
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2630
+msgid "Only works with both [A] and [B]. Shift + Right"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2601
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2631
+msgid "click to store a location. Right click to recall"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2602
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2632
+msgid "to that location. (CD: 10m)"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2609
+msgid "Ghost in the shell"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2611
+msgid "Slowly damages all nearby mobs at the cost of durability."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2612
+msgid "Mobs cannot die due to this effect."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2619
+msgid "Ghostly"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2621
+msgid "Hover like a ghost"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2628
+msgid "HyperCube [A]"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2639
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2652
+msgid "Hyberbolic Tesseration"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2641
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2654
+msgid "When in your personal home, you store energy."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2642
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2655
+msgid "Damage taken is removed from this energy pool."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2643
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2656
+msgid "Required 8x pieces to function and caps at 50"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2644
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2657
+msgid "per piece."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2669
+msgid "The Power of Daxi"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2671
+msgid "Has a chance on hit to unleash the"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2672
+msgid "power of the Strength Daxi for an"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2673
+#, java-printf-format
+msgid "additional 100% damage."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2680
+msgid "Unite - Absorption"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2682
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2693
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2704
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2715
+msgid "When all four defensive Daxi unite,"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2683
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2694
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2705
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2716
+msgid "you will be granted the power to"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2684
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2695
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2706
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2717
+msgid "retain your Daxi through death."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2691
+msgid "Unite - Fortitude"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2702
+msgid "Unite - Saturation"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2713
+msgid "Unite - Regeneration"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2728
+msgid "Feeling Connected"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2730
+msgid "Allows you to connect wirelessly"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2731
+msgid "to a network using direct nural"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2732
+msgid "connection via your helmet."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2734
+msgid "Shift + Left Click with an empty"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2735
+msgid "hand to bind to a grid."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2737
+msgid "Left Click air with an empty hand to"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2738
+msgid "try to open the bound grid."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:2740
+msgid "Will only work on a helmet."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/workstations/armourtable/ArmourTable.java:157
+#: src/main/java/io/github/sefiraat/slimetinker/items/workstations/tooltable/ToolTable.java:173
+msgid "Not all items present"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/workstations/armourtable/ArmourTable.java:161
+#: src/main/java/io/github/sefiraat/slimetinker/items/workstations/tooltable/ToolTable.java:177
+msgid "One or more items are either not Tinker's parts or in the wrong slot?"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/workstations/armourtable/DummyArmourTable.java:18
+msgid "This item is made on a Tinker's Armour Table."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/workstations/modificationstation/DummyModificationStation.java:18
+msgid "Tools are augmented on the Modification"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/workstations/modificationstation/DummyModificationStation.java:19
+msgid "station using the appropriate material."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/workstations/modificationstation/DummyModificationStation.java:20
+msgid "Once enough material has been added, the"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/workstations/modificationstation/DummyModificationStation.java:21
+msgid "modification will level."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/workstations/modificationstation/ModificationStation.java:46
+msgid "Input a tool/piece of armour into the first slot."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/workstations/modificationstation/ModificationStation.java:51
+#: src/main/java/io/github/sefiraat/slimetinker/items/workstations/swappingstation/SwappingStation.java:52
+msgid "Nope - nerd"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/workstations/modificationstation/ModificationStation.java:61
+msgid "The item in the first slot isn't a Tinker's tool/armour piece."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/workstations/modificationstation/ModificationStation.java:68
+#: src/main/java/io/github/sefiraat/slimetinker/items/workstations/modificationstation/ModificationStation.java:128
+msgid "Input a valid modifier into the second slot."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/workstations/modificationstation/ModificationStation.java:84
+#: src/main/java/io/github/sefiraat/slimetinker/items/workstations/modificationstation/ModificationStation.java:144
+msgid "You have already maxed out this modifier"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/workstations/modificationstation/ModificationStation.java:93
+#: src/main/java/io/github/sefiraat/slimetinker/items/workstations/modificationstation/ModificationStation.java:153
+msgid "You do not have enough free Modification slots for this"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/workstations/modificationstation/ModificationStation.java:115
+#: src/main/java/io/github/sefiraat/slimetinker/items/workstations/modificationstation/ModificationStation.java:175
+msgid "Clear the output slot first"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/workstations/repairbench/RepairBench.java:44
+msgid "Input a item into the first slot."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/workstations/repairbench/RepairBench.java:50
+#: src/main/java/io/github/sefiraat/slimetinker/items/workstations/swappingstation/SwappingStation.java:78
+msgid "The item in the first slot isn't a Tinker's item."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/workstations/repairbench/RepairBench.java:56
+msgid "Input a repair kit into the second slot."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/workstations/repairbench/RepairBench.java:79
+msgid "The kit type does not match the item material."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/workstations/smeltery/DummySmeltery.java:18
+msgid "This item is cast out from the"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/workstations/smeltery/DummySmeltery.java:19
+msgid "tinkers smeltery using the"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/workstations/smeltery/DummySmeltery.java:20
+msgid "relevant cast and metal/liquid."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/workstations/smeltery/DummySmelteryAlloy.java:18
+msgid "This alloy is made in the Tinker's"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/workstations/smeltery/DummySmelteryAlloy.java:19
+msgid "Smeltery by inputting correct metal"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/workstations/smeltery/DummySmelteryAlloy.java:20
+msgid "types and clicking Alloy."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/workstations/smeltery/DummySmelteryMolten.java:18
+msgid "Molten metals are made by putting"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/workstations/smeltery/DummySmelteryMolten.java:19
+msgid "items made from the metal into the"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/workstations/smeltery/DummySmelteryMolten.java:20
+msgid "Smeltery. Items melt when provided"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/workstations/smeltery/DummySmelteryMolten.java:21
+msgid "enough lava as a heat source."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/workstations/smeltery/DummySmelteryMulti.java:18
+msgid "This is a multiblock, build in the world"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/workstations/smeltery/DummySmelteryMulti.java:19
+msgid "as shown here."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/workstations/smeltery/DummySmelteryTrait.java:18
+msgid "When a matching part is made using this"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/workstations/smeltery/DummySmelteryTrait.java:19
+msgid "metal, it will give the finished tool"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/workstations/smeltery/DummySmelteryTrait.java:20
+msgid "this property."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/workstations/smeltery/TinkersSmeltery.java:141
+msgid "This multiblock has not been setup correctly."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/workstations/smeltery/TinkersSmelteryCache.java:240
+msgid "Please input a valid cast before trying to pour metals."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/workstations/smeltery/TinkersSmelteryCache.java:248
+msgid "There isn't any metal to pour."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/workstations/smeltery/TinkersSmelteryCache.java:258
+msgid "The selected metal cannot be shaped into the selected cast."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/workstations/smeltery/TinkersSmelteryCache.java:267
+msgid "You do not have enough metal to fill this cast"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/workstations/smeltery/TinkersSmelteryCache.java:273
+msgid "Please clear your casting table first"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/workstations/swappingstation/SwappingStation.java:47
+msgid "Input a tool into the first slot."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/workstations/swappingstation/SwappingStation.java:57
+msgid "Input a replacement part into the second slot."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/workstations/swappingstation/SwappingStation.java:69
+#: src/main/java/io/github/sefiraat/slimetinker/items/workstations/swappingstation/SwappingStation.java:75
+msgid "This part cannot be swapped onto this tool."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/workstations/swappingstation/SwappingStation.java:91
+msgid "This head type cannot be swapped onto this tool."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/workstations/swappingstation/SwappingStation.java:133
+msgid "This plate type cannot be swapped onto this armour."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/workstations/tooltable/DummyToolTable.java:18
+msgid "This item is made on a Tinker's Tool Table."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/workstations/workbench/DummyWorkbench.java:17
+msgid "ToolTable"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/items/workstations/workbench/DummyWorkbench.java:18
+msgid "This item is crafted in the workbench."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/listeners/DropItemListener.java:24
+msgid "This cannot be dropped."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/managers/SupportedPluginsManager.java:25
+msgid "Core SlimeTinker"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/managers/SupportedPluginsManager.java:26
+msgid "Infinity Expansion"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/managers/SupportedPluginsManager.java:27
+msgid "Slimefun Warfare"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/managers/SupportedPluginsManager.java:28
+#: src/main/java/io/github/sefiraat/slimetinker/managers/SupportedPluginsManager.java:37
+msgid "DynaTech"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/managers/SupportedPluginsManager.java:29
+#: src/main/java/io/github/sefiraat/slimetinker/managers/SupportedPluginsManager.java:38
+msgid "LiteXpansion"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/managers/SupportedPluginsManager.java:30
+#: src/main/java/io/github/sefiraat/slimetinker/managers/SupportedPluginsManager.java:39
+#: src/main/java/io/github/sefiraat/slimetinker/managers/SupportedPluginsManager.java:43
+msgid "TranscEndence"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/managers/SupportedPluginsManager.java:31
+#: src/main/java/io/github/sefiraat/slimetinker/managers/SupportedPluginsManager.java:40
+msgid "Networks"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/managers/SupportedPluginsManager.java:35
+msgid "InfinityExpansion"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/managers/SupportedPluginsManager.java:36
+msgid "SlimefunWarfare"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/runnables/ArmourRemove.java:47
+msgid "A piece of armour has broken! It's been placed in your inventory."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/runnables/ArmourRemove.java:50
+msgid "A piece of armour has broken! You had no room for it and it has been dropped."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/EntityUtils.java:68
+msgid "Dummy"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/Experience.java:65
+msgid "Your Tinker's tool has leveled up! +1 Modifier Slot"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/Experience.java:103
+msgid "Your tool has been promoted!"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/Experience.java:126
+msgid "It also gained ["
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/Experience.java:126
+msgid "] random enchantment(s)! Hope it's good :>"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/GUIItems.java:26
+msgid "Input"
+msgstr "輸入"
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/GUIItems.java:32
+msgid "Output"
+msgstr "輸出"
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/GUIItems.java:38
+msgid "Cast/Die"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/GUIItems.java:44
+#: src/main/java/io/github/sefiraat/slimetinker/utils/GUIItems.java:50
+msgid "Preview"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/GUIItems.java:56
+msgid "Rod Input"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/GUIItems.java:63
+msgid "Binder Input"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/GUIItems.java:69
+msgid "Head/Blade Input"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/GUIItems.java:75
+msgid "Links Input"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/GUIItems.java:81
+msgid "Gambeson Input"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/GUIItems.java:88
+msgid "Plates Input"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/GUIItems.java:94
+msgid "Purge Metals"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/GUIItems.java:96
+msgid "Purge unwanted metals from the tank."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/GUIItems.java:98
+msgid "Left Click: "
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/GUIItems.java:98
+msgid "Remove the TOP MOST metal"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/GUIItems.java:99
+msgid "Right Click: "
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/GUIItems.java:99
+msgid "Remove ALL metals"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/GUIItems.java:106
+msgid "Mixes up the metals in the tank to"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/GUIItems.java:107
+msgid "try to create an alloy."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/GUIItems.java:112
+msgid "Pour content"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/GUIItems.java:114
+msgid "Pours the first metal into the"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/GUIItems.java:115
+msgid "cast. After cooling, outputs the"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/GUIItems.java:116
+msgid "final product."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/GUIItems.java:121
+msgid "Craft"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/GUIItems.java:123
+msgid "Let's get crafting!"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/GUIItems.java:128
+msgid "Form Tool"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/GUIItems.java:130
+msgid "Forms a tool from the three given"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/GUIItems.java:131
+msgid "parts (Rod, Binding and Head/Blade)"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/GUIItems.java:136
+msgid "Form Armour"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/GUIItems.java:138
+msgid "Forms a piece of armour from the three given"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/GUIItems.java:139
+msgid "parts (Plate, Gambeson and Links)"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/GUIItems.java:144
+msgid "Repair"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/GUIItems.java:146
+msgid "Repairs the tool in the first slot"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/GUIItems.java:147
+msgid "using the repair kit in the second."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/GUIItems.java:152
+msgid "Apply Modification"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/GUIItems.java:154
+msgid "Apply the modification to the tool."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/GUIItems.java:159
+msgid "Swap out part"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/GUIItems.java:161
+msgid "Swap tool parts."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/GUIItems.java:181
+msgid "Lava Tank"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/GUIItems.java:183
+msgid "Lava: "
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/GUIItems.java:183
+#: src/main/java/io/github/sefiraat/slimetinker/utils/GUIItems.java:209
+#: src/main/java/io/github/sefiraat/slimetinker/utils/ItemUtils.java:651
+msgid " / "
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/GUIItems.java:207
+msgid "Metals Tank"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/GUIItems.java:209
+msgid "Total Metal: "
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/GUIItems.java:217
+msgid ": "
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/GUIItems.java:217
+msgid " units."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/GUIItems.java:221
+msgid "Metals pour out from the "
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/GUIItems.java:221
+msgid "top"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/GUIItems.java:221
+msgid " first"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/GUIItems.java:223
+msgid "Click to cycle metal order."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/ItemUtils.java:164
+msgid "H: "
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/ItemUtils.java:165
+msgid "B: "
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/ItemUtils.java:166
+msgid "R: "
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/ItemUtils.java:189
+#: src/main/java/io/github/sefiraat/slimetinker/utils/ItemUtils.java:191
+#: src/main/java/io/github/sefiraat/slimetinker/utils/ItemUtils.java:239
+#: src/main/java/io/github/sefiraat/slimetinker/utils/ItemUtils.java:241
+msgid " Level "
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/ItemUtils.java:189
+#: src/main/java/io/github/sefiraat/slimetinker/utils/ItemUtils.java:239
+msgid " - ("
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/ItemUtils.java:189
+#: src/main/java/io/github/sefiraat/slimetinker/utils/ItemUtils.java:239
+msgid "/"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/ItemUtils.java:189
+#: src/main/java/io/github/sefiraat/slimetinker/utils/ItemUtils.java:239
+#: src/main/java/io/github/sefiraat/slimetinker/utils/ItemUtils.java:651
+msgid ")"
+msgstr "）"
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/ItemUtils.java:191
+#: src/main/java/io/github/sefiraat/slimetinker/utils/ItemUtils.java:241
+msgid " - (MAX)"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/ItemUtils.java:214
+msgid "P: "
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/ItemUtils.java:215
+msgid "G: "
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/ItemUtils.java:216
+msgid "L: "
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/ItemUtils.java:649
+msgid "Level: "
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/ItemUtils.java:651
+msgid " ("
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/ItemUtils.java:656
+msgid "Modifier Slots: "
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/ThemeUtils.java:55
+msgid "Crafting Material"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/ThemeUtils.java:56
+msgid "Machine"
+msgstr "機器"
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/ThemeUtils.java:57
+msgid "Drop"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/ThemeUtils.java:58
+msgid "Base Resource"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/ThemeUtils.java:59
+msgid "Chest"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/ThemeUtils.java:60
+msgid "Molten Metal"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/ThemeUtils.java:61
+msgid "TinkerMaterial"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/ThemeUtils.java:62
+msgid "Cast"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/ThemeUtils.java:63
+msgid "Part"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/ThemeUtils.java:64
+msgid "Tinker's Tool"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/ThemeUtils.java:65
+msgid "Tinker's Armour"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/ThemeUtils.java:66
+msgid "Info"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/ThemeUtils.java:67
+msgid "Modification"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/ThemeUtils.java:68
+msgid "Material Trait"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/slimetinker/utils/ThemeUtils.java:69
+msgid "Mutliblock"
+msgstr ""
+

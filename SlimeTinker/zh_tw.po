@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: slimetranslations\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-26 14:58+0000\n"
-"PO-Revision-Date: 2023-05-28 08:59\n"
+"PO-Revision-Date: 2023-05-30 21:56\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -923,7 +923,7 @@ msgstr ""
 
 #: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:422
 msgid "Lead Block"
-msgstr ""
+msgstr "鉛方塊"
 
 #: src/main/java/io/github/sefiraat/slimetinker/items/Materials.java:423
 msgid "A block made from solid lead"

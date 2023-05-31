@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-31 13:41+0000\n"
+"POT-Creation-Date: 2023-05-31 14:05+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -267,10 +267,6 @@ msgstr ""
 
 #: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:220
 msgid "Lapis"
-msgstr ""
-
-#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:221
-msgid "REDSTONE_PLANT"
 msgstr ""
 
 #: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:223
@@ -536,28 +532,6 @@ msgstr ""
 msgid " Pie"
 msgstr ""
 
-#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:308
-#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:350
-#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:49
-#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:53
-#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:57
-#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:61
-#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:65
-#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:174
-#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:240
-#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:245
-#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:255
-#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:275
-#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:290
-#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:330
-#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:335
-#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:380
-#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:385
-#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:390
-#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:444
-msgid "6.5"
-msgstr ""
-
 #: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:336
 msgid " Bush"
 msgstr ""
@@ -767,10 +741,6 @@ msgstr ""
 
 #: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:199
 msgid "&6Sweetened Pear Cheesecake"
-msgstr ""
-
-#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:204
-msgid "c6c36523c2d11b8c8ea2e992291c52a654760ec72dcc32da2cb63616481ee"
 msgstr ""
 
 #: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:204

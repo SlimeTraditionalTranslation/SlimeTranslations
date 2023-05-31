@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-31 14:05+0000\n"
+"POT-Creation-Date: 2023-05-31 19:12+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -907,8 +907,17 @@ msgstr ""
 msgid "&rBacon wrapped Cheese filled Hot Dog"
 msgstr ""
 
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:405
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:415
+msgid "&7&o\"When I chef\" - @Eyamaz"
+msgstr ""
+
 #: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:410
 msgid "&rBBQ Bacon wrapped Hot Dog"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:410
+msgid "&7&o\"wanna talk about hot dogs?\" - @Pahimar"
 msgstr ""
 
 #: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:415

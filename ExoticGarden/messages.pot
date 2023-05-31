@@ -1,0 +1,1050 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-31 13:41+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:132
+msgid "&aExotic Garden"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:133
+msgid "&aExotic Garden - Plants and Fruits"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:134
+msgid "&aExotic Garden - Ingredients and Tools"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:135
+msgid "&aExotic Garden - Food"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:136
+msgid "&aExotic Garden - Drinks"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:137
+msgid "&5Exotic Garden - Magical Plants"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:141
+msgid "Kitchen"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:146
+msgid "&bIce Cube"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:150
+msgid "Grape"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:151
+msgid "Blueberry"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:152
+msgid "Elderberry"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:153
+msgid "Raspberry"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:154
+msgid "Blackberry"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:155
+msgid "Cranberry"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:156
+msgid "Cowberry"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:157
+msgid "Strawberry"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:159
+msgid "Tomato"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:160
+msgid "Lettuce"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:161
+msgid "Tea Leaf"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:162
+msgid "Cabbage"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:163
+msgid "Sweet Potato"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:164
+msgid "Mustard Seed"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:165
+msgid "Curry Leaf"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:166
+msgid "Onion"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:167
+msgid "Garlic"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:168
+msgid "Cilantro"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:169
+msgid "Black Pepper"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:171
+msgid "Corn"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:172
+msgid "Pineapple"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:174
+msgid "Red Bell Pepper"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:176
+msgid "Oak Apple"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:176
+msgid "Oak Apple Juice"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:177
+msgid "Coconut"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:177
+msgid "Coconut Milk"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:178
+msgid "Cherry"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:178
+msgid "Cherry Juice"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:179
+msgid "Pomegranate"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:179
+msgid "Pomegranate Juice"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:180
+msgid "Lemon"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:180
+msgid "Lemon Juice"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:181
+msgid "Plum"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:181
+msgid "Plum Juice"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:182
+msgid "Lime"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:182
+msgid "Lime Juice"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:183
+msgid "Orange"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:183
+msgid "Orange Juice"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:184
+msgid "Peach"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:184
+msgid "Peach Juice"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:185
+msgid "Pear"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:185
+msgid "Pear Juice"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:186
+msgid "Dragon Fruit"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:186
+msgid "Dragon Fruit Juice"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:190
+msgid "Dirt"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:193
+msgid "Coal"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:196
+msgid "Iron"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:199
+msgid "Gold"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:202
+msgid "Copper"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:205
+msgid "Aluminum"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:208
+msgid "Tin"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:211
+msgid "Silver"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:214
+msgid "Lead"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:217
+msgid "Redstone"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:220
+msgid "Lapis"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:221
+msgid "REDSTONE_PLANT"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:223
+msgid "Ender"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:226
+msgid "Quartz"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:229
+msgid "Diamond"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:232
+msgid "Emerald"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:236
+msgid "Netherite"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:240
+msgid "Glowstone"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:243
+msgid "Obsidian"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:246
+msgid "Slime"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:249
+msgid "&rCrook"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:249
+msgid "&7+ &b25% &7Sapling Drop Rate"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:253
+msgid "&rGrass Seeds"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:253
+msgid "&7&oCan be planted on Dirt"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:295
+msgid " Sapling"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:304
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:308
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:344
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:346
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:348
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:350
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:37
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:41
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:45
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:49
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:53
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:57
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:61
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:65
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:69
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:73
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:114
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:119
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:124
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:129
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:134
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:139
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:144
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:149
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:154
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:159
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:164
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:169
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:174
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:179
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:184
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:189
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:194
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:199
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:204
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:209
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:214
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:219
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:224
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:230
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:235
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:240
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:245
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:250
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:255
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:260
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:265
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:270
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:275
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:280
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:285
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:290
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:295
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:300
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:305
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:310
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:315
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:320
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:325
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:330
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:335
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:340
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:345
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:350
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:355
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:360
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:365
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:370
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:375
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:380
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:385
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:390
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:395
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:400
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:405
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:410
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:415
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:420
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:425
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:430
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:435
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:440
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:444
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:449
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:454
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:459
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:464
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:469
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:474
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:479
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:484
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:489
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:493
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:497
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:502
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:507
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:512
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:517
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:522
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:527
+msgid "&7&oRestores &b&o"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:304
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:308
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:344
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:346
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:348
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:350
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:37
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:41
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:45
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:49
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:53
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:57
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:61
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:65
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:69
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:73
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:114
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:119
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:124
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:129
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:134
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:139
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:144
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:149
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:154
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:159
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:164
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:169
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:174
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:179
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:184
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:189
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:194
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:199
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:204
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:209
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:214
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:219
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:224
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:230
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:235
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:240
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:245
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:250
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:255
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:260
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:265
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:270
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:275
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:280
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:285
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:290
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:295
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:300
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:305
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:310
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:315
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:320
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:325
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:330
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:335
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:340
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:345
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:350
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:355
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:360
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:365
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:370
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:375
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:380
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:385
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:390
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:395
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:400
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:405
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:410
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:415
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:420
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:425
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:430
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:435
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:440
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:444
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:449
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:454
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:459
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:464
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:469
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:474
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:479
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:484
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:489
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:493
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:497
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:502
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:507
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:512
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:517
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:522
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:527
+msgid " &7&oHunger"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:308
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:350
+msgid " Pie"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:308
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:350
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:49
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:53
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:57
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:61
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:65
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:174
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:240
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:245
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:255
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:275
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:290
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:330
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:335
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:380
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:385
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:390
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:444
+msgid "6.5"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:336
+msgid " Bush"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:344
+msgid " Juice"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:346
+msgid " Smoothie"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:348
+msgid " Jelly Sandwich"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:366
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:384
+msgid " Plant"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:379
+msgid "&rMagical Essence"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGardenRecipeTypes.java:15
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/Kitchen.java:39
+msgid "&eKitchen"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGardenRecipeTypes.java:15
+msgid "&rThis item must be made"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGardenRecipeTypes.java:15
+msgid "&rin a Kitchen"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGardenRecipeTypes.java:16
+msgid "&7Breaking Grass"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGardenRecipeTypes.java:17
+msgid "&aHarvesting a Tree"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGardenRecipeTypes.java:17
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGardenRecipeTypes.java:18
+msgid "&rYou can obtain this Item by"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGardenRecipeTypes.java:17
+msgid "&rharvesting the shown Tree"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGardenRecipeTypes.java:18
+msgid "&aHarvesting a Bush"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGardenRecipeTypes.java:18
+msgid "&rharvesting the shown Bush"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:37
+msgid "&aLime Smoothie"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:41
+msgid "&4Tomato Juice"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:45
+msgid "&cWine"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:49
+msgid "&eLemon Iced Tea"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:53
+msgid "&dRaspberry Iced Tea"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:57
+msgid "&dPeach Iced Tea"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:61
+msgid "&4Strawberry Iced Tea"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:65
+msgid "&cCherry Iced Tea"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:69
+msgid "&6Thai Tea"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:73
+msgid "&rPumpkin Bread"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:78
+msgid "&rMayo"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:82
+msgid "&eMustard"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:86
+msgid "&cBBQ Sauce"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:90
+msgid "&rVegetable Oil"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:94
+msgid "&rCornmeal"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:98
+msgid "&rYeast"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:102
+msgid "&8Molasses"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:106
+msgid "&rBrown Sugar"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:110
+msgid "&rCountry Gravy"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:114
+msgid "&rChocolate Bar"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:119
+msgid "&rPotato Salad"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:124
+msgid "&rChicken Sandwich"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:129
+msgid "&rFish Sandwich"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:134
+msgid "&rBagel"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:139
+msgid "&rEgg Salad"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:144
+msgid "&4Tomato Soup"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:149
+msgid "&cStrawberry Salad"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:154
+msgid "&cGrape Salad"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:159
+msgid "&rChicken Curry"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:164
+msgid "&rCoconut Chicken Curry"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:169
+msgid "&6Biscuit"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:174
+msgid "&rBiscuits and Country Gravy"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:179
+msgid "&rCheesecake"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:184
+msgid "&cCherry Cheesecake"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:189
+msgid "&9Blueberry Cheesecake"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:194
+msgid "&6Pumpkin Cheesecake"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:199
+msgid "&6Sweetened Pear Cheesecake"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:204
+msgid "c6c36523c2d11b8c8ea2e992291c52a654760ec72dcc32da2cb63616481ee"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:204
+msgid "&8Blackberry Cobbler"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:209
+msgid "&rPavlova"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:214
+msgid "&6Corn on the Cob"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:219
+msgid "&rCreamed Corn"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:224
+msgid "&rBacon"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:230
+msgid "&rSandwich"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:235
+msgid "&rBLT"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:240
+msgid "&rLeafy Chicken Sandwich"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:245
+msgid "&rLeafy Fish Sandwich"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:250
+msgid "&rHamburger"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:255
+msgid "&rCheeseburger"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:260
+msgid "&rBacon Cheeseburger"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:265
+msgid "&rDeluxe Cheeseburger"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:270
+msgid "&rGarlic Bread"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:275
+msgid "&rGarlic Cheese Bread"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:280
+msgid "&rCarrot Cake"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:285
+msgid "&rChickenburger"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:290
+msgid "&rChicken Cheeseburger"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:295
+msgid "&rBacon Burger"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:300
+msgid "&rBacon Sandwich"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:305
+msgid "&rTaco"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:310
+msgid "&rFish Taco"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:315
+msgid "&rStreet Taco"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:320
+msgid "&cJammy Dodger"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:325
+msgid "&rPancakes"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:330
+msgid "&rBlueberry Pancakes"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:335
+msgid "&rSweet Berry Pancakes"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:340
+msgid "&rFries"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:345
+msgid "&rPopcorn"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:350
+msgid "&rPopcorn &7(Sweet)"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:355
+msgid "&rPopcorn &7(Salty)"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:360
+msgid "&rShepard's Pie"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:365
+msgid "&rChicken Pot Pie"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:370
+msgid "&rChocolate Cake"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:375
+msgid "&rCream Cookie"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:380
+msgid "&rBlueberry Muffin"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:385
+msgid "&rPumpkin Muffin"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:390
+msgid "&rChocolate Chip Muffin"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:395
+msgid "&rBoston Cream Pie"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:400
+msgid "&rHot Dog"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:405
+msgid "&rBacon wrapped Cheese filled Hot Dog"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:410
+msgid "&rBBQ Bacon wrapped Hot Dog"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:415
+msgid "&rBBQ Double Bacon wrapped Hot Dog in a Tortilla with Cheese"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:420
+msgid "&aSweetened Tea"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:425
+msgid "&6Hot Chocolate"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:430
+msgid "&6Pinacolada"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:435
+msgid "&cChocolate Strawberry"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:440
+msgid "&eLemonade"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:444
+msgid "&rSweet Potato Pie"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:449
+msgid "&rLamington"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:454
+msgid "&rWaffles"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:459
+msgid "&rClub Sandwich"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:464
+msgid "&rBurrito"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:469
+msgid "&rChicken Burrito"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:474
+msgid "&rGrilled Sandwich"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:479
+msgid "&rLasagna"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:484
+msgid "&rIce Cream"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:489
+msgid "&6Pineapple Juice"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:493
+msgid "&6Pineapple Smoothie"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:497
+msgid "&rTiramisu"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:502
+msgid "&rTiramisu with Strawberries"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:507
+msgid "&rTiramisu with Raspberries"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:512
+msgid "&rTiramisu with Blackberries"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:517
+msgid "&rChocolate Pear Cake"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:522
+msgid "&cApple Pear Cake"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:527
+msgid "&cStuffed Red Bell Pepper"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/Kitchen.java:39
+msgid "&a&oYou can make a bunch of different yummies here!"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/Kitchen.java:39
+msgid "&a&oThe result goes in the Furnace output slot"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/exoticgarden/items/Kitchen.java:39
+msgid "&oBrick Stairs (upside down)"
+msgstr ""

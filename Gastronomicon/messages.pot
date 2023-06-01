@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-31 16:15+0000\n"
+"POT-Creation-Date: 2023-06-01 10:37+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -59,6 +59,11 @@ msgstr ""
 
 #: src/main/java/io/github/schntgaispock/gastronomicon/api/food/FoodEffect.java:97
 msgid "&aHealth +"
+msgstr ""
+
+#: src/main/java/io/github/schntgaispock/gastronomicon/api/food/FoodEffect.java:113
+#: src/main/java/io/github/schntgaispock/gastronomicon/api/food/FoodEffect.java:114
+msgid "s)"
 msgstr ""
 
 #: src/main/java/io/github/schntgaispock/gastronomicon/api/food/FoodEffect.java:371
@@ -1724,40 +1729,4 @@ msgstr ""
 
 #: src/main/java/io/github/schntgaispock/gastronomicon/integration/SlimeHUDSetup.java:39
 msgid "&7| Not in water"
-msgstr ""
-
-#: src/main/java/io/github/schntgaispock/gastronomicon/util/item/ItemUtil.java:73
-msgid "Slowness"
-msgstr ""
-
-#: src/main/java/io/github/schntgaispock/gastronomicon/util/item/ItemUtil.java:74
-msgid "Haste"
-msgstr ""
-
-#: src/main/java/io/github/schntgaispock/gastronomicon/util/item/ItemUtil.java:75
-msgid "Mining Fatigue"
-msgstr ""
-
-#: src/main/java/io/github/schntgaispock/gastronomicon/util/item/ItemUtil.java:76
-msgid "Strength"
-msgstr ""
-
-#: src/main/java/io/github/schntgaispock/gastronomicon/util/item/ItemUtil.java:77
-msgid "Instant Health"
-msgstr ""
-
-#: src/main/java/io/github/schntgaispock/gastronomicon/util/item/ItemUtil.java:78
-msgid "Instant Damage"
-msgstr ""
-
-#: src/main/java/io/github/schntgaispock/gastronomicon/util/item/ItemUtil.java:79
-msgid "Nausea"
-msgstr ""
-
-#: src/main/java/io/github/schntgaispock/gastronomicon/util/item/ItemUtil.java:80
-msgid "Resistance"
-msgstr ""
-
-#: src/main/java/io/github/schntgaispock/gastronomicon/util/item/ItemUtil.java:81
-msgid "Bad Luck"
 msgstr ""

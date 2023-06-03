@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: slimetranslations\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-26 14:58+0000\n"
-"PO-Revision-Date: 2023-05-30 21:56\n"
+"PO-Revision-Date: 2023-06-03 18:59\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -2518,7 +2518,7 @@ msgstr ""
 
 #: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:479
 msgid "Resistance"
-msgstr ""
+msgstr "抗性"
 
 #: src/main/java/io/github/sefiraat/slimetinker/items/tinkermaterials/setup/Traits.java:481
 msgid "Gives fire resistance while held."

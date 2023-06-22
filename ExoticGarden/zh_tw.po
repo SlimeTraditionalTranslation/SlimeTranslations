@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: slimetranslations\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-31 19:12+0000\n"
-"PO-Revision-Date: 2023-06-21 09:41\n"
+"PO-Revision-Date: 2023-06-22 18:41\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -546,7 +546,7 @@ msgstr "冰沙"
 
 #: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:348
 msgid " Jelly Sandwich"
-msgstr "果醬漢堡"
+msgstr "果醬三明治"
 
 #: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:366
 #: src/main/java/io/github/thebusybiscuit/exoticgarden/ExoticGarden.java:384
@@ -681,11 +681,11 @@ msgstr "&r馬鈴薯沙拉"
 
 #: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:124
 msgid "&rChicken Sandwich"
-msgstr "&r雞肉漢堡"
+msgstr "&r雞肉三明治"
 
 #: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:129
 msgid "&rFish Sandwich"
-msgstr "&r魚排漢堡"
+msgstr "&r魚排三明治"
 
 #: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:134
 msgid "&rBagel"
@@ -765,7 +765,7 @@ msgstr "&r培根"
 
 #: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:230
 msgid "&rSandwich"
-msgstr "&r漢堡"
+msgstr "&r三明治"
 
 #: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:235
 msgid "&rBLT"
@@ -773,11 +773,11 @@ msgstr "&r培根生菜番茄漢堡"
 
 #: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:240
 msgid "&rLeafy Chicken Sandwich"
-msgstr "&r生菜雞肉漢堡"
+msgstr "&r生菜雞肉三明治"
 
 #: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:245
 msgid "&rLeafy Fish Sandwich"
-msgstr "&r生菜魚排漢堡"
+msgstr "&r生菜魚排三明治"
 
 #: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:250
 msgid "&rHamburger"
@@ -821,7 +821,7 @@ msgstr "&r培根漢堡"
 
 #: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:300
 msgid "&rBacon Sandwich"
-msgstr "&r培根漢堡"
+msgstr "&r培根三明治"
 
 #: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:305
 msgid "&rTaco"
@@ -958,7 +958,7 @@ msgstr "&r格子鬆餅"
 
 #: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:459
 msgid "&rClub Sandwich"
-msgstr "&r總匯漢堡"
+msgstr "&r總匯三明治"
 
 #: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:464
 msgid "&rBurrito"
@@ -970,7 +970,7 @@ msgstr "&r墨西哥雞肉捲餅"
 
 #: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:474
 msgid "&rGrilled Sandwich"
-msgstr "&r烤起司豬肉漢堡"
+msgstr "&r烤起司豬肉三明治"
 
 #: src/main/java/io/github/thebusybiscuit/exoticgarden/items/FoodRegistry.java:479
 msgid "&rLasagna"

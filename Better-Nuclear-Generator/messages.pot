@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-29 17:40+0000\n"
+"POT-Creation-Date: 2023-06-29 14:39+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,189 +22,190 @@ msgstr ""
 msgid "No Reactor Core found"
 msgstr ""
 
-#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:262
+#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:289
 msgid "Boom"
 msgstr ""
 
-#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:265
+#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:292
 msgid "Remaining Time: "
 msgstr ""
 
-#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:265
+#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:292
 #: src/main/java/me/CAPS123987/Item/Items.java:39
 msgid "s"
 msgstr ""
 
-#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:268
+#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:295
 msgid "Is Running: "
 msgstr ""
 
-#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:271
+#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:298
 msgid "Heated Coolant in output"
 msgstr ""
 
-#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:272
-#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:278
-#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:284
+#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:299
+#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:305
+#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:311
 msgid "[REACTOR]"
 msgstr ""
 
-#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:272
-#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:278
-#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:284
+#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:299
+#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:305
+#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:311
 msgid " Reactor at"
 msgstr ""
 
-#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:273
-#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:279
-#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:285
+#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:300
+#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:306
+#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:312
 msgid " x: "
 msgstr ""
 
-#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:273
-#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:279
-#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:285
+#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:300
+#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:306
+#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:312
 msgid " y: "
 msgstr ""
 
-#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:273
-#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:279
-#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:285
+#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:300
+#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:306
+#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:312
 msgid " z: "
 msgstr ""
 
-#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:274
-#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:280
+#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:301
+#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:307
 msgid " has "
 msgstr ""
 
-#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:274
+#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:301
 msgid " coolant in output"
 msgstr ""
 
-#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:277
+#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:304
 msgid "Uran waste in output"
 msgstr ""
 
-#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:280
+#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:307
 msgid " uran waste in output"
 msgstr ""
 
-#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:283
+#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:310
 msgid "High heat"
 msgstr ""
 
-#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:286
+#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:313
 msgid " has High heat!"
 msgstr ""
 
-#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:289
+#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:316
 msgid "Coolant Per Tick: "
 msgstr ""
 
-#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:290
+#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:317
 msgid "Uran Per 500s: "
 msgstr ""
 
-#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:293
+#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:320
 msgid "->Current Uran Per 500s: "
 msgstr ""
 
-#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:294
+#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:321
 msgid "->Current temperature: "
 msgstr ""
 
-#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:296
+#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:323
 msgid "->Current power: "
 msgstr ""
 
-#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:301
+#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:328
 msgid "Estimated temperature: "
 msgstr ""
 
-#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:303
+#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:330
 msgid "Estimated power: "
 msgstr ""
 
-#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:340
+#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:367
 msgid "&bCoolant Status: &9"
 msgstr ""
 
-#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:340
+#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:367
 msgid "&r&fCurrent coolant per tick: &7"
 msgstr ""
 
-#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:340
-#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:366
+#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:367
+#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:393
 msgid "&r&fLeft Click: &7+1"
 msgstr ""
 
-#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:340
+#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:367
 msgid "&r&fRight Click: &7-1"
 msgstr ""
 
-#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:366
+#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:393
 msgid "&cFuel Status: &4"
 msgstr ""
 
-#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:366
+#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:393
 msgid "&r&fCurrent uran per 500s: &7"
 msgstr ""
 
-#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:366
+#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:393
 msgid "&r&fRight Click: &7+1"
 msgstr ""
 
-#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:504
+#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:531
 msgid "Status"
 msgstr ""
 
-#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:508
+#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:535
 msgid "Multiblock complete "
 msgstr ""
 
-#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:510
+#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:537
 msgid "Multiblock not complete "
 msgstr ""
 
-#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:511
+#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:538
 msgid "(Click to show "
 msgstr ""
 
-#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:511
+#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:538
 msgid "Reactor Core Hologram"
 msgstr ""
 
-#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:511
+#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:538
 msgid ")"
 msgstr ""
 
-#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:539
+#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:566
 msgid "Reactor Built"
 msgstr ""
 
-#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:686
+#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:713
 msgid "&bCoolant Slot"
 msgstr ""
 
-#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:686
+#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:713
 msgid "&fThis Slot accepts Coolant Cells"
 msgstr ""
 
-#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:688
+#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:715
 msgid "&7Fuel Slot"
 msgstr ""
 
-#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:688
+#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:715
 msgid "&fThis Slot accepts radioactive Fuel such as:"
 msgstr ""
 
-#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:688
+#: src/main/java/me/CAPS123987/IIIDmultiblock/ReactorCore.java:715
 msgid "&2Uranium"
 msgstr ""
 
 #: src/main/java/me/CAPS123987/Item/Grafit.java:43
-msgid "Grafit"
+#: src/main/java/me/CAPS123987/Item/Items.java:82
+msgid "Borium"
 msgstr ""
 
 #: src/main/java/me/CAPS123987/Item/Items.java:29
@@ -265,10 +266,6 @@ msgstr ""
 
 #: src/main/java/me/CAPS123987/Item/Items.java:77
 msgid "&6Orange &7in &bReactor Core Hologram"
-msgstr ""
-
-#: src/main/java/me/CAPS123987/Item/Items.java:82
-msgid "Borium"
 msgstr ""
 
 #: src/main/java/me/CAPS123987/Item/Items.java:87

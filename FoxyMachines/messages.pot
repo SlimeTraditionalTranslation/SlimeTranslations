@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-07 11:11+0000\n"
+"POT-Creation-Date: 2023-06-29 12:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -585,254 +585,275 @@ msgstr ""
 msgid "&fCompressed Sponge"
 msgstr ""
 
-#: src/main/java/me/gallowsdove/foxymachines/Setup.java:172
+#: src/main/java/me/gallowsdove/foxymachines/Setup.java:174
 msgid "&eMob Drop"
 msgstr ""
 
-#: src/main/java/me/gallowsdove/foxymachines/Setup.java:177
+#: src/main/java/me/gallowsdove/foxymachines/Setup.java:179
 msgid "&eRabbit Drop"
 msgstr ""
 
-#: src/main/java/me/gallowsdove/foxymachines/Setup.java:182
+#: src/main/java/me/gallowsdove/foxymachines/Setup.java:184
 msgid "&ePlayer Drop"
 msgstr ""
 
-#: src/main/java/me/gallowsdove/foxymachines/Setup.java:187
+#: src/main/java/me/gallowsdove/foxymachines/Setup.java:189
 msgid "&eTropical Fish Drop"
 msgstr ""
 
-#: src/main/java/me/gallowsdove/foxymachines/Setup.java:192
+#: src/main/java/me/gallowsdove/foxymachines/Setup.java:194
 msgid "&ePolar Fox Drop"
 msgstr ""
 
-#: src/main/java/me/gallowsdove/foxymachines/Setup.java:197
+#: src/main/java/me/gallowsdove/foxymachines/Setup.java:199
 msgid "&eMagma Cube Drop"
 msgstr ""
 
-#: src/main/java/me/gallowsdove/foxymachines/Setup.java:202
+#: src/main/java/me/gallowsdove/foxymachines/Setup.java:204
 msgid "&eParrot Drop"
 msgstr ""
 
-#: src/main/java/me/gallowsdove/foxymachines/Setup.java:207
+#: src/main/java/me/gallowsdove/foxymachines/Setup.java:209
 msgid "&eWither Skeleton Drop"
 msgstr ""
 
-#: src/main/java/me/gallowsdove/foxymachines/Setup.java:246
+#: src/main/java/me/gallowsdove/foxymachines/Setup.java:248
 msgid "&aPixie Queen"
 msgstr ""
 
-#: src/main/java/me/gallowsdove/foxymachines/Setup.java:246
+#: src/main/java/me/gallowsdove/foxymachines/Setup.java:248
 msgid "&7Summon it using &aPixie Queen Spawn Egg"
 msgstr ""
 
-#: src/main/java/me/gallowsdove/foxymachines/Setup.java:251
+#: src/main/java/me/gallowsdove/foxymachines/Setup.java:253
 msgid "&cHeadless Horseman"
 msgstr ""
 
-#: src/main/java/me/gallowsdove/foxymachines/Setup.java:251
+#: src/main/java/me/gallowsdove/foxymachines/Setup.java:253
 msgid "&7Summon it using &cHeadless Horseman Spawn Egg"
 msgstr ""
 
-#: src/main/java/me/gallowsdove/foxymachines/Setup.java:425
+#: src/main/java/me/gallowsdove/foxymachines/Setup.java:427
 msgid "&fGhost Block: &6"
 msgstr ""
 
-#: src/main/java/me/gallowsdove/foxymachines/Setup.java:427
+#: src/main/java/me/gallowsdove/foxymachines/Setup.java:429
 #: src/main/java/me/gallowsdove/foxymachines/implementation/tools/GhostBlockRemover.java:47
 msgid "&7An intangible block."
 msgstr ""
 
-#: src/main/java/me/gallowsdove/foxymachines/Setup.java:452
+#: src/main/java/me/gallowsdove/foxymachines/Setup.java:454
 msgid "On the wind with the power of electricity"
 msgstr ""
 
-#: src/main/java/me/gallowsdove/foxymachines/Setup.java:456
+#: src/main/java/me/gallowsdove/foxymachines/Setup.java:458
 msgid "Create inferno"
 msgstr ""
 
-#: src/main/java/me/gallowsdove/foxymachines/Setup.java:460
+#: src/main/java/me/gallowsdove/foxymachines/Setup.java:462
 msgid "Support"
 msgstr ""
 
-#: src/main/java/me/gallowsdove/foxymachines/Setup.java:464
+#: src/main/java/me/gallowsdove/foxymachines/Setup.java:466
 msgid "Harder, Better, Stronger"
 msgstr ""
 
-#: src/main/java/me/gallowsdove/foxymachines/Setup.java:468
+#: src/main/java/me/gallowsdove/foxymachines/Setup.java:470
 msgid "Beyond imaginations"
 msgstr ""
 
-#: src/main/java/me/gallowsdove/foxymachines/Setup.java:472
+#: src/main/java/me/gallowsdove/foxymachines/Setup.java:474
 msgid "Up 1"
 msgstr ""
 
-#: src/main/java/me/gallowsdove/foxymachines/Setup.java:476
+#: src/main/java/me/gallowsdove/foxymachines/Setup.java:478
 msgid "Brewing like never before"
 msgstr ""
 
-#: src/main/java/me/gallowsdove/foxymachines/Setup.java:480
+#: src/main/java/me/gallowsdove/foxymachines/Setup.java:482
 msgid "Get rid of the smelteries"
 msgstr ""
 
-#: src/main/java/me/gallowsdove/foxymachines/Setup.java:484
+#: src/main/java/me/gallowsdove/foxymachines/Setup.java:486
 msgid "Quite a useful utility"
 msgstr ""
 
-#: src/main/java/me/gallowsdove/foxymachines/Setup.java:488
+#: src/main/java/me/gallowsdove/foxymachines/Setup.java:490
 msgid "What a material"
 msgstr ""
 
-#: src/main/java/me/gallowsdove/foxymachines/Setup.java:492
+#: src/main/java/me/gallowsdove/foxymachines/Setup.java:494
 msgid "Faster, Better, Stronger"
 msgstr ""
 
-#: src/main/java/me/gallowsdove/foxymachines/Setup.java:496
+#: src/main/java/me/gallowsdove/foxymachines/Setup.java:498
 msgid "Stay safe!"
 msgstr ""
 
-#: src/main/java/me/gallowsdove/foxymachines/Setup.java:500
+#: src/main/java/me/gallowsdove/foxymachines/Setup.java:502
 msgid "A safe space"
 msgstr ""
 
-#: src/main/java/me/gallowsdove/foxymachines/Setup.java:504
+#: src/main/java/me/gallowsdove/foxymachines/Setup.java:506
 msgid "From far away"
 msgstr ""
 
-#: src/main/java/me/gallowsdove/foxymachines/Setup.java:508
+#: src/main/java/me/gallowsdove/foxymachines/Setup.java:510
 msgid "More ingots"
 msgstr ""
 
-#: src/main/java/me/gallowsdove/foxymachines/Setup.java:512
+#: src/main/java/me/gallowsdove/foxymachines/Setup.java:514
 msgid "Sacrifice"
 msgstr ""
 
-#: src/main/java/me/gallowsdove/foxymachines/Setup.java:518
+#: src/main/java/me/gallowsdove/foxymachines/Setup.java:520
 msgid "Profit"
 msgstr ""
 
-#: src/main/java/me/gallowsdove/foxymachines/Setup.java:523
+#: src/main/java/me/gallowsdove/foxymachines/Setup.java:525
 msgid "Demonic plate"
 msgstr ""
 
-#: src/main/java/me/gallowsdove/foxymachines/Setup.java:527
+#: src/main/java/me/gallowsdove/foxymachines/Setup.java:529
 msgid "On my way to Forcefield"
 msgstr ""
 
-#: src/main/java/me/gallowsdove/foxymachines/Setup.java:531
+#: src/main/java/me/gallowsdove/foxymachines/Setup.java:533
 msgid "No more wires"
 msgstr ""
 
-#: src/main/java/me/gallowsdove/foxymachines/Setup.java:535
+#: src/main/java/me/gallowsdove/foxymachines/Setup.java:537
 msgid "With the power of Poseidon"
 msgstr ""
 
-#: src/main/java/me/gallowsdove/foxymachines/Setup.java:539
+#: src/main/java/me/gallowsdove/foxymachines/Setup.java:541
 msgid "Better Fishing"
 msgstr ""
 
-#: src/main/java/me/gallowsdove/foxymachines/Setup.java:543
+#: src/main/java/me/gallowsdove/foxymachines/Setup.java:545
 msgid "Better Swords"
 msgstr ""
 
-#: src/main/java/me/gallowsdove/foxymachines/Setup.java:547
-#: src/main/java/me/gallowsdove/foxymachines/Setup.java:551
+#: src/main/java/me/gallowsdove/foxymachines/Setup.java:549
+#: src/main/java/me/gallowsdove/foxymachines/Setup.java:553
 msgid "More Lumps, More Magic"
 msgstr ""
 
-#: src/main/java/me/gallowsdove/foxymachines/Setup.java:555
+#: src/main/java/me/gallowsdove/foxymachines/Setup.java:557
 msgid "Bloodier"
 msgstr ""
 
-#: src/main/java/me/gallowsdove/foxymachines/Setup.java:559
+#: src/main/java/me/gallowsdove/foxymachines/Setup.java:561
 msgid "Better Armor"
 msgstr ""
 
-#: src/main/java/me/gallowsdove/foxymachines/Setup.java:563
+#: src/main/java/me/gallowsdove/foxymachines/Setup.java:565
 msgid "Bloody Bucket"
 msgstr ""
 
-#: src/main/java/me/gallowsdove/foxymachines/Setup.java:567
+#: src/main/java/me/gallowsdove/foxymachines/Setup.java:569
 msgid "Balanced, as things should be"
 msgstr ""
 
-#: src/main/java/me/gallowsdove/foxymachines/Setup.java:571
+#: src/main/java/me/gallowsdove/foxymachines/Setup.java:573
 msgid "The Ultimate Sword"
 msgstr ""
 
-#: src/main/java/me/gallowsdove/foxymachines/Setup.java:575
+#: src/main/java/me/gallowsdove/foxymachines/Setup.java:577
 msgid "Armor Frame"
 msgstr ""
 
-#: src/main/java/me/gallowsdove/foxymachines/Setup.java:579
+#: src/main/java/me/gallowsdove/foxymachines/Setup.java:581
 msgid "Who needs anvil?"
 msgstr ""
 
-#: src/main/java/me/gallowsdove/foxymachines/Setup.java:584
+#: src/main/java/me/gallowsdove/foxymachines/Setup.java:586
 msgid "A worthy opponent."
 msgstr ""
 
-#: src/main/java/me/gallowsdove/foxymachines/Setup.java:588
+#: src/main/java/me/gallowsdove/foxymachines/Setup.java:590
 msgid "Strength Boost."
 msgstr ""
 
-#: src/main/java/me/gallowsdove/foxymachines/Setup.java:592
+#: src/main/java/me/gallowsdove/foxymachines/Setup.java:594
 msgid "Good luck"
 msgstr ""
 
-#: src/main/java/me/gallowsdove/foxymachines/Setup.java:596
+#: src/main/java/me/gallowsdove/foxymachines/Setup.java:598
 msgid "Health Boost."
 msgstr ""
 
-#: src/main/java/me/gallowsdove/foxymachines/Setup.java:601
+#: src/main/java/me/gallowsdove/foxymachines/Setup.java:603
 msgid "Bow."
 msgstr ""
 
-#: src/main/java/me/gallowsdove/foxymachines/Setup.java:605
+#: src/main/java/me/gallowsdove/foxymachines/Setup.java:607
 msgid "Ghost Block Remover."
 msgstr ""
 
-#: src/main/java/me/gallowsdove/foxymachines/Setup.java:609
+#: src/main/java/me/gallowsdove/foxymachines/Setup.java:611
 msgid "Building made easier."
 msgstr ""
 
-#: src/main/java/me/gallowsdove/foxymachines/Setup.java:613
+#: src/main/java/me/gallowsdove/foxymachines/Setup.java:615
 msgid "Don't forget your hazmat suit."
 msgstr ""
 
-#: src/main/java/me/gallowsdove/foxymachines/Setup.java:617
+#: src/main/java/me/gallowsdove/foxymachines/Setup.java:619
 msgid "Succ."
 msgstr ""
 
-#: src/main/java/me/gallowsdove/foxymachines/abstracts/AbstractWand.java:78
+#: src/main/java/me/gallowsdove/foxymachines/abstracts/AbstractWand.java:95
 msgid "Material set to: "
 msgstr ""
 
-#: src/main/java/me/gallowsdove/foxymachines/abstracts/AbstractWand.java:81
+#: src/main/java/me/gallowsdove/foxymachines/abstracts/AbstractWand.java:98
 msgid "Material: "
 msgstr ""
 
-#: src/main/java/me/gallowsdove/foxymachines/abstracts/AbstractWand.java:100
-msgid "Select a building material with Shift + Right Click!"
+#: src/main/java/me/gallowsdove/foxymachines/abstracts/AbstractWand.java:103
+msgid "Cannot use: "
 msgstr ""
 
-#: src/main/java/me/gallowsdove/foxymachines/abstracts/AbstractWand.java:114
-msgid "Your item doesn't have enough energy for that!"
-msgstr ""
-
-#: src/main/java/me/gallowsdove/foxymachines/abstracts/AbstractWand.java:115
-msgid "Energy needed: "
+#: src/main/java/me/gallowsdove/foxymachines/abstracts/AbstractWand.java:103
+msgid ", with the fill wand"
 msgstr ""
 
 #: src/main/java/me/gallowsdove/foxymachines/abstracts/AbstractWand.java:118
+msgid "Select a building material with Shift + Right Click!"
+msgstr ""
+
+#: src/main/java/me/gallowsdove/foxymachines/abstracts/AbstractWand.java:132
+msgid "Your item doesn't have enough energy for that!"
+msgstr ""
+
+#: src/main/java/me/gallowsdove/foxymachines/abstracts/AbstractWand.java:133
+msgid "Energy needed: "
+msgstr ""
+
+#: src/main/java/me/gallowsdove/foxymachines/abstracts/AbstractWand.java:136
 msgid "There aren't enough materials in your inventory!"
 msgstr ""
 
-#: src/main/java/me/gallowsdove/foxymachines/abstracts/AbstractWand.java:119
+#: src/main/java/me/gallowsdove/foxymachines/abstracts/AbstractWand.java:137
 msgid "Current items: "
 msgstr ""
 
-#: src/main/java/me/gallowsdove/foxymachines/abstracts/AbstractWand.java:119
+#: src/main/java/me/gallowsdove/foxymachines/abstracts/AbstractWand.java:137
 msgid " Needed: "
+msgstr ""
+
+#: src/main/java/me/gallowsdove/foxymachines/abstracts/AbstractWand.java:150
+#: src/main/java/me/gallowsdove/foxymachines/abstracts/AbstractWand.java:180
+msgid "Please select both locations using Position Selector!"
+msgstr ""
+
+#: src/main/java/me/gallowsdove/foxymachines/abstracts/AbstractWand.java:173
+msgid "Selected area is too big!"
+msgstr ""
+
+#: src/main/java/me/gallowsdove/foxymachines/abstracts/AbstractWand.java:196
+msgid "No valid locations found given the selected points!"
 msgstr ""
 
 #: src/main/java/me/gallowsdove/foxymachines/commands/KillallCommand.java:17
@@ -1070,23 +1091,6 @@ msgstr ""
 
 #: src/main/java/me/gallowsdove/foxymachines/implementation/tools/BerryBushTrimmer.java:70
 msgid "This berry bush is already trimmed!"
-msgstr ""
-
-#: src/main/java/me/gallowsdove/foxymachines/implementation/tools/FillWand.java:52
-#: src/main/java/me/gallowsdove/foxymachines/implementation/tools/FillWand.java:83
-#: src/main/java/me/gallowsdove/foxymachines/implementation/tools/SpongeWand.java:49
-#: src/main/java/me/gallowsdove/foxymachines/implementation/tools/SpongeWand.java:80
-msgid "Please select both locations using Position Selector!"
-msgstr ""
-
-#: src/main/java/me/gallowsdove/foxymachines/implementation/tools/FillWand.java:76
-#: src/main/java/me/gallowsdove/foxymachines/implementation/tools/SpongeWand.java:73
-msgid "Selected area is too big!"
-msgstr ""
-
-#: src/main/java/me/gallowsdove/foxymachines/implementation/tools/FillWand.java:98
-#: src/main/java/me/gallowsdove/foxymachines/implementation/tools/SpongeWand.java:96
-msgid "No valid locations found given the selected points!"
 msgstr ""
 
 #: src/main/java/me/gallowsdove/foxymachines/implementation/tools/GhostBlockRemover.java:45
@@ -1350,6 +1354,6 @@ msgstr ""
 msgid " that shall die by my blade"
 msgstr ""
 
-#: src/main/java/me/gallowsdove/foxymachines/utils/QuestUtils.java:67
+#: src/main/java/me/gallowsdove/foxymachines/utils/QuestUtils.java:68
 msgid "Invalid Entity Type in \"quest-mobs\": "
 msgstr ""

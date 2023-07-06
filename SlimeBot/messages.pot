@@ -1,0 +1,518 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-06 17:11+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/main/java/tsp/slimebot/Metrics.java:80
+msgid ""
+"bStats (https://bStats.org) collects some basic information for plugin "
+"authors, like how\n"
+msgstr ""
+
+#: src/main/java/tsp/slimebot/Metrics.java:81
+msgid ""
+"many people use their plugin and their total player count. It's recommended "
+"to keep bStats\n"
+msgstr ""
+
+#: src/main/java/tsp/slimebot/Metrics.java:82
+msgid ""
+"enabled, but if you're not comfortable with this, you can turn this setting "
+"off. There is no\n"
+msgstr ""
+
+#: src/main/java/tsp/slimebot/Metrics.java:83
+msgid ""
+"performance penalty associated with having metrics enabled, and data sent to "
+"bStats is fully\n"
+msgstr ""
+
+#: src/main/java/tsp/slimebot/Metrics.java:84
+msgid "anonymous."
+msgstr ""
+
+#: src/main/java/tsp/slimebot/SlimeBot.java:54
+msgid "Loading SlimeBot - "
+msgstr ""
+
+#: src/main/java/tsp/slimebot/SlimeBot.java:54
+msgid " (Build "
+msgstr ""
+
+#: src/main/java/tsp/slimebot/SlimeBot.java:54
+#: src/main/java/tsp/slimebot/bot/Bot.java:44
+#: src/main/java/tsp/slimebot/command/discord/PlayerCommand.java:36
+#: src/main/java/tsp/slimebot/command/discord/PlayerCommand.java:38
+msgid ")"
+msgstr ""
+
+#: src/main/java/tsp/slimebot/SlimeBot.java:58
+msgid "[Build Dependencies]: Spigot: "
+msgstr ""
+
+#: src/main/java/tsp/slimebot/SlimeBot.java:58
+msgid " | Slimefun: "
+msgstr ""
+
+#: src/main/java/tsp/slimebot/SlimeBot.java:72
+msgid "Done!"
+msgstr ""
+
+#: src/main/java/tsp/slimebot/bot/Bot.java:39
+msgid "Bot failed to login! Make sure the token is correct inside the config."
+msgstr ""
+
+#: src/main/java/tsp/slimebot/bot/Bot.java:44
+msgid "Bot is running on thread: "
+msgstr ""
+
+#: src/main/java/tsp/slimebot/bot/Bot.java:44
+msgid " (ID: "
+msgstr ""
+
+#: src/main/java/tsp/slimebot/bot/Bot.java:45
+msgid "Bot is running on account: "
+msgstr ""
+
+#: src/main/java/tsp/slimebot/bot/Bot.java:46
+msgid "Invite: "
+msgstr ""
+
+#: src/main/java/tsp/slimebot/command/discord/AddonsCommand.java:36
+msgid ""
+"\n"
+"> Description: "
+msgstr ""
+
+#: src/main/java/tsp/slimebot/command/discord/AddonsCommand.java:37
+msgid ""
+"\n"
+"> Version: "
+msgstr ""
+
+#: src/main/java/tsp/slimebot/command/discord/AddonsCommand.java:38
+msgid ""
+"\n"
+"> Authors: "
+msgstr ""
+
+#: src/main/java/tsp/slimebot/command/discord/AddonsCommand.java:38
+msgid ", "
+msgstr ""
+
+#: src/main/java/tsp/slimebot/command/discord/AddonsCommand.java:39
+msgid ""
+"\n"
+"> Website: "
+msgstr ""
+
+#: src/main/java/tsp/slimebot/command/discord/AddonsCommand.java:42
+msgid ""
+"\n"
+"> Main: "
+msgstr ""
+
+#: src/main/java/tsp/slimebot/command/discord/AddonsCommand.java:43
+msgid ""
+"\n"
+"> API Version: "
+msgstr ""
+
+#: src/main/java/tsp/slimebot/command/discord/AddonsCommand.java:44
+msgid ""
+"\n"
+"> Load: "
+msgstr ""
+
+#: src/main/java/tsp/slimebot/command/discord/AddonsCommand.java:45
+msgid ""
+"\n"
+"> Libraries: "
+msgstr ""
+
+#: src/main/java/tsp/slimebot/command/discord/AddonsCommand.java:48
+#: src/main/java/tsp/slimebot/util/Utils.java:58
+#: src/main/java/tsp/slimebot/util/Utils.java:66
+msgid ""
+"\n"
+"\n"
+msgstr ""
+
+#: src/main/java/tsp/slimebot/command/discord/AddonsCommand.java:51
+msgid "Installed Addons ("
+msgstr ""
+
+#: src/main/java/tsp/slimebot/command/discord/AddonsCommand.java:51
+msgid ") | Page: "
+msgstr ""
+
+#: src/main/java/tsp/slimebot/command/discord/AddonsCommand.java:58
+#: src/main/java/tsp/slimebot/command/discord/PlayerCommand.java:30
+#: src/main/java/tsp/slimebot/command/discord/PlayerCommand.java:31
+#: src/main/java/tsp/slimebot/command/discord/PlayerCommand.java:32
+#: src/main/java/tsp/slimebot/command/discord/PlayerCommand.java:33
+#: src/main/java/tsp/slimebot/util/Utils.java:79
+#: src/main/java/tsp/slimebot/util/Utils.java:89
+#: src/main/java/tsp/slimebot/util/Utils.java:97
+#: src/main/java/tsp/slimebot/util/Utils.java:105
+msgid "None"
+msgstr ""
+
+#: src/main/java/tsp/slimebot/command/discord/GroupCommand.java:26
+msgid "None."
+msgstr ""
+
+#: src/main/java/tsp/slimebot/command/discord/GroupListCommand.java:30
+msgid "Groups | Page: "
+msgstr ""
+
+#: src/main/java/tsp/slimebot/command/discord/IDCommand.java:24
+msgid "Not in a guild."
+msgstr ""
+
+#: src/main/java/tsp/slimebot/command/discord/IDCommand.java:25
+msgid "You must run this command in a guild!"
+msgstr ""
+
+#: src/main/java/tsp/slimebot/command/discord/ItemCommand.java:26
+msgid "**Information**"
+msgstr ""
+
+#: src/main/java/tsp/slimebot/command/discord/ItemCommand.java:29
+msgid "**Description**"
+msgstr ""
+
+#: src/main/java/tsp/slimebot/command/discord/ItemCommand.java:32
+msgid "**Category**\n"
+msgstr ""
+
+#: src/main/java/tsp/slimebot/command/discord/ItemCommand.java:35
+msgid "**Research**\n"
+msgstr ""
+
+#: src/main/java/tsp/slimebot/command/discord/ItemCommand.java:38
+#: src/main/java/tsp/slimebot/command/discord/RecipeCommand.java:25
+msgid "**Recipe**"
+msgstr ""
+
+#: src/main/java/tsp/slimebot/command/discord/ItemCommand.java:48
+#: src/main/java/tsp/slimebot/command/discord/RecipeCommand.java:35
+msgid "Invalid item."
+msgstr ""
+
+#: src/main/java/tsp/slimebot/command/discord/ItemCommand.java:49
+msgid "Could not find item: "
+msgstr ""
+
+#: src/main/java/tsp/slimebot/command/discord/ItemListCommand.java:78
+msgid " Items | Page: "
+msgstr ""
+
+#: src/main/java/tsp/slimebot/command/discord/PlayerCommand.java:36
+#: src/main/java/tsp/slimebot/listener/discord/DiscordCommandListener.java:48
+msgid " ("
+msgstr ""
+
+#: src/main/java/tsp/slimebot/command/discord/PlayerCommand.java:37
+msgid ""
+"\n"
+"Title: "
+msgstr ""
+
+#: src/main/java/tsp/slimebot/command/discord/PlayerCommand.java:38
+msgid ""
+"\n"
+"Research Progress: "
+msgstr ""
+
+#: src/main/java/tsp/slimebot/command/discord/PlayerCommand.java:38
+msgid "% "
+msgstr ""
+
+#: src/main/java/tsp/slimebot/command/discord/PlayerCommand.java:38
+msgid " / "
+msgstr ""
+
+#: src/main/java/tsp/slimebot/command/discord/PlayerCommand.java:39
+msgid ""
+"\n"
+"Total XP Levels spent: "
+msgstr ""
+
+#: src/main/java/tsp/slimebot/command/discord/PlayerCommand.java:41
+msgid ""
+"\n"
+"**Armor**"
+msgstr ""
+
+#: src/main/java/tsp/slimebot/command/discord/RecipeCommand.java:36
+msgid "That item does not exist!"
+msgstr ""
+
+#: src/main/java/tsp/slimebot/command/discord/RecipeCommand.java:37
+msgid "Example item: `backpack`"
+msgstr ""
+
+#: src/main/java/tsp/slimebot/command/discord/ResearchCommand.java:29
+msgid "No research found for: "
+msgstr ""
+
+#: src/main/java/tsp/slimebot/command/discord/ResearchCommand.java:35
+msgid "Invalid research."
+msgstr ""
+
+#: src/main/java/tsp/slimebot/command/discord/ResearchListCommand.java:33
+msgid "Researches | Page: "
+msgstr ""
+
+#: src/main/java/tsp/slimebot/command/minecraft/SlimeBotCommand.java:24
+msgid "&7Running &aSlimeBot - "
+msgstr ""
+
+#: src/main/java/tsp/slimebot/command/minecraft/SlimeBotCommand.java:24
+msgid " &7(&aBuild "
+msgstr ""
+
+#: src/main/java/tsp/slimebot/command/minecraft/SlimeBotCommand.java:24
+msgid "&7)"
+msgstr ""
+
+#: src/main/java/tsp/slimebot/command/minecraft/SlimeBotCommand.java:25
+msgid ""
+"\n"
+"&7Created by &a"
+msgstr ""
+
+#: src/main/java/tsp/slimebot/command/minecraft/SlimeBotCommand.java:29
+msgid "&7Click to visit the GitHub page."
+msgstr ""
+
+#: src/main/java/tsp/slimebot/command/minecraft/SlimeBotCommand.java:33
+msgid "&7Compiled by &a"
+msgstr ""
+
+#: src/main/java/tsp/slimebot/command/minecraft/SlimeBotCommand.java:33
+msgid " &7on &a"
+msgstr ""
+
+#: src/main/java/tsp/slimebot/listener/discord/BotReadyListener.java:18
+msgid "Invalid guild id!"
+msgstr ""
+
+#: src/main/java/tsp/slimebot/listener/discord/BotReadyListener.java:23
+msgid "Retrieve an id."
+msgstr ""
+
+#: src/main/java/tsp/slimebot/listener/discord/BotReadyListener.java:24
+msgid "Retrieve id of the text channel."
+msgstr ""
+
+#: src/main/java/tsp/slimebot/listener/discord/BotReadyListener.java:27
+msgid "Retrieve information about a player."
+msgstr ""
+
+#: src/main/java/tsp/slimebot/listener/discord/BotReadyListener.java:28
+msgid "Player name"
+msgstr ""
+
+#: src/main/java/tsp/slimebot/listener/discord/BotReadyListener.java:30
+msgid "Retrieve information about a group (category)."
+msgstr ""
+
+#: src/main/java/tsp/slimebot/listener/discord/BotReadyListener.java:31
+msgid "Group name"
+msgstr ""
+
+#: src/main/java/tsp/slimebot/listener/discord/BotReadyListener.java:33
+msgid "List all groups."
+msgstr ""
+
+#: src/main/java/tsp/slimebot/listener/discord/BotReadyListener.java:34
+#: src/main/java/tsp/slimebot/listener/discord/BotReadyListener.java:41
+#: src/main/java/tsp/slimebot/listener/discord/BotReadyListener.java:50
+#: src/main/java/tsp/slimebot/listener/discord/BotReadyListener.java:53
+msgid "Page"
+msgstr ""
+
+#: src/main/java/tsp/slimebot/listener/discord/BotReadyListener.java:36
+msgid "Retrieve detailed information about an item."
+msgstr ""
+
+#: src/main/java/tsp/slimebot/listener/discord/BotReadyListener.java:37
+#: src/main/java/tsp/slimebot/listener/discord/BotReadyListener.java:44
+msgid "Item name"
+msgstr ""
+
+#: src/main/java/tsp/slimebot/listener/discord/BotReadyListener.java:39
+msgid "List all items"
+msgstr ""
+
+#: src/main/java/tsp/slimebot/listener/discord/BotReadyListener.java:43
+msgid "Retrieve information about a recipe"
+msgstr ""
+
+#: src/main/java/tsp/slimebot/listener/discord/BotReadyListener.java:46
+msgid "Retrieve information about a research"
+msgstr ""
+
+#: src/main/java/tsp/slimebot/listener/discord/BotReadyListener.java:47
+msgid "Research key"
+msgstr ""
+
+#: src/main/java/tsp/slimebot/listener/discord/BotReadyListener.java:49
+msgid "List all researches."
+msgstr ""
+
+#: src/main/java/tsp/slimebot/listener/discord/BotReadyListener.java:52
+msgid "List all installed addons."
+msgstr ""
+
+#: src/main/java/tsp/slimebot/listener/discord/BotReadyListener.java:54
+msgid "Detailed list"
+msgstr ""
+
+#: src/main/java/tsp/slimebot/listener/discord/BotShutdownListener.java:13
+msgid "The bot has shutdown. Reason: "
+msgstr ""
+
+#: src/main/java/tsp/slimebot/listener/discord/BotShutdownListener.java:13
+#: src/main/java/tsp/slimebot/util/Utils.java:119
+msgid "Unknown"
+msgstr ""
+
+#: src/main/java/tsp/slimebot/listener/discord/DiscordCommandListener.java:33
+msgid "No permission!"
+msgstr ""
+
+#: src/main/java/tsp/slimebot/listener/discord/DiscordCommandListener.java:34
+msgid "You do not have permission to run this command!"
+msgstr ""
+
+#: src/main/java/tsp/slimebot/listener/discord/DiscordCommandListener.java:48
+msgid ") executed command: "
+msgstr ""
+
+#: src/main/java/tsp/slimebot/listener/minecraft/ResearchUnlockListener.java:32
+msgid "Invalid channel id: "
+msgstr ""
+
+#: src/main/java/tsp/slimebot/listener/minecraft/ResearchUnlockListener.java:37
+msgid " unlocked a research!"
+msgstr ""
+
+#: src/main/java/tsp/slimebot/util/Utils.java:56
+msgid ""
+"\n"
+" > ID: "
+msgstr ""
+
+#: src/main/java/tsp/slimebot/util/Utils.java:57
+#: src/main/java/tsp/slimebot/util/Utils.java:65
+msgid ""
+"\n"
+" > Items included: "
+msgstr ""
+
+#: src/main/java/tsp/slimebot/util/Utils.java:64
+msgid ""
+"\n"
+" > Tier: "
+msgstr ""
+
+#: src/main/java/tsp/slimebot/util/Utils.java:71
+msgid ","
+msgstr ""
+
+#: src/main/java/tsp/slimebot/util/Utils.java:90
+#: src/main/java/tsp/slimebot/util/Utils.java:98
+#: src/main/java/tsp/slimebot/util/Utils.java:108
+msgid " > ID: "
+msgstr ""
+
+#: src/main/java/tsp/slimebot/util/Utils.java:91
+#: src/main/java/tsp/slimebot/util/Utils.java:101
+msgid " > Addon: "
+msgstr ""
+
+#: src/main/java/tsp/slimebot/util/Utils.java:92
+msgid " > State: "
+msgstr ""
+
+#: src/main/java/tsp/slimebot/util/Utils.java:93
+msgid " > Wiki: "
+msgstr ""
+
+#: src/main/java/tsp/slimebot/util/Utils.java:99
+#: src/main/java/tsp/slimebot/util/Utils.java:109
+msgid " > Name: "
+msgstr ""
+
+#: src/main/java/tsp/slimebot/util/Utils.java:100
+msgid " > Tier: "
+msgstr ""
+
+#: src/main/java/tsp/slimebot/util/Utils.java:110
+msgid " > Cost: "
+msgstr ""
+
+#: src/main/java/tsp/slimebot/util/Utils.java:111
+msgid " > Items included: "
+msgstr ""
+
+#: src/main/java/tsp/slimebot/util/Utils.java:121
+msgid " > Machine ID: "
+msgstr ""
+
+#: src/main/java/tsp/slimebot/util/Utils.java:122
+msgid " > Machine: "
+msgstr ""
+
+#: src/main/java/tsp/slimebot/util/Utils.java:123
+msgid " > Output ("
+msgstr ""
+
+#: src/main/java/tsp/slimebot/util/Utils.java:123
+msgid "): "
+msgstr ""
+
+#: src/main/java/tsp/slimebot/util/Utils.java:184
+msgid "**Crafting (Shaped**)"
+msgstr ""
+
+#: src/main/java/tsp/slimebot/util/Utils.java:185
+msgid "*Unimplemented by the bot*"
+msgstr ""
+
+#: src/main/java/tsp/slimebot/util/Utils.java:188
+msgid "**Crafting (Shapeless)**"
+msgstr ""
+
+#: src/main/java/tsp/slimebot/util/Utils.java:192
+msgid "**Furnace**"
+msgstr ""
+
+#: src/main/java/tsp/slimebot/util/Utils.java:193
+msgid " > Input: "
+msgstr ""
+
+#: src/main/java/tsp/slimebot/util/Utils.java:194
+msgid " > Result: "
+msgstr ""
+
+#: src/main/java/tsp/slimebot/util/Utils.java:255
+msgid "Requested by "
+msgstr ""

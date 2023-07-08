@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-07-06 17:11+0000\n"
+"POT-Creation-Date: 2023-07-08 18:37+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -145,8 +145,8 @@ msgid ""
 msgstr ""
 
 #: src/main/java/tsp/slimebot/command/discord/AddonsCommand.java:48
-#: src/main/java/tsp/slimebot/util/Utils.java:58
-#: src/main/java/tsp/slimebot/util/Utils.java:66
+#: src/main/java/tsp/slimebot/util/Utils.java:60
+#: src/main/java/tsp/slimebot/util/Utils.java:68
 msgid ""
 "\n"
 "\n"
@@ -165,10 +165,10 @@ msgstr ""
 #: src/main/java/tsp/slimebot/command/discord/PlayerCommand.java:31
 #: src/main/java/tsp/slimebot/command/discord/PlayerCommand.java:32
 #: src/main/java/tsp/slimebot/command/discord/PlayerCommand.java:33
-#: src/main/java/tsp/slimebot/util/Utils.java:79
-#: src/main/java/tsp/slimebot/util/Utils.java:89
-#: src/main/java/tsp/slimebot/util/Utils.java:97
-#: src/main/java/tsp/slimebot/util/Utils.java:105
+#: src/main/java/tsp/slimebot/util/Utils.java:81
+#: src/main/java/tsp/slimebot/util/Utils.java:91
+#: src/main/java/tsp/slimebot/util/Utils.java:99
+#: src/main/java/tsp/slimebot/util/Utils.java:107
 msgid "None"
 msgstr ""
 
@@ -197,11 +197,11 @@ msgid "**Description**"
 msgstr ""
 
 #: src/main/java/tsp/slimebot/command/discord/ItemCommand.java:32
-msgid "**Category**\n"
+msgid "**Category**"
 msgstr ""
 
 #: src/main/java/tsp/slimebot/command/discord/ItemCommand.java:35
-msgid "**Research**\n"
+msgid "**Research**"
 msgstr ""
 
 #: src/main/java/tsp/slimebot/command/discord/ItemCommand.java:38
@@ -390,7 +390,7 @@ msgid "The bot has shutdown. Reason: "
 msgstr ""
 
 #: src/main/java/tsp/slimebot/listener/discord/BotShutdownListener.java:13
-#: src/main/java/tsp/slimebot/util/Utils.java:119
+#: src/main/java/tsp/slimebot/util/Utils.java:121
 msgid "Unknown"
 msgstr ""
 
@@ -414,105 +414,105 @@ msgstr ""
 msgid " unlocked a research!"
 msgstr ""
 
-#: src/main/java/tsp/slimebot/util/Utils.java:56
+#: src/main/java/tsp/slimebot/util/Utils.java:58
 msgid ""
 "\n"
 " > ID: "
 msgstr ""
 
-#: src/main/java/tsp/slimebot/util/Utils.java:57
-#: src/main/java/tsp/slimebot/util/Utils.java:65
+#: src/main/java/tsp/slimebot/util/Utils.java:59
+#: src/main/java/tsp/slimebot/util/Utils.java:67
 msgid ""
 "\n"
 " > Items included: "
 msgstr ""
 
-#: src/main/java/tsp/slimebot/util/Utils.java:64
+#: src/main/java/tsp/slimebot/util/Utils.java:66
 msgid ""
 "\n"
 " > Tier: "
 msgstr ""
 
-#: src/main/java/tsp/slimebot/util/Utils.java:71
+#: src/main/java/tsp/slimebot/util/Utils.java:73
 msgid ","
 msgstr ""
 
-#: src/main/java/tsp/slimebot/util/Utils.java:90
-#: src/main/java/tsp/slimebot/util/Utils.java:98
-#: src/main/java/tsp/slimebot/util/Utils.java:108
+#: src/main/java/tsp/slimebot/util/Utils.java:92
+#: src/main/java/tsp/slimebot/util/Utils.java:100
+#: src/main/java/tsp/slimebot/util/Utils.java:110
 msgid " > ID: "
 msgstr ""
 
-#: src/main/java/tsp/slimebot/util/Utils.java:91
-#: src/main/java/tsp/slimebot/util/Utils.java:101
+#: src/main/java/tsp/slimebot/util/Utils.java:93
+#: src/main/java/tsp/slimebot/util/Utils.java:103
 msgid " > Addon: "
 msgstr ""
 
-#: src/main/java/tsp/slimebot/util/Utils.java:92
+#: src/main/java/tsp/slimebot/util/Utils.java:94
 msgid " > State: "
 msgstr ""
 
-#: src/main/java/tsp/slimebot/util/Utils.java:93
+#: src/main/java/tsp/slimebot/util/Utils.java:95
 msgid " > Wiki: "
 msgstr ""
 
-#: src/main/java/tsp/slimebot/util/Utils.java:99
-#: src/main/java/tsp/slimebot/util/Utils.java:109
+#: src/main/java/tsp/slimebot/util/Utils.java:101
+#: src/main/java/tsp/slimebot/util/Utils.java:111
 msgid " > Name: "
 msgstr ""
 
-#: src/main/java/tsp/slimebot/util/Utils.java:100
+#: src/main/java/tsp/slimebot/util/Utils.java:102
 msgid " > Tier: "
 msgstr ""
 
-#: src/main/java/tsp/slimebot/util/Utils.java:110
+#: src/main/java/tsp/slimebot/util/Utils.java:112
 msgid " > Cost: "
 msgstr ""
 
-#: src/main/java/tsp/slimebot/util/Utils.java:111
+#: src/main/java/tsp/slimebot/util/Utils.java:113
 msgid " > Items included: "
 msgstr ""
 
-#: src/main/java/tsp/slimebot/util/Utils.java:121
+#: src/main/java/tsp/slimebot/util/Utils.java:123
 msgid " > Machine ID: "
 msgstr ""
 
-#: src/main/java/tsp/slimebot/util/Utils.java:122
+#: src/main/java/tsp/slimebot/util/Utils.java:124
 msgid " > Machine: "
 msgstr ""
 
-#: src/main/java/tsp/slimebot/util/Utils.java:123
+#: src/main/java/tsp/slimebot/util/Utils.java:125
 msgid " > Output ("
 msgstr ""
 
-#: src/main/java/tsp/slimebot/util/Utils.java:123
+#: src/main/java/tsp/slimebot/util/Utils.java:125
 msgid "): "
 msgstr ""
 
-#: src/main/java/tsp/slimebot/util/Utils.java:184
+#: src/main/java/tsp/slimebot/util/Utils.java:186
 msgid "**Crafting (Shaped**)"
 msgstr ""
 
-#: src/main/java/tsp/slimebot/util/Utils.java:185
+#: src/main/java/tsp/slimebot/util/Utils.java:187
 msgid "*Unimplemented by the bot*"
 msgstr ""
 
-#: src/main/java/tsp/slimebot/util/Utils.java:188
+#: src/main/java/tsp/slimebot/util/Utils.java:190
 msgid "**Crafting (Shapeless)**"
 msgstr ""
 
-#: src/main/java/tsp/slimebot/util/Utils.java:192
+#: src/main/java/tsp/slimebot/util/Utils.java:194
 msgid "**Furnace**"
 msgstr ""
 
-#: src/main/java/tsp/slimebot/util/Utils.java:193
+#: src/main/java/tsp/slimebot/util/Utils.java:195
 msgid " > Input: "
 msgstr ""
 
-#: src/main/java/tsp/slimebot/util/Utils.java:194
+#: src/main/java/tsp/slimebot/util/Utils.java:196
 msgid " > Result: "
 msgstr ""
 
-#: src/main/java/tsp/slimebot/util/Utils.java:255
+#: src/main/java/tsp/slimebot/util/Utils.java:257
 msgid "Requested by "
 msgstr ""

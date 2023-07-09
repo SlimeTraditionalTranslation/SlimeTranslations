@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-07-08 18:37+0000\n"
+"POT-Creation-Date: 2023-07-09 12:24+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -292,9 +292,10 @@ msgid "&7)"
 msgstr ""
 
 #: src/main/java/tsp/slimebot/command/minecraft/SlimeBotCommand.java:25
+#, java-format
 msgid ""
 "\n"
-"&7Created by &a"
+"&7Created by &a{0}"
 msgstr ""
 
 #: src/main/java/tsp/slimebot/command/minecraft/SlimeBotCommand.java:29
@@ -302,11 +303,8 @@ msgid "&7Click to visit the GitHub page."
 msgstr ""
 
 #: src/main/java/tsp/slimebot/command/minecraft/SlimeBotCommand.java:33
-msgid "&7Compiled by &a"
-msgstr ""
-
-#: src/main/java/tsp/slimebot/command/minecraft/SlimeBotCommand.java:33
-msgid " &7on &a"
+#, java-format
+msgid "&7Compiled by &a{0} &7on &a{1}"
 msgstr ""
 
 #: src/main/java/tsp/slimebot/listener/discord/BotReadyListener.java:18
@@ -514,5 +512,6 @@ msgid " > Result: "
 msgstr ""
 
 #: src/main/java/tsp/slimebot/util/Utils.java:257
-msgid "Requested by "
+#, java-format
+msgid "Requested by {0}"
 msgstr ""

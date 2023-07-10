@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-07-09 12:24+0000\n"
+"POT-Creation-Date: 2023-07-10 09:34+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -54,7 +54,7 @@ msgid " (Build "
 msgstr ""
 
 #: src/main/java/tsp/slimebot/SlimeBot.java:54
-#: src/main/java/tsp/slimebot/bot/Bot.java:44
+#: src/main/java/tsp/slimebot/bot/Bot.java:45
 #: src/main/java/tsp/slimebot/command/discord/PlayerCommand.java:36
 #: src/main/java/tsp/slimebot/command/discord/PlayerCommand.java:38
 msgid ")"
@@ -76,38 +76,32 @@ msgstr ""
 msgid "Bot failed to login! Make sure the token is correct inside the config."
 msgstr ""
 
-#: src/main/java/tsp/slimebot/bot/Bot.java:44
+#: src/main/java/tsp/slimebot/bot/Bot.java:45
 msgid "Bot is running on thread: "
 msgstr ""
 
-#: src/main/java/tsp/slimebot/bot/Bot.java:44
+#: src/main/java/tsp/slimebot/bot/Bot.java:45
 msgid " (ID: "
 msgstr ""
 
-#: src/main/java/tsp/slimebot/bot/Bot.java:45
+#: src/main/java/tsp/slimebot/bot/Bot.java:46
 msgid "Bot is running on account: "
 msgstr ""
 
-#: src/main/java/tsp/slimebot/bot/Bot.java:46
+#: src/main/java/tsp/slimebot/bot/Bot.java:47
 msgid "Invite: "
 msgstr ""
 
 #: src/main/java/tsp/slimebot/command/discord/AddonsCommand.java:36
-msgid ""
-"\n"
-"> Description: "
+msgid "> Description: "
 msgstr ""
 
 #: src/main/java/tsp/slimebot/command/discord/AddonsCommand.java:37
-msgid ""
-"\n"
-"> Version: "
+msgid "> Version: "
 msgstr ""
 
 #: src/main/java/tsp/slimebot/command/discord/AddonsCommand.java:38
-msgid ""
-"\n"
-"> Authors: "
+msgid "> Authors: "
 msgstr ""
 
 #: src/main/java/tsp/slimebot/command/discord/AddonsCommand.java:38
@@ -115,41 +109,23 @@ msgid ", "
 msgstr ""
 
 #: src/main/java/tsp/slimebot/command/discord/AddonsCommand.java:39
-msgid ""
-"\n"
-"> Website: "
+msgid "> Website: "
 msgstr ""
 
 #: src/main/java/tsp/slimebot/command/discord/AddonsCommand.java:42
-msgid ""
-"\n"
-"> Main: "
+msgid "> Main: "
 msgstr ""
 
 #: src/main/java/tsp/slimebot/command/discord/AddonsCommand.java:43
-msgid ""
-"\n"
-"> API Version: "
+msgid "> API Version: "
 msgstr ""
 
 #: src/main/java/tsp/slimebot/command/discord/AddonsCommand.java:44
-msgid ""
-"\n"
-"> Load: "
+msgid "> Load: "
 msgstr ""
 
 #: src/main/java/tsp/slimebot/command/discord/AddonsCommand.java:45
-msgid ""
-"\n"
-"> Libraries: "
-msgstr ""
-
-#: src/main/java/tsp/slimebot/command/discord/AddonsCommand.java:48
-#: src/main/java/tsp/slimebot/util/Utils.java:60
-#: src/main/java/tsp/slimebot/util/Utils.java:68
-msgid ""
-"\n"
-"\n"
+msgid "> Libraries: "
 msgstr ""
 
 #: src/main/java/tsp/slimebot/command/discord/AddonsCommand.java:51
@@ -180,12 +156,20 @@ msgstr ""
 msgid "Groups | Page: "
 msgstr ""
 
-#: src/main/java/tsp/slimebot/command/discord/IDCommand.java:24
+#: src/main/java/tsp/slimebot/command/discord/IDCommand.java:26
 msgid "Not in a guild."
 msgstr ""
 
-#: src/main/java/tsp/slimebot/command/discord/IDCommand.java:25
+#: src/main/java/tsp/slimebot/command/discord/IDCommand.java:27
 msgid "You must run this command in a guild!"
+msgstr ""
+
+#: src/main/java/tsp/slimebot/command/discord/IDCommand.java:43
+msgid "Not a text channel!"
+msgstr ""
+
+#: src/main/java/tsp/slimebot/command/discord/IDCommand.java:50
+msgid "Retrieved ID"
 msgstr ""
 
 #: src/main/java/tsp/slimebot/command/discord/ItemCommand.java:26
@@ -228,15 +212,11 @@ msgid " ("
 msgstr ""
 
 #: src/main/java/tsp/slimebot/command/discord/PlayerCommand.java:37
-msgid ""
-"\n"
-"Title: "
+msgid "Title: "
 msgstr ""
 
 #: src/main/java/tsp/slimebot/command/discord/PlayerCommand.java:38
-msgid ""
-"\n"
-"Research Progress: "
+msgid "Research Progress: "
 msgstr ""
 
 #: src/main/java/tsp/slimebot/command/discord/PlayerCommand.java:38
@@ -248,15 +228,11 @@ msgid " / "
 msgstr ""
 
 #: src/main/java/tsp/slimebot/command/discord/PlayerCommand.java:39
-msgid ""
-"\n"
-"Total XP Levels spent: "
+msgid "Total XP Levels spent: "
 msgstr ""
 
 #: src/main/java/tsp/slimebot/command/discord/PlayerCommand.java:41
-msgid ""
-"\n"
-"**Armor**"
+msgid "**Armor**"
 msgstr ""
 
 #: src/main/java/tsp/slimebot/command/discord/RecipeCommand.java:36
@@ -413,32 +389,31 @@ msgid " unlocked a research!"
 msgstr ""
 
 #: src/main/java/tsp/slimebot/util/Utils.java:58
-msgid ""
-"\n"
-" > ID: "
-msgstr ""
-
-#: src/main/java/tsp/slimebot/util/Utils.java:59
-#: src/main/java/tsp/slimebot/util/Utils.java:67
-msgid ""
-"\n"
-" > Items included: "
-msgstr ""
-
-#: src/main/java/tsp/slimebot/util/Utils.java:66
-msgid ""
-"\n"
-" > Tier: "
-msgstr ""
-
-#: src/main/java/tsp/slimebot/util/Utils.java:73
-msgid ","
-msgstr ""
-
 #: src/main/java/tsp/slimebot/util/Utils.java:92
 #: src/main/java/tsp/slimebot/util/Utils.java:100
 #: src/main/java/tsp/slimebot/util/Utils.java:110
 msgid " > ID: "
+msgstr ""
+
+#: src/main/java/tsp/slimebot/util/Utils.java:59
+#: src/main/java/tsp/slimebot/util/Utils.java:67
+#: src/main/java/tsp/slimebot/util/Utils.java:113
+msgid " > Items included: "
+msgstr ""
+
+#: src/main/java/tsp/slimebot/util/Utils.java:66
+#: src/main/java/tsp/slimebot/util/Utils.java:102
+msgid " > Tier: "
+msgstr ""
+
+#: src/main/java/tsp/slimebot/util/Utils.java:68
+msgid ""
+"\n"
+"\n"
+msgstr ""
+
+#: src/main/java/tsp/slimebot/util/Utils.java:73
+msgid ","
 msgstr ""
 
 #: src/main/java/tsp/slimebot/util/Utils.java:93
@@ -459,16 +434,8 @@ msgstr ""
 msgid " > Name: "
 msgstr ""
 
-#: src/main/java/tsp/slimebot/util/Utils.java:102
-msgid " > Tier: "
-msgstr ""
-
 #: src/main/java/tsp/slimebot/util/Utils.java:112
 msgid " > Cost: "
-msgstr ""
-
-#: src/main/java/tsp/slimebot/util/Utils.java:113
-msgid " > Items included: "
 msgstr ""
 
 #: src/main/java/tsp/slimebot/util/Utils.java:123

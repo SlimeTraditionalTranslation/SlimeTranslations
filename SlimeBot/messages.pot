@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-07-10 09:52+0000\n"
+"POT-Creation-Date: 2023-07-10 10:05+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -252,18 +252,13 @@ msgid "&7Running &aSlimeBot - "
 msgstr ""
 
 #: src/main/java/tsp/slimebot/command/minecraft/SlimeBotCommand.java:24
-msgid " &7(&aBuild "
-msgstr ""
-
-#: src/main/java/tsp/slimebot/command/minecraft/SlimeBotCommand.java:24
-msgid "&7)"
+#, java-format
+msgid " &7(&aBuild {0}&7)"
 msgstr ""
 
 #: src/main/java/tsp/slimebot/command/minecraft/SlimeBotCommand.java:25
 #, java-format
-msgid ""
-"\n"
-"&7Created by &a{0}"
+msgid "&7Created by &a{0}"
 msgstr ""
 
 #: src/main/java/tsp/slimebot/command/minecraft/SlimeBotCommand.java:29

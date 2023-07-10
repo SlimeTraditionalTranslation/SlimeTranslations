@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-07-10 09:34+0000\n"
+"POT-Creation-Date: 2023-07-10 09:52+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -50,14 +50,8 @@ msgid "Loading SlimeBot - "
 msgstr ""
 
 #: src/main/java/tsp/slimebot/SlimeBot.java:54
-msgid " (Build "
-msgstr ""
-
-#: src/main/java/tsp/slimebot/SlimeBot.java:54
-#: src/main/java/tsp/slimebot/bot/Bot.java:45
-#: src/main/java/tsp/slimebot/command/discord/PlayerCommand.java:36
-#: src/main/java/tsp/slimebot/command/discord/PlayerCommand.java:38
-msgid ")"
+#, java-format
+msgid " (Build {0})"
 msgstr ""
 
 #: src/main/java/tsp/slimebot/SlimeBot.java:58
@@ -81,7 +75,8 @@ msgid "Bot is running on thread: "
 msgstr ""
 
 #: src/main/java/tsp/slimebot/bot/Bot.java:45
-msgid " (ID: "
+#, java-format
+msgid " (ID: {0})"
 msgstr ""
 
 #: src/main/java/tsp/slimebot/bot/Bot.java:46
@@ -207,8 +202,8 @@ msgid " Items | Page: "
 msgstr ""
 
 #: src/main/java/tsp/slimebot/command/discord/PlayerCommand.java:36
-#: src/main/java/tsp/slimebot/listener/discord/DiscordCommandListener.java:48
-msgid " ("
+#, java-format
+msgid " ({0})"
 msgstr ""
 
 #: src/main/java/tsp/slimebot/command/discord/PlayerCommand.java:37
@@ -220,11 +215,8 @@ msgid "Research Progress: "
 msgstr ""
 
 #: src/main/java/tsp/slimebot/command/discord/PlayerCommand.java:38
-msgid "% "
-msgstr ""
-
-#: src/main/java/tsp/slimebot/command/discord/PlayerCommand.java:38
-msgid " / "
+#, java-format
+msgid "({0} / {1})"
 msgstr ""
 
 #: src/main/java/tsp/slimebot/command/discord/PlayerCommand.java:39
@@ -377,7 +369,8 @@ msgid "You do not have permission to run this command!"
 msgstr ""
 
 #: src/main/java/tsp/slimebot/listener/discord/DiscordCommandListener.java:48
-msgid ") executed command: "
+#, java-format
+msgid "{0} ({1}) executed command: {2}"
 msgstr ""
 
 #: src/main/java/tsp/slimebot/listener/minecraft/ResearchUnlockListener.java:32
@@ -404,12 +397,6 @@ msgstr ""
 #: src/main/java/tsp/slimebot/util/Utils.java:66
 #: src/main/java/tsp/slimebot/util/Utils.java:102
 msgid " > Tier: "
-msgstr ""
-
-#: src/main/java/tsp/slimebot/util/Utils.java:68
-msgid ""
-"\n"
-"\n"
 msgstr ""
 
 #: src/main/java/tsp/slimebot/util/Utils.java:73

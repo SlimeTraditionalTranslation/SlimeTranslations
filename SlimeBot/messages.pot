@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-07-10 10:05+0000\n"
+"POT-Creation-Date: 2023-07-10 16:05+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -373,7 +373,8 @@ msgid "Invalid channel id: "
 msgstr ""
 
 #: src/main/java/tsp/slimebot/listener/minecraft/ResearchUnlockListener.java:37
-msgid " unlocked a research!"
+#, java-format
+msgid " {0} unlocked a research!"
 msgstr ""
 
 #: src/main/java/tsp/slimebot/util/Utils.java:58

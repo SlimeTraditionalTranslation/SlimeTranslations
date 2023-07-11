@@ -1,0 +1,89 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-11 08:25+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/main/java/io/github/thebusybiscuit/souljars/SoulJars.java:74
+msgid "&bSoul Jar &7(Empty)"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/souljars/SoulJars.java:74
+msgid "&rKill a Mob while having this"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/souljars/SoulJars.java:74
+msgid "&rItem in your Inventory to bind"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/souljars/SoulJars.java:74
+msgid "&rtheir Soul to this Jar"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/souljars/SoulJars.java:75
+msgid "&bSoul Jars"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/souljars/SoulJars.java:75
+msgid "&a> Click to open"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/souljars/SoulJars.java:76
+msgid "&cKill the specified Mob"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/souljars/SoulJars.java:76
+msgid "&cwhile having an empty Soul Jar"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/souljars/SoulJars.java:76
+msgid "&cin your Inventory"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/souljars/SoulJars.java:86
+#, java-format
+msgid "{0}: Possibly invalid mob type: {1}"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/souljars/SoulJars.java:107
+#, java-format
+msgid "&cSoul Jar &7({0})"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/souljars/SoulJars.java:107
+msgid "&7Infused Souls: &e1"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/souljars/SoulJars.java:109
+#: src/main/java/io/github/thebusybiscuit/souljars/SoulJars.java:114
+#, java-format
+msgid "&rKill {0}x {1}"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/souljars/SoulJars.java:112
+#, java-format
+msgid "&cFilled Soul Jar &7({0})"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/souljars/SoulJars.java:112
+#, java-format
+msgid "&7Infused Souls: &e{0}"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/souljars/SoulJars.java:119
+#, java-format
+msgid "&cBroken Spawner &7({0})"
+msgstr ""

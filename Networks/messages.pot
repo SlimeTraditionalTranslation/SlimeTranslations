@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-08-10 10:31+0000\n"
+"POT-Creation-Date: 2023-08-10 11:02+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -515,7 +515,7 @@ msgid "to grab the first possible item from"
 msgstr ""
 
 #: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:331
-#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:343
+msgctxt "networks.vanilla_grabber.lore.03"
 msgid "the chosen vanilla inventory."
 msgstr ""
 
@@ -537,6 +537,11 @@ msgstr ""
 
 #: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:342
 msgid "to push any item inside itself into"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:343
+msgctxt "networks.vanilla_pusher.lore.03"
+msgid "the chosen vanilla inventory."
 msgstr ""
 
 #: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:344

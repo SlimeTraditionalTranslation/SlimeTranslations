@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-08-09 14:21+0000\n"
+"POT-Creation-Date: 2023-08-10 10:31+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,11 +17,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: src/main/java/io/github/sefiraat/networks/Networks.java:85
+#: src/main/java/io/github/sefiraat/networks/Networks.java:86
 msgid "Netheopoiesis must be updated to meet Networks' requirements."
 msgstr ""
 
-#: src/main/java/io/github/sefiraat/networks/Networks.java:95
+#: src/main/java/io/github/sefiraat/networks/Networks.java:96
 msgid "Number of networks"
 msgstr ""
 
@@ -507,8 +507,7 @@ msgid "Network Vanilla Grabber"
 msgstr ""
 
 #: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:329
-#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:341
-msgid "The Network Vanilla Pusher will try"
+msgid "The Network Vanilla Grabber will try"
 msgstr ""
 
 #: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:330
@@ -530,6 +529,10 @@ msgstr ""
 
 #: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:340
 msgid "Network Vanilla Pusher"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:341
+msgid "The Network Vanilla Pusher will try"
 msgstr ""
 
 #: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:342

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-08-10 11:02+0000\n"
+"POT-Creation-Date: 2023-08-10 12:38+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -814,8 +814,6 @@ msgstr ""
 #: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:546
 #: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:558
 #: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:570
-#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:582
-#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:597
 msgid "The Network Capacitor can take"
 msgstr ""
 
@@ -857,6 +855,11 @@ msgstr ""
 msgid "Network Power Outlet (1)"
 msgstr ""
 
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:582
+msgctxt "networks.power_outlet.01.lore.01"
+msgid "The Network Capacitor can take"
+msgstr ""
+
 #: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:583
 #: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:598
 msgid "power from the Network to power"
@@ -885,6 +888,11 @@ msgstr ""
 
 #: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:596
 msgid "Network Power Outlet (2)"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:597
+msgctxt "networks.power_outlet.02.lore.01"
+msgid "The Network Capacitor can take"
 msgstr ""
 
 #: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:611

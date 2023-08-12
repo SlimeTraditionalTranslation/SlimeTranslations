@@ -1,0 +1,1739 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: slimetranslations\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-11 11:46+0000\n"
+"PO-Revision-Date: 2023-08-12 09:40\n"
+"Last-Translator: \n"
+"Language-Team: Chinese Traditional\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: slimetranslations\n"
+"X-Crowdin-Project-ID: 585775\n"
+"X-Crowdin-Language: zh-TW\n"
+"X-Crowdin-File: /Networks/messages.pot\n"
+"X-Crowdin-File-ID: 3051\n"
+
+#: src/main/java/io/github/sefiraat/networks/Networks.java:86
+msgid "Netheopoiesis must be updated to meet Networks' requirements."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/Networks.java:96
+msgid "Number of networks"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/commands/NetworksMain.java:65
+#: src/main/java/io/github/sefiraat/networks/commands/NetworksMain.java:72
+msgid "Item in hand must be a Quantum Storage."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/commands/NetworksMain.java:84
+msgid "This card has either not been set to an item yet or is a corrupted Quantum Storage."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/commands/NetworksMain.java:92
+msgid "Item updated"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/network/stackcaches/CardInstance.java:76
+msgid "Empty"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/network/stackcaches/CardInstance.java:85
+msgid "Unknown/Error"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/network/stackcaches/QuantumCache.java:92
+#: src/main/java/io/github/sefiraat/networks/network/stackcaches/QuantumCache.java:101
+msgid "Holding: "
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/network/stackcaches/QuantumCache.java:95
+#: src/main/java/io/github/sefiraat/networks/network/stackcaches/QuantumCache.java:104
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/NetworkQuantumStorage.java:434
+msgid "Amount: "
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetheoPlants.java:26
+msgid "Stone Chunk Seed"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetheoPlants.java:27
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetheoPlants.java:45
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetheoPlants.java:54
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetheoPlants.java:63
+msgid "This seed, when fully grown, will"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetheoPlants.java:27
+msgid "provide Stone Chunks when"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetheoPlants.java:27
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetheoPlants.java:45
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetheoPlants.java:54
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetheoPlants.java:63
+msgid "harvested."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetheoPlants.java:28
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetheoPlants.java:37
+msgid "Nether Grass (or better)"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetheoPlants.java:35
+msgid "Synthetic Seed"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetheoPlants.java:36
+msgid "This seed does nothing."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetheoPlants.java:44
+msgid "Synthetic Emerald Seed"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetheoPlants.java:45
+msgid "provide Synthetic Emeralds when"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetheoPlants.java:46
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetheoPlants.java:55
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetheoPlants.java:64
+msgid "Voracious Dirt (or better)"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetheoPlants.java:53
+msgid "Synthetic Diamond Seed"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetheoPlants.java:54
+msgid "provide Synthetic Diamonds when"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetheoPlants.java:62
+msgid "Fragmented Seed"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetheoPlants.java:63
+msgid "provide Synthetic Emerald Shards when"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksItemGroups.java:26
+msgid "Networks"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksItemGroups.java:34
+msgid "Crafting Materials"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksItemGroups.java:42
+msgid "Network Management Tools"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksItemGroups.java:50
+msgid "Network Items"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksItemGroups.java:58
+msgid "Network Quantum Storage Devices"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksItemGroups.java:66
+msgid "Disabled/Removed Items"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:102
+msgid "Synthetic Emerald Shard"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:103
+msgid "A shard of synthetic emerald that"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:104
+msgid "is the backbone for information"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:105
+msgid "transference."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:112
+msgid "Optic Glass"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:113
+msgid "A simple glass that is able to"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:114
+msgid "transfer small bits of information."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:121
+msgid "Optic Cable"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:122
+msgid "A simple wire that is able to"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:123
+msgid "transfer large bits of information."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:130
+msgid "Optic Star"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:131
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:140
+msgid "A crystalline star structure that"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:132
+msgid "can transfer large bits of information."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:139
+msgid "Radioactive Optic Star"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:141
+msgid "can store insane amounts of information."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:148
+msgid "Shrinking Base"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:149
+msgid "An advanced construct able to make"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:150
+msgid "big things go small."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:157
+msgid "Simple Nanobots"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:158
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:167
+msgid "Teeny Tiny little bots that can"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:159
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:168
+msgid "help you with precise tasks."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:166
+msgid "Advanced Nanobots"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:169
+msgid "This version is smarter and faster."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:176
+msgid "A.I. Core"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:177
+msgid "A burgeoning artificial intelligence"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:178
+msgid "resides within this weak shell."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:185
+msgid "Empowered A.I. Core"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:186
+msgid "A flourishing artificial intelligence"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:187
+msgid "resides within this shell."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:194
+msgid "Pristine A.I. Core"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:195
+msgid "A perfected artificial intelligence"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:196
+msgid "resides within this defined shell."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:203
+msgid "Interdimensional Presence"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:204
+msgid "An artificial intelligence that has"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:205
+msgid "grown too powerful for just a"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:206
+msgid "single dimension."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:213
+msgid "Network Controller"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:214
+msgid "The Network controller is the brain"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:215
+msgid "for the whole network. Max 1 per network."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:222
+msgid "Network Bridge"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:223
+msgid "The bridge allows you to cheaply"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:224
+msgid "connect network objects together."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:231
+msgid "Network Monitor"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:232
+msgid "The Network Monitor allows simple"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:233
+msgid "import/export interaction with adjacent"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:234
+msgid "objects."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:236
+msgid "Currently Supports:"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:237
+msgid "Infinity Barrels"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:238
+msgid "Network Shells"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:245
+msgid "Network Importer"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:246
+msgid "The Network Importer brings any"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:247
+msgid "item inside it into the network, up"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:248
+msgid "to 9 stacks per SF tick."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:249
+msgid "Accepts items in from cargo."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:256
+msgid "Network Exporter"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:257
+msgid "The Network Exporter can be set to"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:258
+msgid "constantly export 1 stack of any"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:259
+msgid "given item."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:260
+msgid "Accepts item withdrawal from cargo."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:267
+msgid "Network Grabber"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:268
+msgid "The Network Grabber will try"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:269
+msgid "to grab the first item it finds"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:270
+msgid "from within the selected machine."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:277
+msgid "Network Pusher"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:278
+msgid "The Network Pusher will try"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:279
+msgid "to push a matching item from a"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:280
+msgid "given item into the chosen machine."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:287
+msgid "Network Control: X"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:288
+msgid "The Network Control: X will try"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:289
+msgid "to 'cut' a block out of the world"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:290
+msgid "and put it into the Network."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:291
+msgid "Only works on Vanilla blocks without"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:292
+msgid "inventories."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:294
+#, java-format
+msgid "{0}Network Drain: {1}{2}/cut"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:301
+msgid "Network Control: V"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:302
+msgid "The Network Control: V will try"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:303
+msgid "to 'paste' a block from the Network"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:304
+msgid "into the world."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:305
+msgid "Only works with Vanilla blocks."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:307
+#, java-format
+msgid "{0}Network Drain: {1}{2}/paste"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:314
+msgid "Network Vacuum"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:315
+msgid "The Network Vacuum will suck"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:316
+msgid "items into itself within a"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:317
+msgid "4 x 4 range centered on itself."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:318
+msgid "Vacuumed items will try to push"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:319
+msgid "into the Network."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:321
+#, java-format
+msgid "{0}Network Drain: {1}{2}/tick"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:328
+msgid "Network Vanilla Grabber"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:329
+msgid "The Network Vanilla Grabber will try"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:330
+msgid "to grab the first possible item from"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:331
+msgctxt "networks.vanilla_grabber.lore.03"
+msgid "the chosen vanilla inventory."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:332
+msgid "You need to grab items from this"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:333
+msgid "node using a Grabber."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:340
+msgid "Network Vanilla Pusher"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:341
+msgid "The Network Vanilla Pusher will try"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:342
+msgid "to push any item inside itself into"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:343
+msgctxt "networks.vanilla_pusher.lore.03"
+msgid "the chosen vanilla inventory."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:344
+msgid "You need to push items into this"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:345
+msgid "node from a Pusher."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:352
+msgid "Network Wireless Transmitter"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:353
+msgid "The Network Wireless Transmitter will"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:354
+msgid "try to transmit any item inside itself"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:355
+msgid "to a linked Network Wireless Receiver"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:356
+msgid "located within the same world."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:357
+msgid "Use the Wireless Configurator to"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:358
+msgid "setup the Wireless Transmitter."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:359
+msgid "Requires 500 Network Power per transfer."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:366
+msgid "Network Wireless Receiver"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:367
+msgid "The Network Wireless Receiver is"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:368
+msgid "able to receive items from a linked"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:369
+msgid "wireless transmitter located within"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:370
+msgid "the same world."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:371
+msgid "It will try to push received items"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:372
+msgid "into the Network each tick."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:379
+msgid "Network Purger"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:380
+msgid "The Network Purger will pull"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:381
+msgid "matching items from the network"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:382
+msgid "and instantly void them."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:383
+msgid "Use with great care!"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:390
+msgid "Network Grid"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:391
+msgid "The Network Grid shows you all"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:392
+msgid "the items you have in the network"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:393
+msgid "and lets you insert or withdraw"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:394
+msgid "directly."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:401
+msgid "Network Crafting Grid"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:402
+msgid "The Network Crafting Grid acts"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:403
+msgid "like a normal grid but displays less"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:404
+msgid "items but allows crafting using items"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:405
+msgid "directly from the network."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:412
+msgid "Network Cell"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:413
+msgid "The Network Cell is a large"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:414
+msgid "(double chest) inventory that can"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:415
+msgid "be accessed both from the network"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:416
+msgid "and in the world."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:423
+msgid "Network Greedy Block"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:424
+msgid "The Network Greedy Block can"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:425
+msgid "be set to one item which it will"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:426
+msgid "then greedily hold on to a single"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:427
+msgid "stack of. If more incoming items"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:428
+msgid "do not fit, they will not enter"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:429
+msgid "the network."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:436
+msgid "Network Quantum Workbench"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:437
+msgid "Allows the crafting of Quantum Storages."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:445
+msgid "Network Quantum Storage (4K)"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:446
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:457
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:468
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:479
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:490
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:501
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:512
+msgid "Stores "
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:446
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:457
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:468
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:479
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:490
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:501
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:512
+msgid " items"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:448
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:459
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:470
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:481
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:492
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:503
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:514
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:525
+msgid "Stores items in mass quantities within"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:449
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:460
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:471
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:482
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:493
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:504
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:515
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:526
+msgid "a quantum singularity."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:456
+msgid "Network Quantum Storage (32K)"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:467
+msgid "Network Quantum Storage (262K)"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:478
+msgid "Network Quantum Storage (2M)"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:489
+msgid "Network Quantum Storage (16M)"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:500
+msgid "Network Quantum Storage (134M)"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:511
+msgid "Network Quantum Storage (1B)"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:522
+msgid "Network Quantum Storage (∞)"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:523
+msgid "Stores ∞ items... almost"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:533
+msgid "Network Capacitor (1)"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:534
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:546
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:558
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:570
+msgid "The Network Capacitor can take"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:535
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:547
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:559
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:571
+msgid "power in and store it for use"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:536
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:548
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:560
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:572
+msgid "within the network."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:538
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:550
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:562
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:574
+#, java-format
+msgid "{0}Capacity: {1}{2}"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:545
+msgid "Network Capacitor (2)"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:557
+msgid "Network Capacitor (3)"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:569
+msgid "Network Capacitor (4)"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:581
+msgid "Network Power Outlet (1)"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:582
+msgctxt "networks.power_outlet.01.lore.01"
+msgid "The Network Capacitor can take"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:583
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:598
+msgid "power from the Network to power"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:584
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:599
+msgid "machines or feed back into an"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:585
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:600
+msgid "EnergyNet network."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:587
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:602
+msgid "Operates at a 20% loss rate."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:589
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:604
+#, java-format
+msgid "{0}Max Transfer: {1}{2}"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:596
+msgid "Network Power Outlet (2)"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:597
+msgctxt "networks.power_outlet.02.lore.01"
+msgid "The Network Capacitor can take"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:611
+msgid "Network Power Display"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:612
+msgid "The Network Power Display will"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:613
+msgid "display the power in the network."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:614
+msgid "Simple, right?"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:621
+msgid "Network Recipe Encoder"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:622
+msgid "Used to form a Crafting Blueprint"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:623
+msgid "from input items."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:625
+#, java-format
+msgid "{0}Network Drain: {1}{2}/encode"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:632
+msgid "Network Auto Crafter"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:633
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:648
+msgid "The Network Auto Crafter accepts"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:634
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:649
+msgid "a crafting blueprint. When the"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:635
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:650
+msgid "blueprint output item is requested"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:636
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:651
+msgid "while there is none in the network"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:637
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:652
+msgid "it will be crafted if you have"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:638
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:653
+msgid "materials."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:640
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:661
+#, java-format
+msgid "{0}Network Drain: {1}{2}/craft"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:647
+msgid "Network Auto Crafter (Withholding)"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:655
+msgid "A Withholding Crafter will keep"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:656
+msgid "a stack in the output and stop"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:657
+msgid "crafting. The stack can been seen"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:658
+msgid "in the Network and also allows for"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:659
+msgid "cargo."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:668
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/NetworkAutoCrafter.java:57
+msgid "Crafting Blueprint"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:669
+msgid "A blank blueprint that can"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:670
+msgid "be used to store a crafting"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:671
+msgid "recipe."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:678
+msgid "Network Probe"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:679
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:732
+msgid "When used on a controller, this will"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:680
+msgid "show the nodes on the network."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:687
+msgid "Network Remote"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:688
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:699
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:710
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:721
+msgid "Opens a bound grid wirelessly."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:689
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:700
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:711
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:722
+msgid "The grid must be chunk loaded."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:691
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:702
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:713
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:724
+#, java-format
+msgid "{0}Range: {1}{2}"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:698
+msgid "Network Remote Empowered"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:709
+msgid "Network Remote Pristine"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:713
+msgid "Unlimited"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:720
+msgid "Network Remote Ultimate"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:724
+msgid "Cross Dimensional"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:731
+msgid "Network Crayon"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:733
+msgid "enable particle display from specific"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:734
+msgid "blocks when working."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:741
+msgid "Network Configurator"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:742
+msgid "Used to copy and paste the"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:743
+msgid "configurations of directional"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:744
+msgid "interfaces."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:746
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:758
+#, java-format
+msgid "{0}Right Click: {1}{2}"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:746
+msgid "Apply Config"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:747
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:759
+#, java-format
+msgid "{0}Shift Right Click: {1}{2}"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:747
+msgid "Store Config"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:754
+msgid "Network Wireless Configurator"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:755
+msgid "Used to store a Receiver location"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:756
+msgid "and then to apply to a Transmitter"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:758
+msgid "Store Receiver Location"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:759
+msgid "Set Location to Transmitter"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:766
+msgid "Network Rake (1)"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:767
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:778
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:789
+msgid "Right click a Network Object to"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:768
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:779
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:790
+msgid "break it instantly."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:770
+msgid "250 Uses "
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:770
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:781
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:792
+msgid "left"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:777
+msgid "Network Rake (2)"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:781
+msgid "1000 Uses "
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:788
+msgid "Network Rake (3)"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:792
+msgid "9999 Uses "
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:799
+msgid "Network Debug Stick"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:800
+msgctxt "networks.debug_stick.lore.01"
+msgid "Right click a Network Object to"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/NetworksSlimefunItemStacks.java:801
+msgid "turn on debugging."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/groups/MainFlexGroup.java:32
+msgid "Documentation Wiki"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/groups/MainFlexGroup.java:33
+msgid "Click to get the link to the"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/groups/MainFlexGroup.java:34
+msgid "documentation Wiki for Networks"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/groups/MainFlexGroup.java:35
+msgid "and other Sefiraat addons."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/groups/MainFlexGroup.java:103
+msgid "To access the documentation Wiki, please click here"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/AdminDebuggable.java:30
+msgid "Debugging for this block has been set to: "
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/AdminDebuggable.java:32
+msgid "It will last until a restart or you toggle it off."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/NetworkAutoCrafter.java:61
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/NetworkQuantumStorage.java:94
+msgid "Output"
+msgstr "輸出"
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/NetworkControlV.java:53
+msgid "Paste items matching template"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/NetworkControlX.java:53
+msgid "Cut items matching template."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/NetworkControlX.java:54
+msgid "Leaving blank will cut anything"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/NetworkDirectional.java:315
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/NetworkDirectional.java:335
+msgid "Direction "
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/NetworkDirectional.java:323
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/NetworkDirectional.java:343
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/grid/NetworkCraftingGrid.java:57
+msgid "Left Click: "
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/NetworkDirectional.java:323
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/NetworkDirectional.java:343
+msgid "Set Direction"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/NetworkDirectional.java:324
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/NetworkDirectional.java:344
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/grid/NetworkCraftingGrid.java:58
+msgid "Shift Left Click: "
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/NetworkDirectional.java:324
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/NetworkDirectional.java:344
+msgid "Open Target Block"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/NetworkDirectional.java:352
+msgid "Set direction: "
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/NetworkEncoder.java:53
+msgid "Blank Blueprint"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/NetworkEncoder.java:57
+msgid "Click to encode when valid"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/NetworkEncoder.java:114
+msgid "Not enough Network power to fulfill this task."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/NetworkEncoder.java:121
+msgid "The output slot must be empty."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/NetworkEncoder.java:128
+msgid "You need to provide a blank blueprint"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/NetworkEncoder.java:161
+msgid "Doesn't look like this is a valid recipe."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/NetworkExport.java:45
+msgid "Export Item Matching"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/NetworkExport.java:50
+msgid "Output Slot"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/NetworkGreedyBlock.java:38
+msgid "Store items matching"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/NetworkGreedyBlock.java:43
+msgid "Storage"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/NetworkPowerDisplay.java:39
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/NetworkPowerDisplay.java:105
+msgid "Status"
+msgstr "狀態"
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/NetworkPowerDisplay.java:40
+msgid "Disconnected"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/NetworkPowerDisplay.java:106
+msgid "Current Network Charge: "
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/NetworkPurger.java:45
+msgid "Purge Item Matching"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/NetworkPusher.java:42
+msgid "Push items matching template"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/NetworkQuantumStorage.java:70
+msgid "Input"
+msgstr "輸入"
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/NetworkQuantumStorage.java:75
+msgid "Item Stored"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/NetworkQuantumStorage.java:80
+msgid "No Registered Item"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/NetworkQuantumStorage.java:81
+msgid "Click the icon below while"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/NetworkQuantumStorage.java:82
+msgid "holding an item to register it."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/NetworkQuantumStorage.java:87
+msgid "Set Item"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/NetworkQuantumStorage.java:88
+msgid "Drag an item on top of this pane to register it."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/NetworkQuantumStorage.java:89
+msgid "Shift Click to change voiding"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/NetworkQuantumStorage.java:211
+msgid "Quantum Storage must be empty before changing the set item."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/NetworkQuantumStorage.java:433
+msgid "Voiding: "
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/NetworkQuantumWorkbench.java:48
+msgid "Click to entangle"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/NetworkQuantumWorkbench.java:58
+msgid "Quantum Workbench"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/NetworkQuantumWorkbench.java:59
+msgid "Crafted using the Quantum Workbench."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/NetworkVanillaGrabber.java:99
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/NetworkVanillaPusher.java:98
+msgid "WildChests detected: "
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/NetworkVanillaGrabber.java:100
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/NetworkVanillaPusher.java:99
+msgid "Block detected as chest: "
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/NetworkVanillaGrabber.java:103
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/NetworkVanillaPusher.java:106
+msgid "WildChest test failed, escaping"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/NetworkVanillaGrabber.java:107
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/NetworkVanillaPusher.java:109
+msgid "WildChest test passed."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/NetworkWirelessReceiver.java:43
+msgid "Received items"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/NetworkWirelessTransmitter.java:49
+msgid "Transmit items matching"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/grid/AbstractGrid.java:53
+msgid "Previous Page"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/grid/AbstractGrid.java:58
+msgid "Next Page"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/grid/AbstractGrid.java:63
+msgid "Change Sort Order"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/grid/AbstractGrid.java:68
+msgid "Set Filter (Right Click to Clear)"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/grid/AbstractGrid.java:241
+msgid "Type what you would like to filter this grid to"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/grid/AbstractGrid.java:247
+msgid "Filter applied"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/grid/AbstractGrid.java:377
+#, java-format
+msgid "{0}Amount: {1}{2}"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/grid/NetworkCraftingGrid.java:56
+msgid "Craft"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/grid/NetworkCraftingGrid.java:57
+msgid "Try to Craft"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/network/grid/NetworkCraftingGrid.java:58
+msgid "Try to return items"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/tools/CanCooldown.java:30
+msgid "This is still on cooldown"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/tools/CraftingBlueprint.java:35
+msgid "Assigned Recipe"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/tools/CraftingBlueprint.java:39
+msgid "Nothing"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/tools/CraftingBlueprint.java:51
+msgid "Outputting"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/tools/NetworkAdminDebugger.java:42
+msgid "You can only use this tool as an op'd player."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/tools/NetworkCard.java:50
+msgid "Unstack cards before assigning an item."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/tools/NetworkCard.java:55
+msgid "This type of item cannot be stored in a Network Card."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/tools/NetworkCard.java:70
+msgid "A card must be empty before trying to assign an item."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/tools/NetworkConfigurator.java:57
+msgid "Must target a directional Networks interface."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/tools/NetworkConfigurator.java:70
+msgid "This directional does not yet have a direction set"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/tools/NetworkConfigurator.java:94
+msgid "Configuration copied."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/tools/NetworkCrayon.java:46
+msgid "Crayon removed from network."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/tools/NetworkCrayon.java:49
+msgid "Crayon added to network."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/tools/NetworkProbe.java:27
+#, java-format
+msgid "{0}{1}: {2}{3}"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/tools/NetworkProbe.java:85
+msgid "       Network Summary        "
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/tools/NetworkProbe.java:88
+msgid "Bridges"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/tools/NetworkProbe.java:89
+msgid "Monitors"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/tools/NetworkProbe.java:90
+msgid "Importers"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/tools/NetworkProbe.java:91
+msgid "Exporters"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/tools/NetworkProbe.java:92
+msgid "Grids"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/tools/NetworkProbe.java:93
+msgid "Cells"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/tools/NetworkProbe.java:94
+msgid "Wipers"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/tools/NetworkProbe.java:95
+msgid "Grabbers"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/tools/NetworkProbe.java:96
+msgid "Pushers"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/tools/NetworkProbe.java:97
+msgid "Purgers"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/tools/NetworkProbe.java:98
+msgid "Crafters"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/tools/NetworkProbe.java:99
+msgid "Power Nodes"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/tools/NetworkProbe.java:100
+msgid "Power Displays"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/tools/NetworkProbe.java:101
+msgid "Encoders"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/tools/NetworkProbe.java:102
+msgid "Distinct Items"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/tools/NetworkProbe.java:103
+msgid "Total Items"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/tools/NetworkProbe.java:106
+msgid "Total Nodes"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/tools/NetworkProbe.java:108
+msgid "Warning: "
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/tools/NetworkProbe.java:109
+msgid "Your network has reached or exceeded the maximum node limit. "
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/tools/NetworkProbe.java:110
+msgid "Nodes beyond the limit will not function, which nodes these are "
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/tools/NetworkProbe.java:111
+msgid "may not always be the same. Reduce your total nodes."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/tools/NetworkRemote.java:59
+msgid "Must be set to a Network Grid (not crafting grid)."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/tools/NetworkRemote.java:75
+msgid "Grid has been bound to the remote."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/tools/NetworkRemote.java:85
+msgid "The bound grid is not loaded."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/tools/NetworkRemote.java:97
+msgid "The bound grid is not within reach."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/tools/NetworkRemote.java:100
+msgid "Remote is not bound to a grid."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/tools/NetworkRemote.java:112
+msgid "The bound grid can no longer be found."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/tools/NetworkWirelessConfigurator.java:58
+msgid "Must target a Network Wireless block."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/tools/NetworkWirelessConfigurator.java:76
+msgid "No Wireless Receiver has been set."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/tools/NetworkWirelessConfigurator.java:81
+msgid "The Wireless Receiver is in a different world."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/tools/NetworkWirelessConfigurator.java:86
+msgid "Set Transmitter's receiver location."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/slimefun/tools/NetworkWirelessConfigurator.java:94
+msgid "Wireless Receiver set."
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/utils/NetworkUtils.java:35
+#: src/main/java/io/github/sefiraat/networks/utils/NetworkUtils.java:40
+msgid "Direction: "
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/utils/NetworkUtils.java:35
+msgid "Not supplied"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/utils/NetworkUtils.java:40
+msgid "Successfully applied"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/utils/NetworkUtils.java:63
+#: src/main/java/io/github/sefiraat/networks/utils/NetworkUtils.java:69
+#: src/main/java/io/github/sefiraat/networks/utils/NetworkUtils.java:72
+msgid "Item ["
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/utils/NetworkUtils.java:63
+#: src/main/java/io/github/sefiraat/networks/utils/NetworkUtils.java:69
+#: src/main/java/io/github/sefiraat/networks/utils/NetworkUtils.java:72
+msgid "]: "
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/utils/NetworkUtils.java:63
+msgid "Item added into filter"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/utils/NetworkUtils.java:69
+msgid "Not enough items to fill filter"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/utils/NetworkUtils.java:72
+msgid "No item in stored config"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/utils/NetworkUtils.java:77
+msgid "Items: "
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/utils/NetworkUtils.java:77
+msgid "No items in stored config"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/utils/Theme.java:20
+msgid "Warning"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/utils/Theme.java:21
+msgid "Error"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/utils/Theme.java:22
+msgid "Notice"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/utils/Theme.java:24
+msgid "Success"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/utils/Theme.java:25
+msgid "Alone"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/utils/Theme.java:26
+msgid "Click here"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/utils/Theme.java:27
+msgid "Research"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/utils/Theme.java:28
+msgid "Crafting Material"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/utils/Theme.java:29
+msgid "Machine"
+msgstr "機器"
+
+#: src/main/java/io/github/sefiraat/networks/utils/Theme.java:30
+msgid "Tool"
+msgstr "工具"
+
+#: src/main/java/io/github/sefiraat/networks/utils/Theme.java:31
+msgid "Mechanism"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/utils/Theme.java:32
+msgid "Fossil Fuel"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/utils/Theme.java:34
+msgid "Recipe Type"
+msgstr ""
+
+#: src/main/java/io/github/sefiraat/networks/utils/Theme.java:35
+msgid "Guide"
+msgstr ""
+
